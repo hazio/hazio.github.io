@@ -8,11 +8,14 @@ const projects = defineCollection({
     status: z.enum(["idea", "active", "paused", "done"]).default("active"),
     tags: z.array(z.string()).default([]),
     year: z.number().optional(),
-    links: z.object({
-      website: z.string().url().optional(),
-      repo: z.string().url().optional(),
-      docs: z.string().url().optional(),
-    }).default({}),
+    links: z
+      .object({
+        website: z.string().url().optional(),
+        repo: z.string().url().optional(),
+        docs: z.string().url().optional(),
+        amazon: z.string().url().optional(),
+      })
+      .default({}),
     featured: z.boolean().default(false),
   }),
 });

@@ -1,0 +1,38 @@
+---
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const projects = await getCollection("projects");
+  return projects.map((p) => ({
+    params: { slug: p.slug },
+    props: { project: p },
+  }));
+}
+
+const { project } = Astro.props;
+const { Content } = await project.render();
+---
+
+<article>
+  <header>
+    {project.data.links && (
+      <p>
+        {project.data.links.website && (
+          <>
+            <a href={project.data.links.website} target="_blank" rel="noreferrer">Website</a>{" · "}
+          </>
+        )}
+        {project.data.links.amazon && (
+          <a href={project.data.links.amazon} target="_blank" rel="noreferrer">Amazon</a>
+        )}
+      </p>
+    )}
+    <h1>{project.data.title}</h1>
+    <p>{project.data.summary}</p>
+    <p>
+      <small>{project.data.status} · {project.data.tags.join(", ")}</small>
+    </p>
+  </header>
+
+  <Content />
+</article>

@@ -1,17 +1,212 @@
 ---
 import { getCollection } from "astro:content";
+
 const projects = await getCollection("projects");
-const sorted = projects.sort((a,b) => (b.data.featured ? 1 : 0) - (a.data.featured ? 1 : 0));
+
+// Featured ensin, sitten title
+const sorted = projects
+  .sort((a, b) => {
+    const af = a.data.featured ? 1 : 0;
+    const bf = b.data.featured ? 1 : 0;
+    if (bf !== af) return bf - af;
+    return String(a.data.title).localeCompare(String(b.data.title));
+  });
+
+const statusLabel = (s) => String(s ?? "").trim() || "Draft";
+
+const statusClass = (s) => {
+  const v = String(s ?? "").toLowerCase();
+  if (v.includes("live") || v.includes("published")) return "is-live";
+  if (v.includes("writing") || v.includes("draft")) return "is-draft";
+  if (v.includes("planned") || v.includes("idea")) return "is-planned";
+  if (v.includes("paused") || v.includes("hold")) return "is-paused";
+  return "is-neutral";
+};
 ---
 
-<h1>Projects</h1>
+<style>
+  :global(body) {
+    margin: 0;
+    font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+    color: #0b0b0f;
+    background: #ffffff;
+  }
 
-<ul>
-  {sorted.map((p) => (
-    <li>
-      <a href={`/projects/${p.slug}/`}>{p.data.title}</a>
-      <div>{p.data.summary}</div>
-      <small>{p.data.status} · {p.data.tags.join(", ")}</small>
-    </li>
-  ))}
-</ul>
+  .wrap {
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 56px 20px 72px;
+  }
+
+  header {
+    display: grid;
+    gap: 14px;
+    margin-bottom: 28px;
+  }
+
+  .kicker {
+    font-size: 12px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.65;
+  }
+
+  h1 {
+    font-size: clamp(32px, 4vw, 44px);
+    line-height: 1.08;
+    margin: 0;
+  }
+
+  .lede {
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 70ch;
+    margin: 0;
+    opacity: 0.82;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 14px;
+    margin-top: 28px;
+  }
+
+  .card {
+    grid-column: span 12;
+    border: 1px solid rgba(0,0,0,0.10);
+    border-radius: 16px;
+    padding: 16px 16px 14px;
+    background: #fff;
+    transition: transform .12s ease, border-color .12s ease, box-shadow .12s ease;
+  }
+
+  .card:hover {
+    transform: translateY(-1px);
+    border-color: rgba(0,0,0,0.18);
+    box-shadow: 0 10px 28px rgba(0,0,0,0.08);
+  }
+
+  @media (min-width: 720px) {
+    .card { grid-column: span 6; padding: 18px; }
+  }
+  @media (min-width: 1020px) {
+    .card { grid-column: span 4; }
+  }
+
+  .topline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+
+  .title {
+    font-size: 16px;
+    margin: 0;
+    line-height: 1.25;
+  }
+
+  .title a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .title a:hover {
+    text-decoration: underline;
+  }
+
+  .badge-row {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+
+  .badge {
+    font-size: 12px;
+    line-height: 1;
+    padding: 6px 10px;
+    border-radius: 999px;
+    border: 1px solid rgba(0,0,0,0.10);
+    background: rgba(0,0,0,0.03);
+    white-space: nowrap;
+  }
+
+  .badge.featured {
+    border-color: rgba(0,0,0,0.14);
+    background: rgba(0,0,0,0.06);
+    font-weight: 600;
+  }
+
+  .badge.is-live { background: rgba(34,197,94,0.12); border-color: rgba(34,197,94,0.25); }
+  .badge.is-draft { background: rgba(59,130,246,0.12); border-color: rgba(59,130,246,0.25); }
+  .badge.is-planned { background: rgba(245,158,11,0.12); border-color: rgba(245,158,11,0.25); }
+  .badge.is-paused { background: rgba(239,68,68,0.12); border-color: rgba(239,68,68,0.25); }
+
+  .summary {
+    margin: 0 0 10px;
+    font-size: 14px;
+    line-height: 1.55;
+    opacity: 0.85;
+    min-height: 44px;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tag {
+    font-size: 12px;
+    line-height: 1;
+    padding: 6px 10px;
+    border-radius: 999px;
+    border: 1px solid rgba(0,0,0,0.10);
+    background: #fff;
+    opacity: 0.9;
+  }
+
+  .muted { opacity: 0.7; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="kicker">halmetojamodel.com</div>
+    <h1>Projects</h1>
+    <p class="lede">
+      A growing set of books, models, and maps - built to explain human dynamics with structure, metaphors, and lived clarity.
+    </p>
+  </header>
+
+  <section class="grid" aria-label="Project list">
+    {sorted.map((p) => (
+      <article class="card">
+        <div class="topline">
+          <h2 class="title">
+            <a href={`/projects/${p.slug}/`}>{p.data.title}</a>
+          </h2>
+
+          <div class="badge-row">
+            {p.data.featured && <span class="badge featured">Featured</span>}
+            <span class={`badge ${statusClass(p.data.status)}`}>{statusLabel(p.data.status)}</span>
+          </div>
+        </div>
+
+        <p class="summary">{p.data.summary}</p>
+
+        <ul class="tags" aria-label="Tags">
+          {(p.data.tags ?? []).slice(0, 6).map((t) => (
+            <li class="tag">{t}</li>
+          ))}
+          {(p.data.tags?.length ?? 0) > 6 && <li class="tag muted">+{p.data.tags.length - 6}</li>}
+        </ul>
+      </article>
+    ))}
+  </section>
+</div>
