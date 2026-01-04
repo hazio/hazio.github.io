@@ -14,26 +14,223 @@ const { project } = Astro.props;
 const { Content } = await project.render();
 ---
 
-<article>
-  <header>
-    {project.data.links && (
-      <p>
-        {project.data.links.website && (
-          <>
-            <a href={project.data.links.website} target="_blank" rel="noreferrer">Website</a>{" · "}
-          </>
-        )}
-        {project.data.links.amazon && (
-          <a href={project.data.links.amazon} target="_blank" rel="noreferrer">Amazon</a>
-        )}
-      </p>
-    )}
-    <h1>{project.data.title}</h1>
-    <p>{project.data.summary}</p>
-    <p>
-      <small>{project.data.status} · {project.data.tags.join(", ")}</small>
-    </p>
-  </header>
+<BaseLayout title={project.data.title}>
+  <style>
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px 16px;
+      min-height: 100vh;
+    }
 
-  <Content />
-</article>
+    @media (min-width: 640px) {
+      .container {
+        padding: 40px 20px;
+      }
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 24px;
+      font-size: 18px;
+      color: #0066cc;
+      text-decoration: none;
+      padding: 8px 0;
+    }
+
+    @media (min-width: 640px) {
+      .back-link {
+        font-size: 20px;
+      }
+    }
+
+    .back-link:hover {
+      text-decoration: underline;
+    }
+
+    .project-links {
+      margin-bottom: 16px;
+      font-size: 18px;
+    }
+
+    @media (min-width: 640px) {
+      .project-links {
+        font-size: 20px;
+      }
+    }
+
+    .project-links a {
+      color: #0066cc;
+      text-decoration: none;
+      padding: 8px 0;
+      display: inline-block;
+    }
+
+    .project-links a:hover {
+      text-decoration: underline;
+    }
+
+    h1 {
+      font-size: 2.8rem;
+      line-height: 1.15;
+      margin: 0 0 16px 0;
+      color: #0b0b0f;
+    }
+
+    @media (min-width: 640px) {
+      h1 {
+        font-size: 3.2rem;
+        margin-bottom: 20px;
+      }
+    }
+
+    .summary {
+      font-size: 24px;
+      line-height: 1.6;
+      margin: 0 0 16px 0;
+      opacity: 0.85;
+    }
+
+    @media (min-width: 640px) {
+      .summary {
+        font-size: 26px;
+        margin-bottom: 20px;
+      }
+    }
+
+    .meta {
+      font-size: 18px;
+      margin: 0 0 32px 0;
+      opacity: 0.7;
+    }
+
+    @media (min-width: 640px) {
+      .meta {
+        font-size: 20px;
+        margin-bottom: 40px;
+      }
+    }
+
+    .content {
+      font-size: 20px;
+      line-height: 1.7;
+    }
+
+    @media (min-width: 640px) {
+      .content {
+        font-size: 22px;
+      }
+    }
+
+    .content h2 {
+      font-size: 2rem;
+      margin: 32px 0 16px 0;
+    }
+
+    @media (min-width: 640px) {
+      .content h2 {
+        font-size: 2.2rem;
+        margin: 40px 0 20px 0;
+      }
+    }
+
+    .content h3 {
+      font-size: 1.6rem;
+      margin: 24px 0 12px 0;
+    }
+
+    @media (min-width: 640px) {
+      .content h3 {
+        font-size: 1.8rem;
+        margin: 32px 0 16px 0;
+      }
+    }
+
+    .content p {
+      margin: 0 0 16px 0;
+    }
+
+    @media (min-width: 640px) {
+      .content p {
+        margin-bottom: 20px;
+      }
+    }
+
+    .content ul, .content ol {
+      margin: 0 0 16px 0;
+      padding-left: 24px;
+    }
+
+    @media (min-width: 640px) {
+      .content ul, .content ol {
+        margin-bottom: 20px;
+        padding-left: 32px;
+      }
+    }
+
+    .content li {
+      margin-bottom: 8px;
+    }
+
+    @media (min-width: 640px) {
+      .content li {
+        margin-bottom: 12px;
+      }
+    }
+
+    .content a {
+      color: #0066cc;
+      text-decoration: none;
+      padding: 2px 0;
+    }
+
+    .content a:hover {
+      text-decoration: underline;
+    }
+
+    .content blockquote {
+      margin: 24px 0;
+      padding: 16px 20px;
+      border-left: 4px solid #e5e7eb;
+      background: rgba(0,0,0,0.02);
+      font-style: italic;
+    }
+
+    @media (min-width: 640px) {
+      .content blockquote {
+        margin: 32px 0;
+        padding: 20px 24px;
+      }
+    }
+  </style>
+
+  <div class="container">
+    <a href="/" class="back-link">← Back to Projects</a>
+    
+    <article>
+      <header>
+        {project.data.links && (
+          <div class="project-links">
+            {project.data.links.website && (
+              <>
+                <a href={project.data.links.website} target="_blank" rel="noreferrer">Website</a>{" · "}
+              </>
+            )}
+            {project.data.links.amazon && (
+              <a href={project.data.links.amazon} target="_blank" rel="noreferrer">Amazon</a>
+            )}
+          </div>
+        )}
+        <h1>{project.data.title}</h1>
+        <p class="summary">{project.data.summary}</p>
+        <p class="meta">
+          {project.data.status} · {project.data.tags.join(", ")}
+        </p>
+      </header>
+
+      <div class="content">
+        <Content />
+      </div>
+    </article>
+  </div>
+</BaseLayout>
