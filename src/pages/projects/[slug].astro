@@ -188,6 +188,22 @@ const { Content } = await project.render();
       text-decoration: underline;
     }
 
+    .book-cover {
+      max-width: 200px;
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      margin-bottom: 16px;
+    }
+
+    @media (min-width: 640px) {
+      .book-cover {
+        max-width: 250px;
+        margin-bottom: 20px;
+      }
+    }
+
     .content blockquote {
       margin: 24px 0;
       padding: 16px 20px;
@@ -216,7 +232,12 @@ const { Content } = await project.render();
                 <a href={project.data.links.website} target="_blank" rel="noreferrer">Website</a>{" · "}
               </>
             )}
-            {project.data.links.amazon && (
+            {project.data.links.amazon && project.slug === "invisible-gravity" && (
+              <a href={project.data.links.amazon} target="_blank" rel="noreferrer">
+                <img src="/kansikuva.jpg" alt="The Invisible Gravity book cover" class="book-cover" />
+              </a>
+            )}
+            {project.data.links.amazon && project.slug !== "invisible-gravity" && (
               <a href={project.data.links.amazon} target="_blank" rel="noreferrer">Amazon</a>
             )}
           </div>
