@@ -19,6 +19,17 @@ const { title = "Halmetoja Model" } = Astro.props;
       content="Psychological models, systems, and narratives about integration, gravity, and human orientation."
     />
 
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4ELBRBNM68"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-4ELBRBNM68', {
+        anonymize_ip: true
+      });
+    </script>
+
     <!-- Optional: basic styling reset -->
     <style>
       html {
