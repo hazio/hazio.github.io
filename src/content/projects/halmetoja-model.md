@@ -8,6 +8,13 @@ links:
   website: "https://halmetojamodel.com"
 ---
 
+## Framework
+
+- [Positioning Statement](/halmetoja-model/positioning/)
+- [Metrics](/halmetoja-model/metrics/)
+
+---
+
 ## What it is
 
 The Halmetoja Model is a structural framework for understanding human behavior,

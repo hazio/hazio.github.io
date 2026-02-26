@@ -20,4 +20,16 @@ const projects = defineCollection({
   }),
 });
 
-export const collections = { projects };
+/* 🔹 UUSI COLLECTION */
+const halmetojaModel = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+  }),
+});
+
+export const collections = {
+  projects,
+  "halmetoja-model": halmetojaModel,
+};

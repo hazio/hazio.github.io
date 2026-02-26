@@ -1,0 +1,164 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+type NavItem = { slug: string; title: string };
+
+const {
+  title,
+  description,
+  sectionTitle = "Halmetoja Model",
+  nav = [] as NavItem[],
+  currentSlug = "",
+} = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="docs">
+    <header class="docs__header">
+      <div class="docs__brand">
+        <a class="docs__home" href="/halmetoja-model/">{sectionTitle}</a>
+        <span class="docs__sep">/</span>
+        <span class="docs__here">{title}</span>
+      </div>
+
+      <nav class="docs__topnav">
+        <a href="/projects/halmetoja-model" class="docs__toplink">Project</a>
+        <a href="/halmetoja-model/positioning/" class="docs__toplink">Positioning</a>
+        <a href="/halmetoja-model/metrics/" class="docs__toplink">Metrics</a>
+      </nav>
+    </header>
+
+    <div class="docs__grid">
+      <aside class="docs__sidebar" aria-label="Section navigation">
+        <div class="docs__sidebarTitle">In this section</div>
+        <ul class="docs__nav">
+          {nav.map((item) => (
+            <li>
+              <a
+                class:list={["docs__navlink", item.slug === currentSlug && "is-active"]}
+                href={`/halmetoja-model/${item.slug}/`}
+              >
+                {item.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </aside>
+
+      <main class="docs__main">
+        <article class="prose">
+          <slot />
+        </article>
+      </main>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .docs {
+    padding: 2.25rem 1.25rem 4rem;
+    max-width: 1120px;
+    margin: 0 auto;
+  }
+
+  .docs__header {
+    display: flex;
+    gap: 1rem;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-bottom: 1.25rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 1.75rem;
+  }
+
+  .docs__brand {
+    display: flex;
+    gap: 0.5rem;
+    align-items: baseline;
+    min-width: 0;
+  }
+
+  .docs__home {
+    font-weight: 650;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+    color: var(--text);
+  }
+  .docs__home:hover { text-decoration: underline; }
+
+  .docs__sep { color: var(--muted); }
+  .docs__here {
+    color: var(--muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 48ch;
+  }
+
+  .docs__topnav { display: flex; gap: 0.9rem; }
+  .docs__toplink {
+    color: var(--muted);
+    text-decoration: none;
+    font-size: 0.95rem;
+  }
+  .docs__toplink:hover { color: var(--text); text-decoration: underline; }
+
+  .docs__grid {
+    display: grid;
+    grid-template-columns: 260px minmax(0, 1fr);
+    gap: 2rem;
+    align-items: start;
+  }
+
+  .docs__sidebar {
+    position: sticky;
+    top: 1.25rem;
+    padding: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    background: color-mix(in srgb, var(--bg) 92%, #000 8%);
+  }
+
+  .docs__sidebarTitle {
+    font-weight: 650;
+    margin-bottom: 0.75rem;
+  }
+
+  .docs__nav { list-style: none; padding: 0; margin: 0; display: grid; gap: 0.25rem; }
+  .docs__navlink {
+    display: block;
+    padding: 0.45rem 0.55rem;
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--muted);
+    line-height: 1.2;
+  }
+  .docs__navlink:hover { background: color-mix(in srgb, var(--bg) 85%, #000 15%); color: var(--text); }
+  .docs__navlink.is-active {
+    background: color-mix(in srgb, var(--accent) 18%, var(--bg) 82%);
+    color: var(--text);
+    border: 1px solid color-mix(in srgb, var(--accent) 32%, var(--border) 68%);
+  }
+
+  .docs__meta {
+    margin-top: 1rem;
+    padding-top: 0.9rem;
+    border-top: 1px solid var(--border);
+  }
+  .docs__metaLabel {
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 0.35rem;
+  }
+  .docs__metaText { color: var(--muted); font-size: 0.95rem; line-height: 1.35; }
+
+  .docs__main { min-width: 0; }
+
+  @media (max-width: 900px) {
+    .docs__grid { grid-template-columns: 1fr; }
+    .docs__sidebar { position: relative; top: auto; }
+    .docs__topnav { display: none; }
+  }
+</style>
