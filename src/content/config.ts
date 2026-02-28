@@ -20,16 +20,15 @@ const projects = defineCollection({
   }),
 });
 
-/* 🔹 UUSI COLLECTION */
-const halmetojaModel = defineCollection({
+const articles = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    description: z.string().optional(),
+    description: z.string(),
+    tags: z.array(z.string()).default([]),
+    date: z.date().optional(),
+    draft: z.boolean().default(false),
   }),
 });
 
-export const collections = {
-  projects,
-  "halmetoja-model": halmetojaModel,
-};
+export const collections = { projects, articles };
