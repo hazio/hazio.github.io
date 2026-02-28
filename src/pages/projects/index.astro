@@ -1,0 +1,130 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const projects = await getCollection("projects");
+
+// halutessasi: featured ensin, sitten title
+projects.sort((a, b) => {
+  if (a.data.featured && !b.data.featured) return -1;
+  if (!a.data.featured && b.data.featured) return 1;
+  return a.data.title.localeCompare(b.data.title);
+});
+---
+
+<BaseLayout title="Projects">
+  <main class="page">
+    <header class="hero">
+      <h1>Projects</h1>
+      <p>Books, frameworks, and companion work.</p>
+    </header>
+
+    <section class="grid">
+      {projects.map((p) => (
+        <a class="card" href={`/projects/${p.slug}/`}>
+          <div class="cardTop">
+            <h2>{p.data.title}</h2>
+            <span class={`status ${p.data.status}`}>{p.data.status}</span>
+          </div>
+          <p class="summary">{p.data.summary}</p>
+          {p.data.tags?.length ? (
+            <div class="tags">
+              {p.data.tags.map((t) => (
+                <span class="tag">{t}</span>
+              ))}
+            </div>
+          ) : null}
+        </a>
+      ))}
+    </section>
+  </main>
+</BaseLayout>
+
+<style>
+  .page {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 4rem;
+  }
+
+  .hero h1 {
+    margin: 0 0 0.5rem;
+    font-size: 2rem;
+  }
+
+  .hero p {
+    margin: 0 0 2rem;
+    color: var(--muted);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    gap: 1rem;
+  }
+
+  .card {
+    grid-column: span 6;
+    display: block;
+    text-decoration: none;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 1.25rem;
+    background: rgba(255, 255, 255, 0.02);
+    transition: transform 0.15s ease, border-color 0.15s ease;
+    color: inherit;
+  }
+
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 255, 255, 0.18);
+  }
+
+  .cardTop {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .card h2 {
+    margin: 0;
+    font-size: 1.15rem;
+  }
+
+  .summary {
+    margin: 0.6rem 0 0;
+    color: var(--muted);
+    line-height: 1.55;
+  }
+
+  .tags {
+    margin-top: 0.9rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .tag {
+    font-size: 0.8rem;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    padding: 0.25rem 0.55rem;
+    border-radius: 999px;
+  }
+
+  .status {
+    font-size: 0.8rem;
+    color: var(--muted);
+    border: 1px solid var(--border);
+    padding: 0.2rem 0.5rem;
+    border-radius: 999px;
+    text-transform: lowercase;
+  }
+
+  @media (max-width: 900px) {
+    .card {
+      grid-column: span 12;
+    }
+  }
+</style>
