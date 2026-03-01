@@ -20,6 +20,9 @@ const isActive = (href) => path.startsWith(href);
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
+    <link rel="shortcut icon" href="/favicon.jpg" />
+    <link rel="apple-touch-icon" href="/favicon.jpg" />    
     <slot name="head" />
     <style>
       :root {
@@ -67,15 +70,12 @@ const isActive = (href) => path.startsWith(href);
         font-weight: 650;
         font-size: 12px;
       }
-      .logo {
-        width: 26px; height: 26px;
-        border-radius: 10px;
-        background:
-          radial-gradient(10px 10px at 30% 30%, rgba(255,255,255,0.55), transparent 60%),
-          radial-gradient(18px 18px at 70% 80%, rgba(255,255,255,0.18), transparent 65%),
-          rgba(255,255,255,0.08);
-        border: 1px solid rgba(255,255,255,0.14);
-        box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      .logo-img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 2px solid rgba(255,255,255,0.25);
       }
       .nav {
         display: flex;
@@ -175,7 +175,11 @@ const isActive = (href) => path.startsWith(href);
       <div class="wrap">
         <div class="hdr-inner">
           <a class="brand" href="/">
-            <span class="logo" aria-hidden="true"></span>
+            <img 
+              src="/channels4_profile.jpg" 
+              alt="Halmetoja Model" 
+              class="logo-img" 
+            />
             <span>Halmetoja Model</span>
           </a>
 
@@ -257,5 +261,33 @@ const isActive = (href) => path.startsWith(href);
     <main class="wrap" style="padding: 28px 18px 80px;">
       <slot />
     </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+
+    <script>
+      function renderMermaid() {
+        if (!window.mermaid) return;
+
+        mermaid.initialize({
+          startOnLoad: false,
+          theme: "dark"
+        });
+
+        // Render all raw .mermaid blocks
+        document.querySelectorAll(".mermaid").forEach((el, index) => {
+          const graph = el.textContent.trim();
+          el.innerHTML = "";
+          mermaid.render("mermaid-" + index, graph)
+            .then(({ svg }) => {
+              el.innerHTML = svg;
+            })
+            .catch(err => console.error(err));
+        });
+      }
+
+      document.addEventListener("DOMContentLoaded", renderMermaid);
+      document.addEventListener("astro:page-load", renderMermaid);
+    </script>
+
   </body>
 </html>

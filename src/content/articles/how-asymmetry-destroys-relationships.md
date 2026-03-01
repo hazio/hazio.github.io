@@ -171,6 +171,17 @@ If only one system moves, integration becomes unilateral.
 
 And unilateral integration cannot sustain relational depth.
 
+## Hidden contract
+
+<div class="mermaid">
+flowchart LR
+  T[Small tension] --> ORB[ORBIT regulates first]
+  ORB -->|explains / repairs / apologizes| CTO[Cost transfers]
+  CTO --> AI[Asymmetry increases]
+  AI --> LK[Lock stabilizes]
+  LK -->|feels stable| ILL[Illusion of health]
+</div>
+
 ## Structural Summary
 
 Asymmetry destroys relationships because:

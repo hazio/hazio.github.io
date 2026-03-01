@@ -132,6 +132,21 @@ Consider:
 
 If certainty collapses when challenged, it may not be integration — but a regulatory lock.
 
+## The Hidden Mechanism
+
+Confidence is not a trait.  
+It is a *cost outcome*.
+
+When regulation can be outsourced, the system looks stable — even if the core is not.
+
+<div class="mermaid">
+flowchart LR
+  EF["External Field<br/>(attention, validation, control)"] --> FAO["False Self / Overlay<br/>(surface stability)"]
+  FAO --> SC["Appears as: confidence"]
+  ERC["Embodied Regulatory Core<br/>(integration)"] -.-> FAO
+  ORB["Other person / ORBIT"] -->|pays regulation cost| EF
+</div>
+
 ## Structural Summary
 
 Narcissistic confidence often reflects:

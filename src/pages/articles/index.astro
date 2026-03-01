@@ -2,131 +2,310 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getCollection } from "astro:content";
 
-const articles = await getCollection("articles", ({ data }) => !data.draft);
+const articles = await getCollection("articles");
 
-// Uusin ensin
-articles.sort((a, b) => {
-  const dateA = a.data.date ? new Date(a.data.date).getTime() : 0;
-  const dateB = b.data.date ? new Date(b.data.date).getTime() : 0;
-  return dateB - dateA;
-});
+// Kevyt järjestys: jos date/published löytyy, käytä sitä, muuten jätä nykyjärjestys
+const getTs = (a) => {
+  const d =
+    a.data.date ??
+    a.data.published ??
+    a.data.publishedAt ??
+    a.data.updated ??
+    null;
+  return d ? new Date(d).getTime() : 0;
+};
+
+const sorted = [...articles].sort((a, b) => getTs(b) - getTs(a));
+
+const featured = sorted.filter((a) => a.data.featured === true);
+const rest = sorted.filter((a) => a.data.featured !== true);
 ---
 
-<BaseLayout 
-  title="Articles — Halmetoja Model"
-  description="Long-form articles exploring narcissism, empathy, identity formation, relational asymmetry, and regulatory psychology."
->
+<BaseLayout>
+  <style>
+    .hero {
+      padding: 18px 0 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.10);
+      margin-bottom: 18px;
+    }
+    .kicker {
+      display: inline-flex;
+      gap: 10px;
+      align-items: center;
+      padding: 6px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,0.12);
+      background: rgba(255,255,255,0.04);
+      color: rgba(255,255,255,0.75);
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 14px 0 6px;
+      font-size: 40px;
+      letter-spacing: -0.02em;
+      line-height: 1.05;
+    }
+    .sub {
+      margin: 0;
+      color: rgba(255,255,255,0.72);
+      max-width: 70ch;
+      font-size: 16px;
+      line-height: 1.55;
+    }
 
-  <main class="articles">
+    .controls {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      margin: 16px 0 14px;
+    }
+    .search {
+      flex: 1;
+      min-width: 240px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.10);
+    }
+    .search input {
+      width: 100%;
+      border: 0;
+      outline: 0;
+      background: transparent;
+      color: rgba(255,255,255,0.92);
+      font-size: 14px;
+    }
+    .count {
+      color: rgba(255,255,255,0.70);
+      font-size: 13px;
+    }
 
-    <header class="articles-hero">
-      <h1>Articles</h1>
-      <p>
-        Structural explorations of regulation, identity, and relational dynamics.
-      </p>
-    </header>
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 14px;
+      margin-top: 12px;
+    }
 
-    <section class="articles-grid">
-      {articles.map((article) => (
-        <a class="article-card" href={`/articles/${article.slug}/`}>
-          <div class="card-top">
-            <h2>{article.data.title}</h2>
-            {article.data.date && (
-              <time datetime={article.data.date.toISOString()}>
-                {article.data.date.toLocaleDateString()}
-              </time>
-            )}
+    .card {
+      grid-column: span 6;
+      padding: 16px;
+      border-radius: 18px;
+      border: 1px solid rgba(255,255,255,0.10);
+      background: rgba(255,255,255,0.04);
+      box-shadow: 0 18px 60px rgba(0,0,0,0.35);
+      transition: transform .12s ease, background .12s ease, border-color .12s ease;
+    }
+    .card:hover {
+      transform: translateY(-2px);
+      background: rgba(255,255,255,0.06);
+      border-color: rgba(255,255,255,0.14);
+    }
+
+    .meta {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+    .pill {
+      font-size: 12px;
+      color: rgba(255,255,255,0.70);
+      border: 1px solid rgba(255,255,255,0.10);
+      background: rgba(255,255,255,0.03);
+      padding: 6px 10px;
+      border-radius: 999px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    .date {
+      font-size: 12px;
+      color: rgba(255,255,255,0.62);
+    }
+
+    .title {
+      margin: 0 0 8px;
+      font-size: 18px;
+      line-height: 1.25;
+      letter-spacing: -0.01em;
+    }
+    .desc {
+      margin: 0;
+      color: rgba(255,255,255,0.74);
+      line-height: 1.55;
+      font-size: 14px;
+    }
+
+    .featured {
+      grid-column: span 12;
+      display: grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap: 14px;
+      padding: 18px;
+      border-radius: 22px;
+      border: 1px solid rgba(255,255,255,0.14);
+      background:
+        radial-gradient(900px 300px at 10% 0%, rgba(255,255,255,0.10), transparent 60%),
+        rgba(255,255,255,0.05);
+    }
+    .featured .title { font-size: 22px; }
+    .featured .desc { font-size: 15px; }
+
+    .cta {
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      padding: 12px 14px;
+      border-radius: 14px;
+      border: 1px solid rgba(255,255,255,0.14);
+      background: rgba(255,255,255,0.06);
+      color: rgba(255,255,255,0.92);
+      font-size: 14px;
+    }
+    .btn:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    @media (max-width: 900px) {
+      .card { grid-column: span 12; }
+      .featured { grid-template-columns: 1fr; }
+      h1 { font-size: 34px; }
+    }
+
+    .grid a,
+    .grid a:visited {
+        color: rgba(255,255,255,0.85);
+    }
+
+    .grid a:hover {
+        color: rgba(255,255,255,0.98);
+    }    
+    .card,
+    .featured {
+        text-decoration: none;
+    }
+
+    .card .title,
+    .featured .title {
+        text-decoration: none;
+    }
+
+    .card:hover .title,
+    .featured:hover .title {
+        text-decoration: underline;
+    }    
+  </style>
+
+  <section class="hero">
+    <div class="kicker">Articles</div>
+    <h1>Field Notes</h1>
+    <p class="sub">
+      Short, structural essays: cost allocation, regulation, asymmetry — and how patterns persist even when you understand them.
+    </p>
+
+    <div class="controls">
+      <div class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M10.5 18a7.5 7.5 0 1 1 0-15 7.5 7.5 0 0 1 0 15Z" stroke="currentColor" stroke-width="2" opacity="0.8"/>
+          <path d="M16.6 16.6 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+        </svg>
+        <input id="q" type="search" placeholder="Search articles…" autocomplete="off" />
+      </div>
+      <div class="count">
+        <span id="count">{sorted.length}</span> articles
+      </div>
+    </div>
+  </section>
+
+  <section class="grid" id="grid">
+    {featured.length > 0 && (
+      <>
+        {featured.map((a) => {
+          const href = `/articles/${a.slug}/`;
+          const ts = getTs(a);
+          const date = ts ? new Date(ts).toLocaleDateString("en-GB", { year: "numeric", month: "short", day: "2-digit" }) : null;
+
+          return (
+            <a class="featured" href={href} data-title={a.data.title} data-desc={a.data.description}>
+              <div>
+                <div class="meta">
+                  <span class="pill">Featured</span>
+                  {date && <span class="date">{date}</span>}
+                </div>
+                <h2 class="title">{a.data.title}</h2>
+                <p class="desc">{a.data.description}</p>
+              </div>
+              <div class="cta">
+                <span class="btn">
+                  Read
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <path d="M7 17 17 7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    <path d="M9 7h8v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                  </svg>
+                </span>
+              </div>
+            </a>
+          );
+        })}
+      </>
+    )}
+
+    {rest.map((a) => {
+      const href = `/articles/${a.slug}/`;
+      const ts = getTs(a);
+      const date = ts ? new Date(ts).toLocaleDateString("en-GB", { year: "numeric", month: "short", day: "2-digit" }) : null;
+
+      return (
+        <a class="card" href={href} data-title={a.data.title} data-desc={a.data.description}>
+          <div class="meta">
+            <span class="pill">Article</span>
+            {date && <span class="date">{date}</span>}
           </div>
-
-          <p class="description">
-            {article.data.description}
-          </p>
-
-          {article.data.tags?.length > 0 && (
-            <div class="tags">
-              {article.data.tags.map((tag) => (
-                <span class="tag">{tag}</span>
-              ))}
-            </div>
-          )}
+          <h2 class="title">{a.data.title}</h2>
+          <p class="desc">{a.data.description}</p>
         </a>
-      ))}
-    </section>
+      );
+    })}
+  </section>
 
-  </main>
+  <script is:inline>
+    const q = document.getElementById("q");
+    const grid = document.getElementById("grid");
+    const count = document.getElementById("count");
+    if (q && grid && count) {
+      const items = Array.from(grid.querySelectorAll("[data-title]"));
+      const norm = (s) => (s || "").toLowerCase().trim();
 
+      const run = () => {
+        const needle = norm(q.value);
+        let visible = 0;
+
+        for (const el of items) {
+          const hay = norm(el.getAttribute("data-title")) + " " + norm(el.getAttribute("data-desc"));
+          const ok = !needle || hay.includes(needle);
+          el.style.display = ok ? "" : "none";
+          if (ok) visible++;
+        }
+
+        count.textContent = String(visible);
+      };
+
+      q.addEventListener("input", run);
+      run();
+    }
+  </script>
 </BaseLayout>
-
-<style>
-  .articles {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 3rem 1.5rem 4rem;
-  }
-
-  .articles-hero {
-    margin-bottom: 3rem;
-  }
-
-  .articles-hero h1 {
-    margin-bottom: 0.5rem;
-  }
-
-  .articles-hero p {
-    color: var(--muted);
-  }
-
-  .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 1.5rem;
-  }
-
-  .article-card {
-    display: block;
-    text-decoration: none;
-    border: 1px solid var(--border);
-    border-radius: 16px;
-    padding: 1.5rem;
-    background: rgba(255, 255, 255, 0.02);
-    transition: transform 0.15s ease, border-color 0.15s ease;
-    color: inherit;
-  }
-
-  .article-card:hover {
-    transform: translateY(-4px);
-    border-color: var(--accent);
-  }
-
-  .card-top {
-    display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
-    margin-bottom: 1rem;
-  }
-
-  .card-top time {
-    font-size: 0.85rem;
-    color: var(--muted);
-  }
-
-  .description {
-    line-height: 1.6;
-    color: var(--muted);
-    margin-bottom: 1rem;
-  }
-
-  .tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-
-  .tag {
-    font-size: 0.75rem;
-    padding: 0.3rem 0.6rem;
-    border-radius: 999px;
-    border: 1px solid var(--border);
-    color: var(--muted);
-  }
-</style>
