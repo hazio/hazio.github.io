@@ -1,34 +1,170 @@
-# halmetojamodel.com
+# 🧠 Halmetoja Model
 
-Personal project hub for the **Halmetoja Model** trilogy and related work.
+### A Structural Framework for Relational Systems
 
-This site is meant to be a **stable home** for the projects:
-- **Halmetoja Model** — Orbital, Fractal, and Structural Psychology
-- **The Invisible Gravity** — *Never About the Narcissist: Why This Relationship Could Not Have Ended Any Other Way*
-- **The Architecture of Opposites** — a broader synthesis-in-progress
+A hybrid scholarly and public-facing system describing how relational
+dynamics stabilize, fragment, and integrate.
 
-Built with **Astro**.
+Not a personality theory. Not a moral narrative. A structural model of
+cost, regulation, and asymmetry.
 
----
+------------------------------------------------------------------------
 
-## What this repo contains
+## 🌐 Website
 
-- A lightweight public website listing the projects and their current status
-- Project pages as Markdown content (so updating a project is just editing a file)
-- A simple structure designed to survive long-term iteration
+https://halmetojamodel.com
 
----
+The site functions as both: - A conceptual framework archive - A public
+educational platform - A long-form theory project - A laboratory for
+relational metrics
 
-## Tech stack
+------------------------------------------------------------------------
 
-- **Astro**
-- **astro:content** collections (projects as content)
-- Markdown-first content workflow
+## 📐 What Is the Halmetoja Model?
 
----
+The Halmetoja Model describes relational systems through structural
+regulation dynamics rather than identity traits.
 
-## Local development
+Instead of asking: Who is the narcissist?
 
-```bash
-npm install
-npm run dev
+The model asks: Where does regulation occur? Who pays the cost?
+
+------------------------------------------------------------------------
+
+## Core Architecture
+
+### Orientation
+
+Two structural orientations emerge early in development:
+
+-   CENTER --- stability via minimal internal regulation
+-   ORBIT --- stability via adaptive regulatory engagement
+
+These are not moral categories. They are energy-distribution patterns.
+
+------------------------------------------------------------------------
+
+### The Four-State Engine
+
+All relational systems oscillate between:
+
+1.  Stability
+2.  Threat
+3.  Regulation
+4.  Lock
+
+Lock is energetically optimal for the system --- not necessarily optimal
+for the individual.
+
+------------------------------------------------------------------------
+
+## 📊 The Four Structural Metrics
+
+  Metric   Structural Question
+  -------- ----------------------------------------
+  CTO      Who pays the regulatory cost?
+  AI       How asymmetric is the system?
+  RSR      How fast does regulation occur?
+  IRS      Is integration energetically possible?
+
+These are structural observables --- not personality labels.
+
+------------------------------------------------------------------------
+
+## 🏗 Scholarly Grounding
+
+The model builds upon and reformulates concepts from:
+
+-   Object relations theory
+-   Self psychology (Kohut)
+-   Kernberg's structural model
+-   False self dynamics (Winnicott)
+-   Regulatory neuroscience
+
+Contribution:
+
+-   Cost replaces moral interpretation
+-   Regulation replaces identity narrative
+-   Asymmetry replaces blame
+
+------------------------------------------------------------------------
+
+## 🌍 Public Application
+
+Public-facing articles explore:
+
+-   Narcissistic dynamics
+-   Burnout and empath exhaustion
+-   False self formation
+-   Relationship asymmetry
+-   Integration thresholds
+
+Each article includes structural diagrams rendered with Mermaid.
+
+------------------------------------------------------------------------
+
+## 🖥 Technical Stack
+
+-   Astro
+-   Astro Content Collections
+-   Markdown-based content architecture
+-   Mermaid (runtime SVG rendering via CDN)
+-   Minimal custom CSS
+
+------------------------------------------------------------------------
+
+## 📁 Repository Structure
+
+src/ 
+├── layouts/ 
+│ └── BaseLayout.astro 
+├── content/ 
+│ ├── articles/ 
+│ ├── halmetoja-model/ 
+│ └── projects/ 
+└── pages/ 
+├── index.astro 
+├── articles/ 
+└── projects/
+
+------------------------------------------------------------------------
+
+## 🧭 Canon Principles
+
+-   Lock states are energetically optimal --- not desirable.
+-   Integration is costly --- not moral.
+-   The system settles --- it does not choose.
+-   The map is for observation --- not repair.
+-   Identity emerges after regulation.
+
+------------------------------------------------------------------------
+
+## 📚 Related Projects
+
+-   The Invisible Gravity
+-   Architecture of Opposites
+
+------------------------------------------------------------------------
+
+## 🔬 Development
+
+Install: npm install
+
+Run locally: npm run dev
+
+Build: npm run build
+
+------------------------------------------------------------------------
+
+## 🧠 Positioning
+
+The Halmetoja Model is:
+
+-   Structurally rigorous
+-   Conceptually minimal
+-   Publicly readable
+-   Scholarly grounded
+
+It does not promise healing.
+
+It maps the moment when healing becomes energetically possible.
