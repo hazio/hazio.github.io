@@ -60,14 +60,19 @@ for the individual.
 
 ## 📊 The Four Structural Metrics
 
-  Metric   Structural Question
-  -------- ----------------------------------------
-  CTO      Who pays the regulatory cost?
-  AI       How asymmetric is the system?
-  RSR      How fast does regulation occur?
-  IRS      Is integration energetically possible?
+The framework operationalizes relational asymmetry into observable dimensions:
 
-These are structural observables --- not personality labels.
+| Metric | Structural Question |
+|--------|--------------------|
+| **CTO** | Who pays the regulatory cost? |
+| **AI** | How asymmetric is the system? |
+| **RSR** | How fast does regulation occur? |
+| **IRS** | Is integration energetically possible? |
+
+These are:
+- Structural observables  
+- Not personality labels  
+- Not moral judgments  
 
 ------------------------------------------------------------------------
 
