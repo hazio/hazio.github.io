@@ -120,16 +120,18 @@ Each article includes structural diagrams rendered with Mermaid.
 
 ## 📁 Repository Structure
 
-src/ 
-├── layouts/ 
-│ └── BaseLayout.astro 
-├── content/ 
-│ ├── articles/ 
-│ ├── halmetoja-model/ 
-│ └── projects/ 
-└── pages/ 
-├── index.astro 
-├── articles/ 
+src/
+├── layouts/
+│    └── BaseLayout.astro
+│
+├── content/
+│    ├── articles/
+│    ├── halmetoja-model/
+│    └── projects/
+│
+└── pages/
+├── index.astro
+├── articles/
 └── projects/
 
 ------------------------------------------------------------------------
