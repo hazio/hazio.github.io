@@ -14,9 +14,12 @@ cost, regulation, and asymmetry.
 
 https://halmetojamodel.com
 
-The site functions as both: - A conceptual framework archive - A public
-educational platform - A long-form theory project - A laboratory for
-relational metrics
+The site functions as both:
+
+- A conceptual framework archive 
+- A public educational platform 
+- A long-form theory project 
+- A laboratory for relational metrics
 
 ------------------------------------------------------------------------
 
@@ -174,6 +177,20 @@ The Halmetoja Model is:
 -   Publicly readable
 -   Scholarly grounded
 
-It does not promise healing.
+------------------------------------------------------------------------
+
+## ✉️ Contact
+
+For discussion, research collaboration, or framework inquiry:
+
+🌐 WWW          https://halmetojamodel.com  
+📺 YouTube      https://www.youtube.com/@HalmetojaModel
+📰 Substack     https://halmetojamodel.substack.com/
+
+------------------------------------------------------------------------
+
+## Final Note
+
+The Halmetoja Model does not promise healing.
 
 It maps the moment when healing becomes energetically possible.
