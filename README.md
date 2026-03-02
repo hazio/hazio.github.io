@@ -121,51 +121,19 @@ Each article includes structural diagrams rendered with Mermaid.
 ## Repository Structure
 
 ```text
-repo-root/
-├─ site/                          # Astro website (halmetojamodel.com)
-│  ├─ src/
-│  │  ├─ content/
-│  │  │  ├─ articles/             # SEO articles (collection: articles)
-│  │  │  ├─ halmetoja-model/      # framework pages
-│  │  │  └─ projects/             # project pages (collection: projects)
-│  │  ├─ layouts/
-│  │  └─ pages/
-│  │     ├─ index.astro
-│  │     ├─ articles/
-│  │     │  └─ [slug].astro
-│  │     └─ projects/
-│  │        └─ [slug].astro
-│  ├─ public/                     # favicon + brand images
-│  └─ astro.config.mjs
+src/
+├── layouts/
+│    └── BaseLayout.astro
 │
-├─ books/                         # Trilogy manuscripts (Pandoc/LaTeX output)
-│  ├─ invisible-gravity/
-│  │  ├─ manuscript/
-│  │  ├─ book.order
-│  │  ├─ metadata.yaml
-│  │  └─ style/
-│  │     └─ overrides.tex
-│  ├─ halmetoja-model/
-│  │  ├─ manuscript/
-│  │  ├─ book.order
-│  │  ├─ metadata.yaml
-│  │  └─ style/
-│  │     └─ overrides.tex
-│  └─ architecture-of-opposites/
-│     ├─ manuscript/
-│     ├─ book.order
-│     ├─ metadata.yaml
-│     └─ style/
-│        └─ overrides.tex
+├── content/
+│    ├── articles/
+│    ├── halmetoja-model/
+│    └── projects/
 │
-├─ shared/                        # Shared publishing system
-│  ├─ style/
-│  │  └─ trilogy.tex              # common LaTeX template
-│  ├─ filters/                    # Pandoc lua filters
-│  └─ scripts/
-│     └─ build.sh                 # builds books
-│
-└─ README.md
+└── pages/
+├── index.astro
+├── articles/
+└── projects/
 ```
 
 ------------------------------------------------------------------------
