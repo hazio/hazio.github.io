@@ -184,7 +184,9 @@ The Halmetoja Model is:
 For discussion, research collaboration, or framework inquiry:
 
 🌐 WWW          https://halmetojamodel.com  
+
 📺 YouTube      https://www.youtube.com/@HalmetojaModel
+
 📰 Substack     https://halmetojamodel.substack.com/
 
 ------------------------------------------------------------------------
