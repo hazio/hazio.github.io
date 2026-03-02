@@ -120,19 +120,51 @@ Each article includes structural diagrams rendered with Mermaid.
 
 ## 📁 Repository Structure
 
-src/
-├── layouts/
-│    └── BaseLayout.astro
+repo-root/
+├─ site/                          # Astro website (halmetojamodel.com)
+│  ├─ src/
+│  │  ├─ content/
+│  │  │  ├─ articles/             # SEO articles (collection: articles)
+│  │  │  ├─ halmetoja-model/      # framework pages (collection OR plain content)
+│  │  │  └─ projects/             # project pages (collection: projects)
+│  │  ├─ layouts/
+│  │  └─ pages/
+│  │     ├─ index.astro
+│  │     ├─ articles/
+│  │     │  └─ [slug].astro
+│  │     └─ projects/
+│  │        └─ [slug].astro
+│  ├─ public/                     # favicon + brand images
+│  └─ astro.config.mjs
 │
-├── content/
-│    ├── articles/
-│    ├── halmetoja-model/
-│    └── projects/
+├─ books/                         # Trilogy manuscripts (Pandoc/LaTeX output)
+│  ├─ invisible-gravity/          # (aka Never About the Narcissist) book folder
+│  │  ├─ manuscript/
+│  │  ├─ book.order
+│  │  ├─ metadata.yaml
+│  │  └─ style/
+│  │     └─ overrides.tex
+│  ├─ halmetoja-model/
+│  │  ├─ manuscript/
+│  │  ├─ book.order
+│  │  ├─ metadata.yaml
+│  │  └─ style/
+│  │     └─ overrides.tex
+│  └─ architecture-of-opposites/
+│     ├─ manuscript/
+│     ├─ book.order
+│     ├─ metadata.yaml
+│     └─ style/
+│        └─ overrides.tex
 │
-└── pages/
-├── index.astro
-├── articles/
-└── projects/
+├─ shared/                        # Shared publishing system for all books
+│  ├─ style/
+│  │  └─ trilogy.tex              # common LaTeX template (base typography)
+│  ├─ filters/                    # pandoc lua filters (e.g. hr blocks, etc.)
+│  └─ scripts/
+│     └─ build.sh                 # builds one book or all
+│
+└─ README.md
 
 ------------------------------------------------------------------------
 
