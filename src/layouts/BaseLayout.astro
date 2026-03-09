@@ -22,7 +22,17 @@ const isActive = (href) => path.startsWith(href);
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
     <link rel="shortcut icon" href="/favicon.jpg" />
-    <link rel="apple-touch-icon" href="/favicon.jpg" />    
+    <link rel="apple-touch-icon" href="/favicon.jpg" />
+    
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4ELBRBNM68"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-4ELBRBNM68');
+    </script>
+    
     <slot name="head" />
     <style>
       :root {
