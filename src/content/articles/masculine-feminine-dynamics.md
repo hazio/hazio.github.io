@@ -89,11 +89,11 @@ If external instability threatens connection:
 
 <div class="mermaid">
 flowchart LR
-  C[CENTER<br/>(internal stability priority)] -->|suppresses| F[Feminine Function<br/>(receptivity, openness)]
-  O[ORBIT<br/>(external regulation priority)] -->|suppresses| M[Masculine Function<br/>(boundaries, direction)]
+  C["CENTER<br/>(internal stability priority)"] -->|suppresses| F["Feminine Function<br/>(receptivity, openness)"]
+  O["ORBIT<br/>(external regulation priority)"] -->|suppresses| M["Masculine Function<br/>(boundaries, direction)"]
   
-  F -->|requires| IM[Internal Movement]
-  M -->|requires| EX[External Tension Tolerance]
+  F -->|requires| IM["Internal Movement"]
+  M -->|requires| EX["External Tension Tolerance"]
 </div>
 
 ---
