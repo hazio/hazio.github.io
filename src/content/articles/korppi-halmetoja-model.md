@@ -1,7 +1,16 @@
 ---
-title: "Korppi — When the Psyche Leaves the Center"
-description: "A Halmetoja Model reading of Korppi as the moment when internal anchoring fails and perception reorganizes around external objects."
+title: "Korppi — When Regulation Leaves the Center"
+description: "A structural interpretation of Tuula Amberla’s Korppi through the Halmetoja Model: projection, regulation shift, and cost relocation."
 date: 2026-03-22
+---
+
+## The Song
+
+Tuula Amberla — *Korppi*
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/87zXKhilOuI" 
+title="Korppi" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 ## The Moment
