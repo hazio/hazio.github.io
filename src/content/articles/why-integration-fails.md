@@ -1,7 +1,7 @@
 ---
 title: "Why Integration Fails"
 description: "A structural explanation of why integration is not always possible: capacity, tension, and cost in the Halmetoja Model."
-date: 2026-03-22
+date: 2026-04-04
 ---
 
 ## The Misunderstanding
