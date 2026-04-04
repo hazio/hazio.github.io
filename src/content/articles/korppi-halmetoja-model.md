@@ -1,7 +1,7 @@
 ---
 title: "Korppi — When Regulation Leaves the Center"
 description: "A structural interpretation of Tuula Amberla’s Korppi through the Halmetoja Model: projection, regulation shift, and cost relocation."
-date: 2026-03-22
+date: 2026-04-04
 ---
 
 ## The Song
