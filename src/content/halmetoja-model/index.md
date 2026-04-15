@@ -1,109 +1,250 @@
 ---
-title: Halmetoja Model
-description: A structural framework for regulation, orientation, and relational dynamics—mapped as cost, not morality.
+title: "The Halmetoja Model"
+description: "A structural model of psychological regulation explaining how humans maintain stability through either internal integration (CENTER) or external systems (ORBIT)."
+date: 2026-04-08
+draft: false
 ---
 
-# Halmetoja Model
+## What This Model Is
 
-The Halmetoja Model is a structural framework for understanding human behavior through **regulation**, **orientation**, and **cost**.
+The Halmetoja Model is a structural model of psychology.
 
-It does not ask: *“Who is good?”*  
-It asks: *“What is being stabilized—and who is paying?”*
+It does not describe personalities, traits, or identities.
 
-This is not a personality theory.  
-It is a navigation model for living systems.
+It describes one thing:
 
----
-
-## What this model is (and what it isn’t)
-
-**It is:**
-- A map of how systems settle into stable patterns under constraint
-- A language for **CENTER** and **ORBIT** as orientations (not identities)
-- A way to describe **locks**, **loops**, and the price of stability
-- A toolkit (metrics) for reading dynamics without turning them into blame
-
-**It is not:**
-- A diagnosis tool
-- A moral story
-- A promise of healing
-- A replacement for therapy, medicine, or clinical assessment
+> **how the human system handles tension**
 
 ---
 
-## Core idea
+## Why Tension Matters
 
-Systems do not aim for wellbeing.  
-They aim for **balance**.
+Every psychological experience can be reduced to this:
 
-And balance is usually achieved  
-where it is **cheapest**.
+- uncertainty  
+- contradiction  
+- emotional intensity  
+- unmet need  
 
-That is why stable-looking systems can be tragic for the individual.  
-The structure works.  
-The cost is asymmetric.
+All of these create **tension**.
 
----
+The question is not whether tension exists.
 
-## The minimal vocabulary
-
-- **Orientation**: the direction regulation takes when cost becomes non-negotiable  
-- **CENTER**: regulation maintained by holding structure together (often becoming a lock)  
-- **ORBIT**: regulation maintained by movement, tracking, adapting (often becoming fuel)  
-- **Four-State Engine**: a cost-driven cycle that settles until energy runs out  
-- **Integration**: not “insight”—but the moment when the cost of wholeness becomes payable
+> The question is: **what happens to it**
 
 ---
 
-## Start here
+## Two Ways to Handle Tension
 
-If you’re new, read in this order:
-
-1. **Positioning** → what the model claims, and what it refuses to claim  
-   **Read:** `/halmetoja-model/positioning/`
-
-2. **Metrics** → how to locate a system without turning it into advice  
-   **Read:** `/halmetoja-model/metrics/`
-
-Then return here and move into the deeper material as it expands.
+All systems resolve this in one of two ways.
 
 ---
 
-## How to read this site
+### CENTER
 
-This site is written to **decrease confusion**, not to increase certainty.
+CENTER is internal regulation.
 
-- If a paragraph gives you a villain, it failed.
-- If a concept arrives **before** you recognize the price you paid, it’s too early.
-- If a definition feels like a defense, it’s misused.
-- If something feels cold: that’s intentional.  
-  This model is designed to stay stable under emotion—so you can observe structure.
+**tension → held → transformed → integrated**
 
----
+The system does not need to act immediately.
 
-## Canon statements (locked)
+It does not need to remove the tension.
 
-- **This is not physics.** It is cost arithmetic — the cheapest path, not the true path.  
-- **The engine does not decide.** It settles — at the lowest available cost.  
-- **A lock is energetically optimal — not humanly desirable.**  
-- **The map is not a cure.** It is a way to stop paying without collapse.
+It can remain intact while experiencing:
 
----
+- doubt  
+- ambivalence  
+- emotional pressure  
 
-## Current status
+CENTER is not calmness.
 
-This is an active project. Some pages are stable, others are evolving.
-
-If you want the model in its most complete form, start from the **Projects** overview:
-- `/projects/halmetoja-model`
+> It is the ability to remain without resolving.
 
 ---
 
-## Contact / collaboration
+### ORBIT
 
-If you want to collaborate (research, writing, diagrams, tooling), the most useful message is:
-- what you’re building
-- what you need clarified
-- what kind of output format you prefer (text / diagram / metrics / tooling)
+ORBIT is external regulation.
+
+**tension → externalized → resolved through others → temporary relief**
+
+The system cannot hold tension internally for long.
+
+So it must:
+
+- move tension outward  
+- use other people  
+- create relational loops  
+
+ORBIT is not a personality type.
+
+> It is what happens when regulation cannot remain internal.
 
 ---
+
+## A Critical Correction
+
+One of the most important distinctions in this model:
+
+> **Not all stability is CENTER.**
+
+There are two types of stability.
+
+---
+
+### Integrated Stability (CENTER)
+
+**tension → held → transformed → stable**
+
+Stability emerges from capacity.
+
+---
+
+### Enforced Stability (Stabilized ORBIT)
+
+**tension → simplified → eliminated → stable**
+
+Stability emerges from removing complexity.
+
+This often appears as:
+
+- confidence  
+- certainty  
+- clarity  
+
+But structurally, it is different.
+
+---
+
+## The Illusion of Stability
+
+From the outside, both systems can look identical:
+
+- calm  
+- grounded  
+- stable  
+
+Because:
+
+**visible tension is low**
+
+But:
+
+- CENTER processes tension  
+- ORBIT prevents it from forming  
+
+This is where misinterpretation begins.
+
+---
+
+## Relationships Reinterpreted
+
+Relationships are not only emotional bonds.
+
+Structurally, they function as:
+
+> **regulation systems**
+
+They can:
+
+- stabilize the system  
+- distribute tension  
+- prevent collapse  
+
+Or:
+
+- enable integration  
+
+These are not the same.
+
+---
+
+## The Mirror Economy
+
+When regulation is external, relationships take a specific form.
+
+People become:
+
+> **mirrors**
+
+They reflect back:
+
+- value  
+- safety  
+- identity  
+
+This creates what can be described as:
+
+> **a mirror economy**
+
+A distributed system where:
+
+- multiple people provide different reflections  
+- regulation is maintained through interaction  
+- identity depends on feedback  
+
+---
+
+## The Role of the Empath
+
+Within this system, some individuals take on a specific role.
+
+They become:
+
+> **adaptive mirrors**
+
+They:
+
+- read others  
+- adjust themselves  
+- reflect what is needed  
+
+This creates connection.
+
+But also cost.
+
+> continuous adjustment leads to exhaustion
+
+---
+
+## The Direction of Regulation
+
+The most important diagnostic is not behavior.
+
+It is direction:
+
+- CENTER → holds internally  
+- ORBIT → resolves externally  
+
+Everything else follows from this.
+
+---
+
+## What This Model Is Not
+
+This model is not about labeling people.
+
+It does not divide humans into types.
+
+It describes:
+
+> **how systems behave under tension**
+
+---
+
+## Final Insight
+
+The central question is not:
+
+> “Who am I?”
+
+The central question is:
+
+> **“What do I do when tension appears?”**
+
+Because:
+
+> some systems remain stable because they can hold reality  
+> and others remain stable because they simplify it  
+
+The difference between those two defines everything.
