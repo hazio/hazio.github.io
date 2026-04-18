@@ -1,7 +1,7 @@
 ---
 title: "The Mirror–Regulation Matrix"
 description: "Why identity and safety come from different sources — and how their mismatch creates the most common human patterns."
-date: 2026-04-08
+date: 2026-04-18
 draft: false
 ---
 
