@@ -218,13 +218,13 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   }
 
   .button-primary {
-    background: rgba(255,255,255,0.1);
-    border: 1px solid rgba(255,255,255,0.14);
+    background: var(--panel2);
+    border: 1px solid var(--border-hover);
   }
 
   .button-secondary {
     background: transparent;
-    border: 1px solid rgba(255,255,255,0.12);
+    border: 1px solid var(--border);
     color: var(--muted);
   }
 
@@ -265,8 +265,8 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
   .card,
   .resource-card {
-    border: 1px solid rgba(255,255,255,0.1);
-    background: rgba(255,255,255,0.04);
+    border: 1px solid var(--border);
+    background: var(--surface);
     border-radius: 20px;
     padding: 1.4rem;
     text-decoration: none;
@@ -277,8 +277,8 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   .card:hover,
   .resource-card:hover {
     transform: translateY(-2px);
-    border-color: rgba(255,255,255,0.16);
-    background: rgba(255,255,255,0.05);
+    border-color: var(--border-hover);
+    background: var(--panel);
   }
 
   .card-label {

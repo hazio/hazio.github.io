@@ -34,9 +34,9 @@ const rest = sorted.filter((a) => a.data.featured !== true);
       align-items: center;
       padding: 6px 10px;
       border-radius: 999px;
-      border: 1px solid rgba(255,255,255,0.12);
-      background: rgba(255,255,255,0.04);
-      color: rgba(255,255,255,0.75);
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text-secondary);
       font-size: 12px;
       letter-spacing: 0.08em;
       text-transform: uppercase;
@@ -49,7 +49,7 @@ const rest = sorted.filter((a) => a.data.featured !== true);
     }
     .sub {
       margin: 0;
-      color: rgba(255,255,255,0.72);
+      color: var(--text-secondary);
       max-width: 70ch;
       font-size: 16px;
       line-height: 1.55;
@@ -70,20 +70,20 @@ const rest = sorted.filter((a) => a.data.featured !== true);
       align-items: center;
       gap: 10px;
       padding: 10px 12px;
-      border-radius: 14px;
-      background: rgba(255,255,255,0.04);
-      border: 1px solid rgba(255,255,255,0.10);
+      border-radius: var(--radius);
+      background: var(--surface);
+      border: 1px solid var(--border);
     }
     .search input {
       width: 100%;
       border: 0;
       outline: 0;
       background: transparent;
-      color: rgba(255,255,255,0.92);
+      color: var(--text);
       font-size: 14px;
     }
     .count {
-      color: rgba(255,255,255,0.70);
+      color: var(--muted);
       font-size: 13px;
     }
 
@@ -98,15 +98,15 @@ const rest = sorted.filter((a) => a.data.featured !== true);
       grid-column: span 6;
       padding: 16px;
       border-radius: 18px;
-      border: 1px solid rgba(255,255,255,0.10);
-      background: rgba(255,255,255,0.04);
-      box-shadow: 0 18px 60px rgba(0,0,0,0.35);
+      border: 1px solid var(--border);
+      background: var(--surface);
+      box-shadow: var(--shadow);
       transition: transform .12s ease, background .12s ease, border-color .12s ease;
     }
     .card:hover {
       transform: translateY(-2px);
-      background: rgba(255,255,255,0.06);
-      border-color: rgba(255,255,255,0.14);
+      background: var(--panel);
+      border-color: var(--border-hover);
     }
 
     .meta {
@@ -118,9 +118,9 @@ const rest = sorted.filter((a) => a.data.featured !== true);
     }
     .pill {
       font-size: 12px;
-      color: rgba(255,255,255,0.70);
-      border: 1px solid rgba(255,255,255,0.10);
-      background: rgba(255,255,255,0.03);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      background: var(--surface);
       padding: 6px 10px;
       border-radius: 999px;
       letter-spacing: 0.06em;
@@ -128,7 +128,7 @@ const rest = sorted.filter((a) => a.data.featured !== true);
     }
     .date {
       font-size: 12px;
-      color: rgba(255,255,255,0.62);
+      color: var(--muted);
     }
 
     .title {
@@ -139,7 +139,7 @@ const rest = sorted.filter((a) => a.data.featured !== true);
     }
     .desc {
       margin: 0;
-      color: rgba(255,255,255,0.74);
+      color: var(--text-secondary);
       line-height: 1.55;
       font-size: 14px;
     }
@@ -151,10 +151,10 @@ const rest = sorted.filter((a) => a.data.featured !== true);
       gap: 14px;
       padding: 18px;
       border-radius: 22px;
-      border: 1px solid rgba(255,255,255,0.14);
+      border: 1px solid var(--border-hover);
       background:
-        radial-gradient(900px 300px at 10% 0%, rgba(255,255,255,0.10), transparent 60%),
-        rgba(255,255,255,0.05);
+        radial-gradient(900px 300px at 10% 0%, var(--panel2), transparent 60%),
+        var(--panel);
     }
     .featured .title { font-size: 22px; }
     .featured .desc { font-size: 15px; }
@@ -170,14 +170,14 @@ const rest = sorted.filter((a) => a.data.featured !== true);
       justify-content: center;
       gap: 10px;
       padding: 12px 14px;
-      border-radius: 14px;
-      border: 1px solid rgba(255,255,255,0.14);
-      background: rgba(255,255,255,0.06);
-      color: rgba(255,255,255,0.92);
+      border-radius: var(--radius);
+      border: 1px solid var(--border-hover);
+      background: var(--panel);
+      color: var(--text);
       font-size: 14px;
     }
     .btn:hover {
-      background: rgba(255,255,255,0.08);
+      background: var(--panel2);
     }
 
     @media (max-width: 900px) {
@@ -188,11 +188,11 @@ const rest = sorted.filter((a) => a.data.featured !== true);
 
     .grid a,
     .grid a:visited {
-        color: rgba(255,255,255,0.85);
+        color: var(--text);
     }
 
     .grid a:hover {
-        color: rgba(255,255,255,0.98);
+        color: var(--text);
     }    
     .card,
     .featured {
