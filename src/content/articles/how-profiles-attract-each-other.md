@@ -1,7 +1,7 @@
 ---
 title: "How Profiles Attract Each Other"
 description: "Why different mirror and regulation profiles are drawn to each other — and how relational patterns are formed structurally, not randomly."
-date: 2026-04-18
+date: 2026-04-19
 draft: false
 ---
 
