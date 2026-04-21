@@ -1,12 +1,222 @@
-# 🧠 Halmetoja Model
+# Halmetoja Model
 
-### A Structural Framework for Relational Systems
+A structural model of human psychology based on regulation, identity, and integration.
 
-A hybrid scholarly and public-facing system describing how relational
-dynamics stabilize, fragment, and integrate.
+---
 
-Not a personality theory. Not a moral narrative. A structural model of
-cost, regulation, and asymmetry.
+## Overview
+
+The Halmetoja Model describes human behavior as the interaction of two core systems:
+
+- **Mirror (identity)** — how a person comes to know who they are  
+- **Regulation (stability)** — how a person maintains internal balance  
+
+---
+
+These systems do not always develop together.
+
+Their mismatch creates predictable patterns in:
+
+- relationships  
+- emotional regulation  
+- identity formation  
+
+---
+
+## Core Concepts
+
+### ORBIT
+
+A state where regulation is external.
+
+- stability depends on others  
+- identity is maintained relationally  
+- tension is resolved through interaction  
+
+---
+
+**tension → other → relief**
+
+---
+
+### CENTER
+
+A state where regulation is internal.
+
+- stability is self-contained  
+- identity is coherent  
+- tension can be held and transformed  
+
+---
+
+**tension → held → integrated**
+
+---
+
+## The Mirror–Regulation Matrix
+
+Human development can be understood through two variables:
+
+- mirror accuracy  
+- regulation stability  
+
+---
+
+This creates four structural outcomes:
+
+- distorted mirror + unstable regulation → fragmentation  
+- distorted mirror + stable regulation → false self  
+- coherent mirror + unstable regulation → overwhelmed self  
+- coherent mirror + stable regulation → integration potential  
+
+---
+
+## The Empath–Narcissist Dynamic
+
+Both operate within ORBIT, but in opposite directions:
+
+- **Empath** → outbound regulation (stabilizes others)  
+- **Narcissistic structure** → inbound regulation (stabilized by others)  
+
+---
+
+The dynamic forms when:
+
+- one provides regulation  
+- the other receives it  
+
+---
+
+This creates a closed loop:
+
+**tension → regulation → relief → attachment**
+
+---
+
+## Integration
+
+Integration is not a trait.
+
+It is a capacity.
+
+---
+
+It emerges when multiple functions align:
+
+- accurate identity (mirror)  
+- stable regulation  
+- ability to process tension  
+- clear boundaries  
+- sufficient time without reaction  
+
+---
+
+Integration allows:
+
+> tension to transform instead of being discharged
+
+---
+
+## Shadow
+
+The shadow is not what is hidden.
+
+It is what cannot be held internally.
+
+---
+
+Unintegrated experience moves outward:
+
+- into relationships  
+- into perception  
+- into repetition  
+
+---
+
+Integration returns it inward.
+
+---
+
+## Transmission
+
+Patterns are not passed down as information.
+
+They are recreated as structure.
+
+---
+
+> what is not integrated is transmitted
+
+---
+
+## Evolutionary Perspective
+
+Humans are not built to be whole.
+
+They are built to adapt.
+
+---
+
+Adaptation prioritizes:
+
+- survival  
+- connection  
+- stability  
+
+---
+
+Not:
+
+- truth  
+- authenticity  
+- integration  
+
+---
+
+This explains why many systems remain in ORBIT.
+
+---
+
+## Purpose of the Model
+
+The Halmetoja Model aims to:
+
+- describe psychological patterns structurally  
+- remove moral simplifications  
+- clarify relationship dynamics  
+- explain repetition across individuals and generations  
+
+---
+
+## Direction
+
+The model is not prescriptive.
+
+It does not define how people should be.
+
+---
+
+It describes:
+
+- how systems form  
+- how they stabilize  
+- how they repeat  
+- how integration becomes possible  
+
+---
+
+## Key Principle
+
+> Structure explains behavior.  
+> Awareness creates responsibility.
+
+---
+
+## Status
+
+The model is under continuous development.
+
+Concepts evolve as new structural insights emerge.
 
 ------------------------------------------------------------------------
 
@@ -20,62 +230,6 @@ The site functions as both:
 - A public educational platform 
 - A long-form theory project 
 - A laboratory for relational metrics
-
-------------------------------------------------------------------------
-
-## 📐 What Is the Halmetoja Model?
-
-The Halmetoja Model describes relational systems through structural
-regulation dynamics rather than identity traits.
-
-Instead of asking: Who is the narcissist?
-
-The model asks: Where does regulation occur? Who pays the cost?
-
-------------------------------------------------------------------------
-
-## Core Architecture
-
-### Orientation
-
-Two structural orientations emerge early in development:
-
--   CENTER --- stability via minimal internal regulation
--   ORBIT --- stability via adaptive regulatory engagement
-
-These are not moral categories. They are energy-distribution patterns.
-
-------------------------------------------------------------------------
-
-### The Four-State Engine
-
-All relational systems oscillate between:
-
-1.  Stability
-2.  Threat
-3.  Regulation
-4.  Lock
-
-Lock is energetically optimal for the system --- not necessarily optimal
-for the individual.
-
-------------------------------------------------------------------------
-
-## 📊 The Four Structural Metrics
-
-The framework operationalizes relational asymmetry into observable dimensions:
-
-| Metric | Structural Question |
-|--------|--------------------|
-| **CTO** | Who pays the regulatory cost? |
-| **AI** | How asymmetric is the system? |
-| **RSR** | How fast does regulation occur? |
-| **IRS** | Is integration energetically possible? |
-
-These are:
-- Structural observables  
-- Not personality labels  
-- Not moral judgments  
 
 ------------------------------------------------------------------------
 
@@ -138,23 +292,6 @@ src/
 ├── articles/
 └── projects/
 ```
-
-------------------------------------------------------------------------
-
-## 🧭 Canon Principles
-
--   Lock states are energetically optimal --- not desirable.
--   Integration is costly --- not moral.
--   The system settles --- it does not choose.
--   The map is for observation --- not repair.
--   Identity emerges after regulation.
-
-------------------------------------------------------------------------
-
-## 📚 Related Projects
-
--   The Invisible Gravity
--   Architecture of Opposites
 
 ------------------------------------------------------------------------
 
