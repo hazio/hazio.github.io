@@ -21,7 +21,7 @@ projects.sort((a, b) => {
 
     <section class="grid">
       {projects.map((p) => (
-        <a class="card" href={`/projects/${p.slug}/`}>
+        <a class="card" href={`/projects/${p.id}/`}>
           <div class="cardTop">
             <h2>{p.data.title}</h2>
             <span class={`status ${p.data.status}`}>{p.data.status}</span>

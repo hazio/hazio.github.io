@@ -1,12 +1,12 @@
 ---
 import DocsLayout from "../../layouts/DocsLayout.astro";
-import { getCollection, getEntry } from "astro:content";
+import { getCollection, getEntry, render } from "astro:content";
 
 const entry = await getEntry("halmetoja-model", "index");
-const { Content } = await entry.render();
+const { Content } = await render(entry);
 
 const nav = (await getCollection("halmetoja-model"))
-  .map((e) => ({ slug: e.slug, title: e.data.title }))
+  .map((e) => ({ slug: e.id, title: e.data.title }))
   .sort((a, b) => a.slug.localeCompare(b.slug));
 ---
 

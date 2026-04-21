@@ -1,17 +1,17 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getCollection } from "astro:content";
+import { getCollection, render } from "astro:content";
 
 export async function getStaticPaths() {
   const projects = await getCollection("projects");
   return projects.map((p) => ({
-    params: { slug: p.slug },
+    params: { slug: p.id },
     props: { project: p },
   }));
 }
 
 const { project } = Astro.props;
-const { Content } = await project.render();
+const { Content } = await render(project);
 ---
 
 <BaseLayout title={project.data.title}>
@@ -235,12 +235,12 @@ const { Content } = await project.render();
                 <a href={project.data.links.website} target="_blank" rel="noreferrer">Website</a>{" · "}
               </>
             )}
-            {project.data.links.amazon && project.slug === "invisible-gravity" && (
+            {project.data.links.amazon && project.id === "invisible-gravity" && (
               <a href={project.data.links.amazon} target="_blank" rel="noreferrer">
                 <img src="/kansikuva.jpg" alt="The Invisible Gravity book cover" class="book-cover" />
               </a>
             )}
-            {project.data.links.amazon && project.slug !== "invisible-gravity" && (
+            {project.data.links.amazon && project.id !== "invisible-gravity" && (
               <a href={project.data.links.amazon} target="_blank" rel="noreferrer">Amazon</a>
             )}
           </div>

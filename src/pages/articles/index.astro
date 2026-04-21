@@ -235,7 +235,7 @@ const rest = sorted.filter((a) => a.data.featured !== true);
     {featured.length > 0 && (
       <>
         {featured.map((a) => {
-          const href = `/articles/${a.slug}/`;
+          const href = `/articles/${a.id}/`;
           const ts = getTs(a);
           const date = ts ? new Date(ts).toLocaleDateString("en-GB", { year: "numeric", month: "short", day: "2-digit" }) : null;
 
@@ -265,7 +265,7 @@ const rest = sorted.filter((a) => a.data.featured !== true);
     )}
 
     {rest.map((a) => {
-      const href = `/articles/${a.slug}/`;
+      const href = `/articles/${a.id}/`;
       const ts = getTs(a);
       const date = ts ? new Date(ts).toLocaleDateString("en-GB", { year: "numeric", month: "short", day: "2-digit" }) : null;
 

@@ -1,5 +1,11 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const articles = (await getCollection("articles", ({ data }) => !data.draft))
+  .filter((a) => a.data.date)
+  .sort((a, b) => b.data.date!.getTime() - a.data.date!.getTime())
+  .slice(0, 3);
 ---
 
 <BaseLayout
@@ -125,20 +131,12 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       </div>
 
       <div class="grid compact">
-        <a class="resource-card" href="/articles/why-avoiding-abandonment-creates-self-abandonment/">
-          <h3>Why Avoiding Abandonment Creates Self-Abandonment</h3>
-          <p>How preserving connection can weaken internal continuity.</p>
-        </a>
-
-        <a class="resource-card" href="/articles/why-stability-of-self-disrupts-stability-of-connection/">
-          <h3>Why Stability of Self Disrupts Stability of Connection</h3>
-          <p>The CENTER-side counterpart: what happens when tension is not displaced.</p>
-        </a>
-
-        <a class="resource-card" href="/articles/why-integration-fails-across-generations/">
-          <h3>Why Integration Fails Across Generations</h3>
-          <p>How capacity, tension, and regulation patterns pass from parent to child.</p>
-        </a>
+        {articles.map((article) => (
+          <a class="resource-card" href={`/articles/${article.id}/`}>
+            <h3>{article.data.title}</h3>
+            <p>{article.data.description}</p>
+          </a>
+        ))}
       </div>
     </section>
 
