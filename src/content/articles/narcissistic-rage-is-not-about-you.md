@@ -1,7 +1,7 @@
 ---
 title: "Narcissistic Rage Is Not About You"
 description: "Why intense reactions in narcissistic structures are not about the other person, but about a collapse in external regulation and identity stability."
-date: 2026-04-18
+date: 2026-04-25
 draft: false
 ---
 
