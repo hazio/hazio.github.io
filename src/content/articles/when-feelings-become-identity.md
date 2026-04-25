@@ -1,7 +1,7 @@
 ---
 title: "When Feelings Become Identity"
 description: "Why unstable regulation turns emotional states into identity — and how this shapes the structure of the self."
-date: 2026-04-18
+date: 2026-04-25
 draft: false
 ---
 
