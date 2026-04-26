@@ -11,8 +11,15 @@ const links = {
   youtube: "https://www.youtube.com/@halmetojamodel"
 };
 
+const { title, description } = Astro.props;
+
 const path = Astro.url.pathname;
 const isActive = (href) => path.startsWith(href);
+
+const siteTitle = "Halmetoja Model";
+const pageTitle = title && title !== siteTitle ? `${title} — ${siteTitle}` : siteTitle;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const ogImage = new URL("/favicon.jpg", Astro.site);
 ---
 
 <!doctype html>
@@ -23,7 +30,23 @@ const isActive = (href) => path.startsWith(href);
     <link rel="icon" type="image/jpeg" href="/favicon.jpg" />
     <link rel="shortcut icon" href="/favicon.jpg" />
     <link rel="apple-touch-icon" href="/favicon.jpg" />
-    
+
+    <title>{pageTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonicalURL} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={pageTitle} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:site_name" content={siteTitle} />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    {description && <meta name="twitter:description" content={description} />}
+    <meta name="twitter:image" content={ogImage} />
+
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4ELBRBNM68"></script>
     <script is:inline>
