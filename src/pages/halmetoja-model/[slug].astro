@@ -24,5 +24,16 @@ const nav = (await getCollection("halmetoja-model"))
   nav={nav}
   currentSlug={entry.id}
 >
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": entry.data.title,
+      ...(entry.data.description && { "description": entry.data.description }),
+      "url": `https://halmetojamodel.com/halmetoja-model/${entry.id}/`,
+      "author": { "@type": "Person", "name": "Jani Halmetoja" },
+      "publisher": { "@type": "Organization", "name": "Halmetoja Model" }
+    })} />
+  </Fragment>
   <Content />
 </DocsLayout>
