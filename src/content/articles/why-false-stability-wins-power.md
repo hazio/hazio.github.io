@@ -1,7 +1,7 @@
 ---
 title: "Why False Stability Wins Power"
 description: "Why systems that appear stable gain trust and influence — and how rapid external regulation can be mistaken for true internal stability."
-date: 2026-04-18
+date: 2026-04-27
 draft: false
 ---
 
