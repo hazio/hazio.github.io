@@ -1,7 +1,7 @@
 ---
 title: "What Is Regulation-Driven Behavior?"
 description: "A structural explanation of behavior driven by the need to reduce internal tension rather than build relationship or meaning."
-date: 2026-04-18
+date: 2026-04-29
 draft: false
 ---
 
