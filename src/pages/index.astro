@@ -140,6 +140,29 @@ const articles = (await getCollection("articles", ({ data }) => !data.draft))
       </div>
     </section>
 
+    <section class="section book-section">
+      <div class="book-card">
+        <div class="book-text">
+          <p class="eyebrow">The Book</p>
+          <h2>The Invisible Gravity</h2>
+          <p class="book-subtitle">Why This Relationship Could Not Have Ended Any Other Way</p>
+          <p class="book-desc">
+            A psychological narrative about relationships that felt inevitable, consuming,
+            and impossible to leave — even when they were hurting you.
+            Not a story of blame. A structural explanation of why it could not have happened any other way.
+          </p>
+          <a
+            href="https://www.amazon.de/dp/B0GDWK4S9M"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="button button-book"
+          >
+            Get the book on Amazon →
+          </a>
+        </div>
+      </div>
+    </section>
+
     <section class="section closing">
       <div class="section-copy narrow">
         <h2>A map, not a myth</h2>
@@ -342,6 +365,53 @@ const articles = (await getCollection("articles", ({ data }) => !data.draft))
 
   .closing {
     padding-bottom: 2rem;
+  }
+
+  .book-section {
+    margin-top: 4.5rem;
+  }
+
+  .book-card {
+    border: 1px solid rgba(126, 184, 224, 0.2);
+    background: linear-gradient(135deg, rgba(126, 184, 224, 0.06) 0%, rgba(255,255,255,0.02) 100%);
+    border-radius: 20px;
+    padding: 2.5rem;
+  }
+
+  .book-text {
+    max-width: 680px;
+  }
+
+  .book-subtitle {
+    margin: 0.25rem 0 1rem;
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    font-style: italic;
+  }
+
+  .book-desc {
+    margin: 0 0 1.75rem;
+    line-height: 1.75;
+    color: var(--muted);
+  }
+
+  .button-book {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.85rem 1.5rem;
+    border-radius: 14px;
+    background: rgba(126, 184, 224, 0.12);
+    border: 1px solid rgba(126, 184, 224, 0.35);
+    color: var(--accent);
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  }
+
+  .button-book:hover {
+    background: rgba(126, 184, 224, 0.2);
+    border-color: rgba(126, 184, 224, 0.55);
+    transform: translateY(-1px);
   }
 
   @media (max-width: 920px) {

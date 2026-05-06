@@ -1,6 +1,6 @@
 ---
-title: "Why Some Relationships Stay Stable Without Being Healthy"
-description: "A structural explanation of why some relationships remain stable despite dysfunction: cost distribution, regulation, and asymmetry in the Halmetoja Model."
+title: "Why Some Toxic Relationships Stay Stable Without Being Healthy"
+description: "Why can't I leave a toxic relationship that seems stable? Because stability doesn't mean health — it means someone is paying the cost. Learn the structural reason unhealthy relationships persist."
 date: 2026-04-05
 ---
 
@@ -224,3 +224,11 @@ A relationship does not remain stable because it is healthy.
 And as long as the cost is paid:
 
 	⁠the system does not need to change
+
+---
+
+**Related articles:**
+- [How Asymmetry Destroys Relationships (Slowly, Structurally, Predictably)](/articles/how-asymmetry-destroys-relationships/)
+- [Why Stability of Self Disrupts Stability of Connection](/articles/why-stability-of-self-disrupts-stability-of-connection/)
+- [Why You Feel Empty in Your Relationship (Even If Nothing Is 'Wrong')](/articles/why-you-feel-empty-in-relationship/)
+- [What Is Regulation-Driven Behavior? Why People Act Inconsistently in Relationships](/articles/what-is-regulation-driven-behavior/)

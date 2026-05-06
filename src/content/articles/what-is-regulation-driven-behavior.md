@@ -1,6 +1,6 @@
 ---
-title: "What Is Regulation-Driven Behavior?"
-description: "A structural explanation of behavior driven by the need to reduce internal tension rather than build relationship or meaning."
+title: "What Is Regulation-Driven Behavior? Why People Act Inconsistently in Relationships"
+description: "Why people in toxic relationships behave inconsistently — not because they're manipulative, but because they're regulating. Learn to read behavior through a structural lens."
 date: 2026-04-29
 draft: false
 ---
@@ -213,3 +213,11 @@ Ask:
 ---
 
 That question explains most behavior that otherwise feels inconsistent or impossible to understand.
+
+---
+
+**Related articles:**
+- [Structure vs Behavior: Why the Same Action Can Mean Two Completely Different Things](/articles/structure-vs-behavior-why-this-distinction-matters/)
+- [How Asymmetry Destroys Relationships (Slowly, Structurally, Predictably)](/articles/how-asymmetry-destroys-relationships/)
+- [What Emotional Regulation Actually Means (It's Not About Calming Down)](/articles/what-regulation-actually-means/)
+- [Why Some Toxic Relationships Stay Stable Without Being Healthy](/articles/why-some-relationships-stay-stable-without-being-healthy/)

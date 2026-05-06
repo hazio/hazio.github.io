@@ -1,6 +1,6 @@
 ---
-title: "Narcissistic Rage Is Not About You"
-description: "Why intense reactions in narcissistic structures are not about the other person, but about a collapse in external regulation and identity stability."
+title: "Narcissistic Rage Is Not About You — It's About Regulation Collapse"
+description: "Why narcissistic rage feels personal but isn't. Learn the structural reason behind sudden anger, blame, and devaluation in narcissistic relationships."
 date: 2026-04-25
 draft: false
 ---
@@ -331,3 +331,11 @@ And until that system can hold its own tension:
 
 > it will continue to resolve it  
 > through whoever is closest
+
+---
+
+**Related articles:**
+- [Why Narcissists Seem Confident (But Often Aren't)](/articles/why-narcissists-seem-confident/)
+- [The Illusion of Stability: Why Narcissistic Confidence Isn't What It Looks Like](/articles/the-illusion-of-stability/)
+- [The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change](/articles/the-system-that-avoids-seeing-itself/)
+- [What Personality Disorders Actually Are: A Structural View Beyond Diagnosis](/articles/what-personality-disorders-actually-are/)

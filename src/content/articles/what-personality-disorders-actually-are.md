@@ -1,6 +1,6 @@
 ---
-title: "What Personality Disorders Actually Are"
-description: "A structural interpretation of personality disorders as persistent external regulation architectures rather than defects of personality."
+title: "What Personality Disorders Actually Are: A Structural View Beyond Diagnosis"
+description: "Personality disorders may not be defects of character — they may be chronic external regulation strategies. A structural reframe that humanizes narcissism, BPD, and codependency."
 date: 2026-05-06
 draft: false
 ---
@@ -287,3 +287,11 @@ The deeper issue is this:
 And when stability never fully internalizes:
 
 > the nervous system continues searching for itself in other people.
+
+---
+
+**Related articles:**
+- [The Illusion of Stability: Why Narcissistic Confidence Isn't What It Looks Like](/articles/the-illusion-of-stability/)
+- [The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change](/articles/the-system-that-avoids-seeing-itself/)
+- [Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology](/articles/mirror-and-regulation-profiles/)
+- [Why Narcissists Seem Confident (But Often Aren't)](/articles/why-narcissists-seem-confident/)

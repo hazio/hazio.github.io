@@ -1,6 +1,6 @@
 ---
-title: "The System That Avoids Seeing Itself"
-description: "Why some psychological structures are difficult to observe from within — and how external regulation prevents internal awareness."
+title: "The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change"
+description: "Why some psychological structures are structurally designed to avoid self-awareness. Learn how rapid external regulation prevents insight and keeps destructive patterns in place."
 date: 2026-04-21
 draft: false
 ---
@@ -300,3 +300,11 @@ And until the system can remain with its own activation:
 
 > it will continue to resolve  
 > before it can understand
+
+---
+
+**Related articles:**
+- [The Illusion of Stability: Why Narcissistic Confidence Isn't What It Looks Like](/articles/the-illusion-of-stability/)
+- [Why False Stability Wins Power: How Narcissistic Confidence Attracts Followers](/articles/why-false-stability-wins-power/)
+- [The Narcissistic Mirror Node: Why Narcissists Need Specific People to Stay Stable](/articles/the-narcissistic-mirror-node/)
+- [What Personality Disorders Actually Are: A Structural View Beyond Diagnosis](/articles/what-personality-disorders-actually-are/)

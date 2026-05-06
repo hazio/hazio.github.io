@@ -1,6 +1,6 @@
 ---
 title: "Why Narcissists Seem Confident (But Often Aren’t)"
-description: "Why narcissists often appear confident and charismatic — and what structural psychology reveals about the regulatory dynamics beneath the surface."
+description: "Narcissistic confidence isn’t self-acceptance — it’s reduced internal oscillation. Learn the structural difference between genuine confidence and the regulatory lock that mimics it."
 tags: ["narcissism", "confidence", "relationships", "regulation"]
 date: 2026-03-01
 draft: false
@@ -163,3 +163,15 @@ But movement is what allows integration.
 ---
 
 To explore the structural framework behind these dynamics, see the [Halmetoja Model framework](/halmetoja-model/).
+
+---
+
+---
+
+**Related articles:**
+- [The Illusion of Stability: Why Narcissistic Confidence Isn't What It Looks Like](/articles/the-illusion-of-stability/)
+- [Narcissistic Rage Is Not About You — It's About Regulation Collapse](/articles/narcissistic-rage-is-not-about-you/)
+- [The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change](/articles/the-system-that-avoids-seeing-itself/)
+- [Why False Stability Wins Power: How Narcissistic Confidence Attracts Followers](/articles/why-false-stability-wins-power/)
+
+*The Invisible Gravity* explores why narcissistic confidence attracts — and what it costs. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).

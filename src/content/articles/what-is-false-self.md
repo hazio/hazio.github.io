@@ -1,6 +1,6 @@
 ---
-title: "What Is the False Self? (Beyond Winnicott and Modern Narcissism)"
-description: "What the false self really is, how Winnicott described it, and how structural psychology reframes it as a regulatory adaptation rather than a personality defect."
+title: "What Is the False Self? Beyond Winnicott and Narcissism"
+description: "The false self isn't a lie — it's a survival adaptation. Learn what the false self really is, how it forms under pressure, and why understanding it changes everything about narcissistic abuse recovery."
 tags: ["false self", "narcissism", "winnicott", "borderline", "identity"]
 date: 2026-03-01
 draft: false
@@ -201,3 +201,11 @@ Understanding this difference removes blame — and clarifies direction.
 ---
 
 For a full structural framework of regulation and identity formation, explore the [Halmetoja Model](/halmetoja-model/).
+
+---
+
+**Related articles:**
+- [Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology](/articles/mirror-and-regulation-profiles/)
+- [The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
+- [When Feelings Become Identity: Why 'I Feel Worthless' Becomes 'I Am Worthless'](/articles/when-feelings-become-identity/)
+- [Are You CENTER, ORBIT, or a False CENTER? Understanding Where Your Stability Comes From](/articles/are-you-center-orbit-or-a-false-center/)

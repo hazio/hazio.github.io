@@ -1,6 +1,6 @@
 ---
 title: "Humans Are Built to Adapt, Not to Be Whole"
-description: "Why human development prioritizes survival over integration — and how adaptation creates the conditions for ORBIT."
+description: "You're not broken — you're adapted. Why the nervous system prioritizes survival over integration, and how early adaptation creates codependency and emotional regulation problems."
 date: 2026-04-20
 draft: false
 ---
@@ -331,3 +331,11 @@ And until that adaptation is seen for what it is:
 
 > the system will continue to survive  
 > instead of integrate
+
+---
+
+**Related articles:**
+- [The Cost of Adaptation: How Survival Strategies Become Identity Traps](/articles/the-cost-of-adaptation/)
+- [Why Avoiding Abandonment Creates Self-Abandonment](/articles/why-avoiding-abandonment-creates-self-abandonment/)
+- [When the Child Becomes the Mirror: How Parentification Creates Empathic ORBIT Patterns](/articles/when-the-child-becomes-the-mirror/)
+- [Why Empaths Burn Out (Even When They Care More Than Anyone Else)](/articles/why-empaths-burn-out/)

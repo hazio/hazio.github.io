@@ -1,6 +1,6 @@
 ---
-title: "The Search for the Missing Mirror"
-description: "How a distorted primary mirror can turn human relationships into a lifelong search for identity, stability, and psychological completion."
+title: "The Search for the Missing Mirror: Why Some People Feel Incomplete Without a Relationship"
+description: "When the primary mirror distorts, relationships become a lifelong search for identity. Learn why some people feel empty alone — and how to stop searching for yourself in others."
 date: 2026-05-06
 draft: false
 ---
@@ -287,3 +287,11 @@ But for:
 And until that reflection begins forming internally:
 
 > every new relationship can feel like the possible end of the search.
+
+---
+
+**Related articles:**
+- [Limerence as Obsessive Love: Why It Feels Like Survival, Not Just Attraction](/articles/limerence-as-orbit/)
+- [The Sacred Object: Why Limerence Feels Like Destiny, Not Just Attraction](/articles/the-sacred-object/)
+- [What Is Love, Really? A Structural Explanation Beyond Emotion and Chemistry](/articles/love-explained-by-the-halmetoja-model/)
+- [Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology](/articles/mirror-and-regulation-profiles/)

@@ -1,6 +1,6 @@
 ---
-title: "How Profiles Attract Each Other"
-description: "Why different mirror and regulation profiles are drawn to each other — and how relational patterns are formed structurally, not randomly."
+title: "Why Do I Keep Attracting Narcissists? How Regulation Profiles Draw Each Other In"
+description: "Why empaths attract narcissists — and why it keeps repeating. A structural explanation of why certain relationship patterns form and how to break the cycle."
 date: 2026-04-19
 draft: false
 ---
@@ -212,3 +212,11 @@ It is about:
 And until that structure changes:
 
 > the same patterns will feel like different people
+
+---
+
+**Related articles:**
+- [How Asymmetry Destroys Relationships (Slowly, Structurally, Predictably)](/articles/how-asymmetry-destroys-relationships/)
+- [Why Some Toxic Relationships Stay Stable Without Being Healthy](/articles/why-some-relationships-stay-stable-without-being-healthy/)
+- [Why Empaths Burn Out (Even When They Care More Than Anyone Else)](/articles/why-empaths-burn-out/)
+- [Structure vs Behavior: Why the Same Action Can Mean Two Completely Different Things](/articles/structure-vs-behavior-why-this-distinction-matters/)

@@ -1,6 +1,6 @@
 ---
-title: "Masculine and Feminine Dynamics in the Halmetoja Model"
-description: "How masculine and feminine functions emerge as movement permissions within the CENTER–ORBIT structure."
+title: "Masculine and Feminine Dynamics: Why Boundaries and Openness Are Structural, Not Gendered"
+description: "Masculine and feminine are not identities — they're movement permissions. Learn why narcissistic and empathic structures suppress opposite functions and how integration restores both."
 date: 2026-03-22
 ---
 
@@ -144,3 +144,11 @@ Masculine and feminine are not traits.
 They are permissions.
 
 And permissions emerge from structure.
+
+---
+
+**Related articles:**
+- [Structure vs Behavior: Why the Same Action Can Mean Two Completely Different Things](/articles/structure-vs-behavior-why-this-distinction-matters/)
+- [Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology](/articles/mirror-and-regulation-profiles/)
+- [What Is the False Self? Beyond Winnicott and Narcissism](/articles/what-is-false-self/)
+- [The Vector Model of Integration: Why You Can't Force Healing](/articles/the-vector-model-of-integration/)

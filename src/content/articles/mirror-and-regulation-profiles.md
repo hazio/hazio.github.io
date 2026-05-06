@@ -1,6 +1,6 @@
 ---
-title: "Mirror & Regulation Profiles"
-description: "How different combinations of mirror distortion and regulation patterns create distinct psychological profiles."
+title: "Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology"
+description: "How distorted mirroring and unstable regulation create empathic, narcissistic, and false self profiles — and why identity and safety develop independently."
 date: 2026-04-18
 draft: false
 ---
@@ -282,3 +282,11 @@ You are shaped by:
 And more importantly:
 
 > how those two did — or did not — align.
+
+---
+
+**Related articles:**
+- [The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
+- [What Is the False Self? Beyond Winnicott and Narcissism](/articles/what-is-false-self/)
+- [Are You CENTER, ORBIT, or a False CENTER? Understanding Where Your Stability Comes From](/articles/are-you-center-orbit-or-a-false-center/)
+- [When Feelings Become Identity: Why 'I Feel Worthless' Becomes 'I Am Worthless'](/articles/when-feelings-become-identity/)

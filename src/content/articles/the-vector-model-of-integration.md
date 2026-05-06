@@ -1,6 +1,6 @@
 ---
-title: "The Vector Model of Integration"
-description: "A structural model describing integration as the combined effect of identity, regulation, processing, boundaries, and time."
+title: "The Vector Model of Integration: Why You Can't Force Healing"
+description: "Integration isn't something you do — it's what happens when identity, regulation, processing, boundaries, and time align. Learn why healing requires structural conditions, not willpower."
 date: 2026-04-19
 draft: false
 ---
@@ -233,3 +233,11 @@ Ask:
 And when they don’t:
 
 > tension moves outward instead of transforming inward
+
+---
+
+**Related articles:**
+- [Why Integration Fails: It's Not Resistance — It's Capacity](/articles/why-integration-fails/)
+- [What Is Not Integrated Is Transmitted: How Unresolved Trauma Passes Between Generations](/articles/what-is-not-integrated-is-transmitted/)
+- [What Emotional Regulation Actually Means (It's Not About Calming Down)](/articles/what-regulation-actually-means/)
+- [The Cost of Adaptation: How Survival Strategies Become Identity Traps](/articles/the-cost-of-adaptation/)

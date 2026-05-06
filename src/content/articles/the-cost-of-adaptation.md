@@ -1,6 +1,6 @@
 ---
-title: "The Cost of Adaptation"
-description: "Why the same capacity that once ensured survival can later erode identity, stability, and integration."
+title: "The Cost of Adaptation: How Survival Strategies Become Identity Traps"
+description: "The same empathic sensitivity that helped you survive can prevent you from integrating. Learn how chronic adaptation erodes identity, boundaries, and emotional regulation."
 date: 2026-04-24
 draft: false
 ---
@@ -330,3 +330,11 @@ And until adaptation becomes optional:
 
 > the system will continue to stabilize others  
 > instead of stabilizing itself
+
+---
+
+**Related articles:**
+- [Why Empaths Burn Out (Even When They Care More Than Anyone Else)](/articles/why-empaths-burn-out/)
+- [Humans Are Built to Adapt, Not to Be Whole](/articles/humans-are-built-to-adapt-not-to-be-whole/)
+- [Why Integration Fails: It's Not Resistance — It's Capacity](/articles/why-integration-fails/)
+- [The Vector Model of Integration: Why You Can't Force Healing](/articles/the-vector-model-of-integration/)

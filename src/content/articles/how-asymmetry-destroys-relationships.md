@@ -1,6 +1,6 @@
 ---
 title: "How Asymmetry Destroys Relationships (Slowly, Structurally, Predictably)"
-description: "How emotional and regulatory asymmetry gradually destabilizes relationships — and why the breakdown often appears long after the imbalance begins."
+description: "Why toxic relationships erode slowly through uneven emotional labor. Learn how regulatory asymmetry causes codependency, burnout, and eventual collapse."
 tags: ["relationships", "asymmetry", "narcissism", "empathy", "regulation"]
 date: 2026-03-01
 draft: false
@@ -205,3 +205,15 @@ And direction, over time, determines outcome.
 ---
 
 For a structural framework explaining regulatory asymmetry and relational cost distribution, explore the [Halmetoja Model framework](/halmetoja-model/).
+
+---
+
+---
+
+**Related articles:**
+- [Why Empaths Burn Out (Even When They Care More Than Anyone Else)](/articles/why-empaths-burn-out/)
+- [Why Some Toxic Relationships Stay Stable Without Being Healthy](/articles/why-some-relationships-stay-stable-without-being-healthy/)
+- [Why You Feel Empty in Your Relationship (Even If Nothing Is 'Wrong')](/articles/why-you-feel-empty-in-relationship/)
+- [What Is Regulation-Driven Behavior? Why People Act Inconsistently in Relationships](/articles/what-is-regulation-driven-behavior/)
+
+*The Invisible Gravity* is a book about relationships that felt inevitable — and why they could not have ended any other way. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).

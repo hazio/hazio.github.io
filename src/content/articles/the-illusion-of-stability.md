@@ -1,6 +1,6 @@
 ---
-title: "The Illusion of Stability"
-description: "Why stability can emerge from two completely different structures — and how fast regulation is often mistaken for real psychological strength."
+title: "The Illusion of Stability: Why Narcissistic Confidence Isn't What It Looks Like"
+description: "Stability can be real or enforced. Learn why narcissistic structures appear calm and confident — and how fast regulation is mistaken for genuine psychological strength."
 date: 2026-04-08
 draft: false
 ---
@@ -190,3 +190,11 @@ Because:
 
 > some systems are stable because they can hold reality  
 > and others are stable because they avoid it
+
+---
+
+**Related articles:**
+- [Why Narcissists Seem Confident (But Often Aren't)](/articles/why-narcissists-seem-confident/)
+- [Why False Stability Wins Power: How Narcissistic Confidence Attracts Followers](/articles/why-false-stability-wins-power/)
+- [The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change](/articles/the-system-that-avoids-seeing-itself/)
+- [Narcissistic Rage Is Not About You — It's About Regulation Collapse](/articles/narcissistic-rage-is-not-about-you/)

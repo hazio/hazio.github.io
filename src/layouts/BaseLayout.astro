@@ -2,7 +2,7 @@
 const nav = [
   { label: "Framework", href: "/halmetoja-model/" },
   { label: "Articles", href: "/articles/" },
-  { label: "Projects", href: "/projects/" },
+  { label: "Book", href: "https://www.amazon.de/dp/B0GDWK4S9M" },
 ];
 
 // Muokkaa nämä sun oikeisiin osoitteisiin:
@@ -169,6 +169,15 @@ const ogImage = new URL("/favicon.jpg", Astro.site);
         background: var(--panel2);
         border-color: var(--border-hover);
       }
+      .nav-book {
+        color: var(--accent) !important;
+        border-color: rgba(126, 184, 224, 0.25) !important;
+        background: rgba(126, 184, 224, 0.06) !important;
+      }
+      .nav-book:hover {
+        background: rgba(126, 184, 224, 0.12) !important;
+        border-color: rgba(126, 184, 224, 0.4) !important;
+      }
 
       .right {
         display: flex;
@@ -254,7 +263,9 @@ const ogImage = new URL("/favicon.jpg", Astro.site);
 
           <nav class="nav" aria-label="Primary">
             {nav.map((item) => (
-              <a href={item.href}>{item.label}</a>
+              item.href.startsWith("http")
+                ? <a href={item.href} target="_blank" rel="noopener noreferrer" class="nav-book">{item.label}</a>
+                : <a href={item.href} aria-current={isActive(item.href) ? "page" : undefined}>{item.label}</a>
             ))}
           </nav>
 
@@ -286,9 +297,9 @@ const ogImage = new URL("/favicon.jpg", Astro.site);
 
         <nav class="mnav" aria-label="Mobile" data-menu>
           {nav.map((item) => (
-            <a href={item.href} aria-current={isActive(item.href) ? "page" : undefined}>
-              {item.label}
-            </a>
+            item.href.startsWith("http")
+              ? <a href={item.href} target="_blank" rel="noopener noreferrer">{item.label} ↗</a>
+              : <a href={item.href} aria-current={isActive(item.href) ? "page" : undefined}>{item.label}</a>
           ))}
           <div class="micons">
             <a class="iconbtn" href={links.substack} target="_blank" rel="noopener noreferrer" aria-label="Substack">

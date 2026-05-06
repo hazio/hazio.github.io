@@ -1,6 +1,6 @@
 ---
-title: "Why False Stability Wins Power"
-description: "Why systems that appear stable gain trust and influence — and how rapid external regulation can be mistaken for true internal stability."
+title: "Why False Stability Wins Power: How Narcissistic Confidence Attracts Followers"
+description: "Why people trust those who appear certain over those who are genuinely integrated. Learn how false stability gains social power — and why it's so hard to see through."
 date: 2026-04-27
 draft: false
 ---
@@ -341,3 +341,11 @@ And until systems learn to tolerate tension:
 
 > they will continue to trust what feels stable  
 > instead of what actually is
+
+---
+
+**Related articles:**
+- [The Illusion of Stability: Why Narcissistic Confidence Isn't What It Looks Like](/articles/the-illusion-of-stability/)
+- [Why Narcissists Seem Confident (But Often Aren't)](/articles/why-narcissists-seem-confident/)
+- [The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change](/articles/the-system-that-avoids-seeing-itself/)
+- [The Narcissistic Mirror Node: Why Narcissists Need Specific People to Stay Stable](/articles/the-narcissistic-mirror-node/)

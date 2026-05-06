@@ -136,7 +136,86 @@ The system orients around it.
 
 ## The Cost Equation
 
-```text
-CENTER → low internal cost (if stable)  
-CENTER → high cost (if destabilized)  
-ORBIT → externalized cost
+When internal regulation becomes too expensive, the system does not collapse.
+
+It relocates.
+
+The cost does not disappear.
+
+It moves outward — onto an object, a person, a symbol.
+
+The crow carries what the center can no longer hold.
+
+---
+
+## Why the Crow Stays
+
+The object does not leave when the crisis passes.
+
+It remains.
+
+Because the system has learned:
+
+> this is where stability lives now
+
+The crow is not a metaphor for grief.
+
+It is a marker of where regulation has been relocated.
+
+---
+
+## The Return
+
+The song does not end in resolution.
+
+It ends in continuation.
+
+The system has reorganized.
+
+The crow remains present.
+
+And the question the song leaves open is the same question the model asks:
+
+> Can the center be rebuilt?
+
+---
+
+## What the Song Understands
+
+*Korppi* does not explain the shift.
+
+It inhabits it.
+
+The atmosphere is not decoration.
+
+It is the structural state itself — the moment after the threshold, before any return is possible.
+
+This is what makes it precise.
+
+Not as art about psychology.
+
+But as art that *is* the psychological moment.
+
+---
+
+## Final Insight
+
+Regulation does not always leave loudly.
+
+Sometimes it leaves quietly — into a bird, a symbol, a presence that feels almost intentional.
+
+And the system continues.
+
+Reorganized.
+
+Oriented outward.
+
+Waiting for something to hold what it can no longer hold alone.
+
+---
+
+**Related articles:**
+- [The Cost of Adaptation: How Survival Strategies Become Identity Traps](/articles/the-cost-of-adaptation/)
+- [Why Avoiding Abandonment Creates Self-Abandonment](/articles/why-avoiding-abandonment-creates-self-abandonment/)
+- [What Emotional Regulation Actually Means (It's Not About Calming Down)](/articles/what-regulation-actually-means/)
+- [Why Becoming More Yourself Can Destabilize Your Relationship](/articles/why-stability-of-self-disrupts-stability-of-connection/)

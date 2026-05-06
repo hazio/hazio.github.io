@@ -1,6 +1,6 @@
 ---
-title: "The Mirror–Regulation Matrix"
-description: "Why identity and safety come from different sources — and how their mismatch creates the most common human patterns."
+title: "The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost"
+description: "Identity and safety come from different sources. This matrix explains why you can feel stable but inauthentic — or real but overwhelmed — and what it means for healing."
 date: 2026-04-18
 draft: false
 ---
@@ -234,3 +234,11 @@ Because:
 
 And until those align,  
 the system keeps searching.
+
+---
+
+**Related articles:**
+- [Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology](/articles/mirror-and-regulation-profiles/)
+- [What Is the False Self? Beyond Winnicott and Narcissism](/articles/what-is-false-self/)
+- [When Feelings Become Identity: Why 'I Feel Worthless' Becomes 'I Am Worthless'](/articles/when-feelings-become-identity/)
+- [The Search for the Missing Mirror: Why Some People Feel Incomplete Without a Relationship](/articles/the-search-for-the-missing-mirror/)

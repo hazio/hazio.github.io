@@ -1,13 +1,8 @@
 ---
-
-title: "Love, Explained by the Halmetoja Model"
-
-description: "A structural explanation of love as a regulation and integration process — beyond emotion, beyond chemistry."
-
+title: "What Is Love, Really? A Structural Explanation Beyond Emotion and Chemistry"
+description: "Love explained through regulation and integration — why intense attraction is often emotional dysregulation, and what real love looks like when you're not in ORBIT."
 date: 2026-04-19
-
 draft: false
-
 ---
 
 ## Love Is Not What You Think
@@ -355,3 +350,11 @@ Love is not:
 Love is:
 
 > “I remain myself, and we can face reality together”
+
+---
+
+**Related articles:**
+- [Limerence as Obsessive Love: Why It Feels Like Survival, Not Just Attraction](/articles/limerence-as-orbit/)
+- [The Sacred Object: Why Limerence Feels Like Destiny, Not Just Attraction](/articles/the-sacred-object/)
+- [The Search for the Missing Mirror: Why Some People Feel Incomplete Without a Relationship](/articles/the-search-for-the-missing-mirror/)
+- [Why Some Toxic Relationships Stay Stable Without Being Healthy](/articles/why-some-relationships-stay-stable-without-being-healthy/)

@@ -1,6 +1,6 @@
 ---
 title: "Why Avoiding Abandonment Creates Self-Abandonment"
-description: "A structural explanation of how preserving connection can lead to the loss of internal continuity in the Halmetoja Model."
+description: "The harder you try to prevent abandonment, the more you abandon yourself. Learn the structural mechanism behind codependency and why connection preserved through self-loss isn't connection."
 date: 2026-04-06
 ---
 
@@ -192,3 +192,11 @@ Avoiding abandonment does not protect the self.
 And when connection is preserved by continuous self-adjustment:
 
 > the self is what disappears.
+
+---
+
+**Related articles:**
+- [Why Empaths Burn Out (Even When They Care More Than Anyone Else)](/articles/why-empaths-burn-out/)
+- [When the Child Becomes the Mirror: How Parentification Creates Empathic ORBIT Patterns](/articles/when-the-child-becomes-the-mirror/)
+- [The Cost of Adaptation: How Survival Strategies Become Identity Traps](/articles/the-cost-of-adaptation/)
+- [Why You Feel Empty in Your Relationship (Even If Nothing Is 'Wrong')](/articles/why-you-feel-empty-in-relationship/)

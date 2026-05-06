@@ -1,6 +1,6 @@
 ---
-title: "When Feelings Become Identity"
-description: "Why unstable regulation turns emotional states into identity — and how this shapes the structure of the self."
+title: "When Feelings Become Identity: Why 'I Feel Worthless' Becomes 'I Am Worthless'"
+description: "When emotional regulation is unstable, feelings stop being temporary states and become permanent identities. Learn the structural reason behind shame-based identity and how to change it."
 date: 2026-04-25
 draft: false
 ---
@@ -321,3 +321,11 @@ They become identity when they cannot be held.
 And until the system can hold what it feels:
 
 > it will continue to become what it experiences
+
+---
+
+**Related articles:**
+- [What Is the False Self? Beyond Winnicott and Narcissism](/articles/what-is-false-self/)
+- [The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
+- [Are You CENTER, ORBIT, or a False CENTER? Understanding Where Your Stability Comes From](/articles/are-you-center-orbit-or-a-false-center/)
+- [The Search for the Missing Mirror: Why Some People Feel Incomplete Without a Relationship](/articles/the-search-for-the-missing-mirror/)

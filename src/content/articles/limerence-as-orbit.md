@@ -1,6 +1,6 @@
 ---
-title: "Limerence as ORBIT"
-description: "A structural interpretation of limerence as an ORBIT-based regulation system driven by unresolved tension, uncertainty, and projection."
+title: "Limerence as Obsessive Love: Why It Feels Like Survival, Not Just Attraction"
+description: "What is limerence and why does it feel so overwhelming? A structural explanation of obsessive love as an emotional regulation system — not just intense attraction."
 date: 2026-05-06
 draft: false
 ---
@@ -285,3 +285,11 @@ And that is why limerence feels so powerful.
 Not because the object is objectively extraordinary.
 
 But because the nervous system has reorganized around it.
+
+---
+
+**Related articles:**
+- [The Sacred Object: Why Limerence Feels Like Destiny, Not Just Attraction](/articles/the-sacred-object/)
+- [What Is Love, Really? A Structural Explanation Beyond Emotion and Chemistry](/articles/love-explained-by-the-halmetoja-model/)
+- [The Search for the Missing Mirror: Why Some People Feel Incomplete Without a Relationship](/articles/the-search-for-the-missing-mirror/)
+- [Are You CENTER, ORBIT, or a False CENTER? Understanding Where Your Stability Comes From](/articles/are-you-center-orbit-or-a-false-center/)

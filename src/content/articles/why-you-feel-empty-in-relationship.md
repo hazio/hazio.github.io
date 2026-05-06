@@ -1,6 +1,6 @@
 ---
 title: "Why You Feel Empty in Your Relationship (Even If Nothing Is ‘Wrong’)"
-description: "Why emotional emptiness can appear inside relationships — and how regulatory asymmetry and identity suppression contribute to the experience."
+description: "Feeling empty in a relationship even though nothing is obviously wrong? Learn why emotional emptiness in relationships comes from regulatory asymmetry — not lack of love."
 tags: ["emptiness", "relationships", "identity", "narcissism", "empathy"]
 date: 2026-03-01
 draft: false
@@ -206,3 +206,15 @@ It is often the body’s indicator that your internal movement has been constrai
 ---
 
 To understand the structural mechanics behind relational asymmetry and identity formation, explore the [Halmetoja Model framework](/halmetoja-model/).
+
+---
+
+---
+
+**Related articles:**
+- [How Asymmetry Destroys Relationships (Slowly, Structurally, Predictably)](/articles/how-asymmetry-destroys-relationships/)
+- [Why Empaths Burn Out (Even When They Care More Than Anyone Else)](/articles/why-empaths-burn-out/)
+- [The Cost of Adaptation: How Survival Strategies Become Identity Traps](/articles/the-cost-of-adaptation/)
+- [Why Avoiding Abandonment Creates Self-Abandonment](/articles/why-avoiding-abandonment-creates-self-abandonment/)
+
+*The Invisible Gravity* is a book about relationships that felt impossible to leave — and why. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).

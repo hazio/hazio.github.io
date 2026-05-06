@@ -1,6 +1,6 @@
 ---
-title: "What Is Not Integrated Is Transmitted"
-description: "How unintegrated experience moves across generations — not as knowledge, but as structure."
+title: "What Is Not Integrated Is Transmitted: How Unresolved Trauma Passes Between Generations"
+description: "Unresolved emotional patterns don't just repeat — they transmit structurally across generations. Learn why awareness alone doesn't break the cycle and what actually does."
 date: 2026-04-20
 draft: false
 ---
@@ -350,3 +350,11 @@ Until:
 And when that happens:
 
 > what was once transmitted begins to end
+
+---
+
+**Related articles:**
+- [The Vector Model of Integration: Why You Can't Force Healing](/articles/the-vector-model-of-integration/)
+- [Why Integration Fails: It's Not Resistance — It's Capacity](/articles/why-integration-fails/)
+- [What Emotional Regulation Actually Means (It's Not About Calming Down)](/articles/what-regulation-actually-means/)
+- [When the Child Becomes the Mirror: How Parentification Creates Empathic ORBIT Patterns](/articles/when-the-child-becomes-the-mirror/)

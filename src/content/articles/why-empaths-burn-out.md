@@ -1,6 +1,6 @@
 ---
 title: "Why Empaths Burn Out (Even When They Care More Than Anyone Else)"
-description: "Why empaths burn out in relationships — and how chronic over-regulation leads to emotional exhaustion and identity loss."
+description: "Empath burnout isn't caused by caring too much — it's caused by chronic regulatory asymmetry. Learn why empaths exhaust themselves in relationships and how to stop the cycle."
 tags: ["empathy", "burnout", "relationships", "regulation", "empaths"]
 date: 2026-03-01
 draft: false
@@ -185,3 +185,15 @@ Burnout is the body’s signal that redistribution is overdue.
 ---
 
 To understand the structural mechanics behind relational cost distribution, explore the [Halmetoja Model framework](/halmetoja-model/).
+
+---
+
+---
+
+**Related articles:**
+- [The Cost of Adaptation: How Survival Strategies Become Identity Traps](/articles/the-cost-of-adaptation/)
+- [Why You Feel Empty in Your Relationship (Even If Nothing Is 'Wrong')](/articles/why-you-feel-empty-in-relationship/)
+- [Why Avoiding Abandonment Creates Self-Abandonment](/articles/why-avoiding-abandonment-creates-self-abandonment/)
+- [Humans Are Built to Adapt, Not to Be Whole](/articles/humans-are-built-to-adapt-not-to-be-whole/)
+
+*The Invisible Gravity* explores these dynamics in depth — why the relationship could not have ended any other way. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).
