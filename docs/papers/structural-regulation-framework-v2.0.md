@@ -1,3 +1,11 @@
+---
+title: "Structural Regulation Framework"
+subtitle: "A Dimensional Model of Internal Regulation Capacity, Structural Flexibility, and Externalization Dynamics"
+author: "Jani Halmetoja"
+date: "2026"
+toc: true
+---
+
 # Structural Regulation Framework
 ## A Dimensional Model of Internal Regulation Capacity, Structural Flexibility, and Externalization Dynamics
 
