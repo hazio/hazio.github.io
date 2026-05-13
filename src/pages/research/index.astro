@@ -1,0 +1,293 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Research"
+  description="The formal academic framework behind the Halmetoja Model — the Structural Regulation Framework (SRF)."
+>
+  <article class="research">
+    <header class="research-header">
+      <p class="eyebrow">Academic Foundation</p>
+      <h1>Research</h1>
+      <p class="lead">
+        The Halmetoja Model uses CENTER/ORBIT terminology for accessibility.
+        The formal academic framework is called the <strong>Structural Regulation Framework (SRF)</strong>.
+      </p>
+    </header>
+
+    <section class="bridge">
+      <h2>Two languages, one architecture</h2>
+      <p>
+        The popular articles on this site use CENTER and ORBIT as intuitive labels
+        for regulation location. The academic paper uses precise construct definitions
+        designed for empirical testing and falsification.
+      </p>
+
+      <div class="mapping">
+        <div class="map-row">
+          <span class="map-popular">CENTER</span>
+          <span class="map-arrow">→</span>
+          <span class="map-academic">Internal Regulation Capacity (IRC)</span>
+        </div>
+        <div class="map-row">
+          <span class="map-popular">ORBIT</span>
+          <span class="map-arrow">→</span>
+          <span class="map-academic">External Regulation Dependence (ERD)</span>
+        </div>
+        <div class="map-row">
+          <span class="map-popular">Integration</span>
+          <span class="map-arrow">→</span>
+          <span class="map-academic">Structural Flexibility (SF)</span>
+        </div>
+        <div class="map-row">
+          <span class="map-popular">Speed of externalization</span>
+          <span class="map-arrow">→</span>
+          <span class="map-academic">Regulation Externalization Latency (REL)</span>
+        </div>
+        <div class="map-row">
+          <span class="map-popular">ORBIT channels</span>
+          <span class="map-arrow">→</span>
+          <span class="map-academic">Externalization Vectors (EV)</span>
+        </div>
+      </div>
+
+      <p>
+        The relationship is not one-to-one renaming. The academic framework introduces
+        orthogonal dimensions (IRC × SF), structural levels, falsifiability criteria,
+        and a dynamic process variable (REL) proposed as the framework's primary
+        empirical contribution.
+      </p>
+    </section>
+
+    <section class="papers">
+      <h2>Papers</h2>
+
+      <div class="paper-card">
+        <div class="paper-info">
+          <h3>Structural Regulation Framework v2.0</h3>
+          <p class="paper-subtitle">
+            A Dimensional Model of Internal Regulation Capacity, Structural Flexibility, and Externalization Dynamics
+          </p>
+          <p class="paper-meta">
+            Halmetoja, J. (2026). Preprint.
+          </p>
+          <p class="paper-desc">
+            The full conceptual architecture: two orthogonal capacity axes (IRC, SF),
+            a dynamic process variable (REL), externalization vectors, tension ontology,
+            testable hypotheses, and explicit falsifiability criteria.
+          </p>
+        </div>
+        <div class="paper-actions">
+          <a href="/SRF-v2.0.pdf" class="button button-primary" target="_blank" rel="noopener">
+            Download PDF
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="status">
+      <h2>Current status</h2>
+      <ul>
+        <li><strong>Conceptual framework:</strong> complete (v2.0)</li>
+        <li><strong>Empirical validation:</strong> not yet begun</li>
+        <li><strong>REL measurement paradigm:</strong> proposed, untested</li>
+        <li><strong>Preprint submission:</strong> pending</li>
+      </ul>
+      <p>
+        The framework is a proto-theoretical contribution — conceptually coherent,
+        explicitly falsifiable, but not yet empirically validated. Its fate depends
+        primarily on whether REL demonstrates independent predictive value beyond
+        existing constructs.
+      </p>
+    </section>
+
+    <section class="collaboration">
+      <h2>Collaboration</h2>
+      <p>
+        If you are a researcher interested in testing REL, validating the IRC/SF
+        distinction, or exploring the framework empirically, I welcome contact.
+      </p>
+      <p>
+        Particularly valuable would be collaboration with psychometricians,
+        personality researchers, or clinical scientists with access to experimental
+        paradigms and participant pools.
+      </p>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .research {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 2rem 0 4rem;
+  }
+
+  .research-header {
+    margin-bottom: 3rem;
+  }
+
+  .eyebrow {
+    margin: 0 0 0.75rem;
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  h1 {
+    margin: 0 0 1rem;
+    font-size: clamp(2.2rem, 5vw, 3.5rem);
+    letter-spacing: -0.03em;
+  }
+
+  .lead {
+    font-size: 1.1rem;
+    line-height: 1.75;
+    color: var(--muted);
+  }
+
+  h2 {
+    margin: 2.5rem 0 1rem;
+    font-size: 1.5rem;
+    letter-spacing: -0.02em;
+  }
+
+  p, li {
+    line-height: 1.75;
+    color: var(--muted);
+  }
+
+  ul {
+    padding-left: 1.25rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  li strong {
+    color: var(--text);
+  }
+
+  .bridge {
+    margin-bottom: 3rem;
+  }
+
+  .mapping {
+    margin: 1.5rem 0;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+  }
+
+  .map-row {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem 0;
+    font-size: 0.95rem;
+  }
+
+  .map-row + .map-row {
+    border-top: 1px solid var(--border);
+  }
+
+  .map-popular {
+    min-width: 180px;
+    color: var(--text);
+    font-weight: 500;
+  }
+
+  .map-arrow {
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+
+  .map-academic {
+    color: var(--accent);
+    font-size: 0.9rem;
+  }
+
+  .paper-card {
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+    padding: 1.75rem;
+    margin: 1rem 0;
+  }
+
+  .paper-card h3 {
+    margin: 0 0 0.25rem;
+    font-size: 1.15rem;
+  }
+
+  .paper-subtitle {
+    margin: 0 0 0.75rem;
+    font-size: 0.95rem;
+    font-style: italic;
+    color: var(--text-secondary);
+  }
+
+  .paper-meta {
+    margin: 0 0 0.75rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  .paper-desc {
+    margin: 0;
+    font-size: 0.95rem;
+  }
+
+  .paper-actions {
+    margin-top: 1.25rem;
+  }
+
+  .button {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.75rem 1.25rem;
+    border-radius: var(--radius);
+    font-size: 0.9rem;
+    text-decoration: none;
+    transition: transform 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+  }
+
+  .button:hover {
+    transform: translateY(-1px);
+  }
+
+  .button-primary {
+    background: rgba(126, 184, 224, 0.12);
+    border: 1px solid rgba(126, 184, 224, 0.35);
+    color: var(--accent);
+  }
+
+  .button-primary:hover {
+    background: rgba(126, 184, 224, 0.2);
+    border-color: rgba(126, 184, 224, 0.55);
+  }
+
+  .status, .collaboration {
+    margin-top: 2.5rem;
+  }
+
+  @media (max-width: 640px) {
+    .map-row {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.25rem;
+    }
+
+    .map-popular {
+      min-width: unset;
+    }
+
+    .map-arrow {
+      display: none;
+    }
+  }
+</style>
