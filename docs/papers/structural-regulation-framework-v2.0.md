@@ -5,15 +5,13 @@
 
 ## Abstract
 
-The Structural Regulation Framework (SRF) proposes a dimensional model of human psychological regulation organized around two orthogonal capacity axes — Internal Regulation Capacity (IRC) and Structural Flexibility (SF) — and a dynamic process variable, Regulation Externalization Latency (REL).
+The Structural Regulation Framework (SRF) proposes a dimensional model of human psychological regulation organized around two distinct interacting capacity dimensions — Internal Regulation Capacity (IRC) and Structural Flexibility (SF) — and a dynamic process variable, Regulation Externalization Latency (REL).
 
 IRC describes the maximum capacity to maintain regulatory coherence internally under unresolved activation. SF describes the capacity to hold tension, contradiction, and reality contact while shifting between regulatory strategies without fragmentation or rigidity. REL measures the time interval between unresolved activation and initiation of external regulatory behavior.
 
-The framework further proposes externalization vectors — directional channels (validation, dominance, shame-defense) through which external regulation operates — and a tension ontology distinguishing attachment, identity, contradiction, shame, and control tension subclasses.
+The framework further proposes externalization vectors — directional channels through which external regulation operates — and distinguishes structural levels at which regulation organizes (state, strategy, architecture, capacity).
 
-The model integrates concepts from attachment theory, affect regulation, self psychology, object relations, nervous system regulation, and behavioral genetics. It adopts a probabilistic developmental position consistent with recent evidence showing negligible shared familial environmental contribution to regulation-related traits (Back et al., 2026), proposing that regulation organization emerges through interaction between genetic predisposition, temperament, and individual-specific environmental experiences.
-
-The framework's primary proposed empirical contribution is REL — a dynamic process variable that may capture variance in regulation organization not fully measured by existing attachment, distress tolerance, or differentiation constructs. This claim remains hypothetical and requires empirical testing.
+Drawing on attachment theory, affect regulation, and differentiation of self research, the framework attempts to extend existing constructs by introducing REL as a dynamic process variable that may capture variance in regulation organization not fully measured by existing attachment, distress tolerance, or differentiation measures. This claim remains hypothetical and requires empirical testing.
 
 This paper introduces the conceptual architecture, proposes operational definitions, outlines testable hypotheses, and acknowledges substantial limitations requiring empirical validation.
 
@@ -56,12 +54,12 @@ IRC refers to the maximum capacity of a psychological system to maintain regulat
 IRC includes:
 - Tolerance of unresolved activation without discharge
 - Maintenance of identity coherence under relational stress
-- Ability to delay externalization
 
 IRC does NOT include:
 - Emotional suppression (this is Rigid Internal Regulation, not IRC)
 - Independence from others
 - Absence of distress
+- Behavioral delay per se (REL measures externalization timing as a separate construct; IRC provides the structural capacity that enables delay, but delay itself is an outcome, not a component of IRC)
 
 IRC describes coherence *under* distress, not absence of it.
 
@@ -84,13 +82,15 @@ SF consists of four components:
 | Reality contact | Perceive and remain with what is actually happening | Idealization, denial, projection |
 | Regulatory flexibility | Shift between internal and external regulation adaptively | Rigidity (locked internal or locked external) |
 
+Whether these four components form a single latent factor or represent distinguishable subfacets remains the most important unresolved measurement question for SF. It is possible that an individual may demonstrate high reality contact but low contradiction holding, or high regulatory flexibility but rapid discharge under activation. The framework proposes SF as a composite for theoretical parsimony while acknowledging that factor-analytic investigation may reveal a multidimensional structure requiring decomposition.
+
 ## 2.5 Relationship Between IRC and SF
 
-IRC and SF are related but not identical:
+IRC and SF are proposed as distinct but interacting dimensions:
 - **IRC** answers: "How much activation can the system hold internally?"
 - **SF** answers: "How flexibly can the system process what it holds?"
 
-SF is constrained by IRC (cannot flexibly process what cannot be held) but not reducible to it (holding is necessary but not sufficient for flexibility).
+SF is constrained by IRC (cannot flexibly process what cannot be held) but not reducible to it (holding is necessary but not sufficient for flexibility). This asymmetric constraint means the dimensions are not fully independent — high SF requires at least moderate IRC — but they are proposed as empirically separable constructs that capture different aspects of regulatory competence. Whether they prove distinguishable in factor-analytic investigation remains the framework's most important unresolved measurement question (see Section 13.3).
 
 ## 2.6 Tension
 
@@ -213,6 +213,8 @@ The two capacity dimensions create a continuous two-dimensional space. For heuri
 | **High IRC** | RIR region: tends toward rigidity, suppression | IIR region: tends toward flexibility, integration |
 | **Low IRC** | CED region: tends toward compulsive externalization | AEE region: tends toward adaptive engagement |
 
+This space describes *capacity*, not habitual behavior. An individual in the IIR capacity region may still enter ERD states under sufficient activation. An individual in the AEE region possesses the capacity for internal regulation but may contextually choose external engagement. The quadrant labels describe where the system *can* operate, not where it permanently resides.
+
 Individuals are not located permanently in one region. Movement across the space is expected depending on activation level, context, and developmental change.
 
 ### 5.1 Rigid Internal Regulation (RIR)
@@ -229,7 +231,7 @@ Low IRC + Low SF + High ERD. Persistent inability to maintain coherence without 
 
 ### 5.4 Adaptive External Engagement (AEE)
 
-High IRC + High SF + contextual ERD. External regulation utilized without identity dependence. The system can function without it but chooses to use it. Co-regulation is mutual rather than asymmetric.
+High SF + contextual ERD without identity dependence. The defining feature of AEE is not a specific IRC level but the quality of external engagement: the system uses external regulation adaptively rather than compulsively, and coherence survives its temporary absence. Co-regulation is mutual rather than asymmetric.
 
 The critical distinction between CED and AEE: does coherence survive the temporary absence of external input?
 
@@ -317,25 +319,38 @@ Unresolved tension activates competing regulatory tendencies: internal processin
 
 REL is a dynamic process variable, not a static trait description.
 
-## 7.4 Proposed Experimental Paradigms
+## 7.4 Neurophysiological Evidence
+
+Recent ERP research provides preliminary neurophysiological support for the REL construct. Mück, Mattes, Porth, and Stahl (2023) demonstrated that narcissistic Rivalry — conceptually consistent with the shame-defense vector — was associated with higher error-related negativity (Ne) amplitudes within 50–150ms of error commission under ego-threatening conditions. The Ne reflects trait defensive reactivity: a stable tendency to rapidly mobilize defensive systems following endogenous threat (Weinberg, Riesel, & Hajcak, 2012).
+
+This finding is structurally consistent with the REL construct in several ways:
+
+1. **Temporal precision**: The Ne captures defensive activation within 150ms — demonstrating that regulation-relevant processing occurs at timescales consistent with REL's proposed measurement domain.
+2. **Vector specificity**: Rivalry (shame-defense/dominance) and Admiration (validation) produced different neurophysiological profiles, consistent with the framework's prediction that different vectors produce different REL profiles under different activation contexts (H3).
+3. **Dissociation of detection and awareness**: The error positivity (Pe), associated with conscious error awareness, did not vary with either narcissism dimension — suggesting that error evidence accumulates similarly regardless of narcissism level, but conscious acknowledgment may differ. This dissociation is conceptually compatible with — though not direct evidence for — the RIR pattern (high IRC + low SF), in which the system holds activation internally without flexibly processing it into awareness.
+
+The Ne paradigm represents a potential neurophysiological correlate of the processes underlying REL — capturing the speed of internal defensive mobilization following self-relevant threat, which may function as an antecedent to behavioral externalization. The Ne does not directly measure externalization timing (REL's definitional domain) but rather the rapidity of threat detection that precedes externalization. Whether Ne-based measures predict behavioral REL measures (reassurance-seeking latency, message-checking frequency) remains an empirical question requiring convergent validation.
+
+## 7.5 Proposed Experimental Paradigms
 
 - **Delayed communication tasks**: emotionally meaningful but ambiguous communication followed by delayed response
 - **Attachment ambiguity conditions**: unresolved relational uncertainty without clarification
 - **Incomplete feedback paradigms**: ambiguous evaluative signals without closure
 
-## 7.5 Potential Measures
+## 7.6 Potential Measures
 
 - Time to reassurance-seeking
 - Message-checking frequency
 - Compulsive communication attempts
 - Emotional escalation timing
-- Physiological activation duration
 
-## 7.6 Distinguishing REL From Suppression
+Physiological measures (HRV, cortisol reactivity, Ne amplitude) represent potential correlates or antecedents of REL rather than direct operationalizations. REL is defined as behavioral externalization latency — the interval before external regulatory behavior initiates. Physiological activation may predict or accompany REL but is not equivalent to it.
+
+## 7.7 Distinguishing REL From Suppression
 
 Long REL alone does not indicate high IRC. REL must be interpreted alongside SF measures and suppression-control indicators. Long REL + low SF = RIR (suppression), not integration.
 
-## 7.7 Temperament-Sensitive REL
+## 7.8 Temperament-Sensitive REL
 
 REL may be partially influenced by baseline nervous system sensitivity. Short REL does not necessarily indicate weakness or pathology. It may emerge from interaction between biologically heightened sensitivity, unresolved ERD, and learned externalization patterns.
 
@@ -357,13 +372,13 @@ The framework explicitly rejects deterministic developmental interpretation.
 
 ## 8.2 Behavioral Genetic Evidence
 
-Extended twin family research (Back et al., 2026) demonstrates:
-- Genetics and individual-specific environmental factors each explain ~50% of variance in narcissism
+Extended twin family research (Back et al., 2026) demonstrates for narcissism-related traits specifically:
+- Genetics and individual-specific environmental factors each explain substantial variance (~50% each)
 - Shared familial environment contributes negligibly
-- Parent–child correlation is entirely genetically driven
+- Parent–child similarity in narcissism appears genetically mediated rather than environmentally transmitted
 - Assortative mating exists (similar narcissism levels in partners)
 
-The framework proposes that genetic factors create probabilistic predispositions toward externalized regulation, while individual-specific experiences shape how these develop into regulation architectures.
+The framework draws on this evidence as contextually relevant rather than foundational: these findings apply to narcissism as a personality trait, not to regulation architecture directly. The framework proposes that genetic factors may create probabilistic predispositions toward externalized regulation (e.g., heightened reward sensitivity, attachment-system reactivity), while individual-specific experiences shape how these develop into regulation architectures. The degree to which IRC, SF, and ERD themselves show similar heritability patterns remains unknown and requires dedicated behavioral genetic investigation.
 
 ## 8.3 Differential Encoding
 
@@ -450,7 +465,7 @@ High IRC + low SF (RIR region) will be distinguishable from high IRC + high SF (
 
 ## H6 — Developmental Interaction
 
-Regulation organization will reflect interaction between genetic predisposition and individual-specific environmental experiences, with negligible contribution from shared familial environments — consistent with Back et al. (2026).
+Regulation organization will reflect interaction between genetic predisposition and individual-specific environmental experiences, consistent with behavioral genetic evidence suggesting substantial nonshared environmental contribution to personality-related traits.
 
 ## H7 — Dynamic Movement
 
@@ -630,6 +645,8 @@ Kohut, H. (1971). *The analysis of the self*. University of Chicago Press.
 
 Kowalchyk, M., Palmieri, H., Conte, E., & Wallisch, P. (2021). Narcissism through the lens of performative self-elevation. *Personality and Individual Differences*, 177, 110780. https://doi.org/10.1016/j.paid.2021.110780
 
+Mück, M., Mattes, A., Porth, E., & Stahl, J. (2023). Narcissism and the perception of failure – evidence from the error-related negativity and the error positivity. *Personality Neuroscience*, 6, e2, 1–14. https://doi.org/10.1017/pen.2022.7
+
 Porges, S. W. (2011). *The polyvagal theory*. W. W. Norton.
 
 Schore, A. N. (2003). *Affect regulation and the repair of the self*. W. W. Norton.
@@ -637,6 +654,8 @@ Schore, A. N. (2003). *Affect regulation and the repair of the self*. W. W. Nort
 Siegel, D. J. (1999). *The developing mind*. Guilford Press.
 
 Skowron, E. A., & Friedlander, M. L. (1998). The Differentiation of Self Inventory: Development and initial validation. *Journal of Counseling Psychology*, 45(3), 235–246.
+
+Weinberg, A., Riesel, A., & Hajcak, G. (2012). Integrating multiple perspectives on error-related brain activity: The ERN as a neural indicator of trait defensive reactivity. *Motivation and Emotion*, 36, 84–100. https://doi.org/10.1007/s11031-011-9269-y
 
 Winnicott, D. W. (1960). Ego distortion in terms of true and false self. In *The maturational processes and the facilitating environment* (pp. 140–152). Hogarth Press.
 
