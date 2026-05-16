@@ -456,7 +456,7 @@ Gratz, K. L., & Roemer, L. (2004). Multidimensional assessment of emotion regula
 
 Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology*, 2(3), 271–299. https://doi.org/10.1037/1089-2680.2.3.271
 
-Halmetoja, J. (2026). Structural Regulation Framework: A dimensional model of internal regulation capacity, structural flexibility, and externalization dynamics. Zenodo. https://zenodo.org/records/20215822
+Halmetoja, J. (2026). Structural Regulation Framework: A dimensional model of internal regulation capacity, structural flexibility, and externalization dynamics. Zenodo. https://doi.org/10.5281/zenodo.20215822
 
 Joiner, T. E., Metalsky, G. I., Katz, J., & Beach, S. R. H. (1999). Depression and excessive reassurance-seeking. *Psychological Inquiry*, 10(3), 269–278. https://doi.org/10.1207/S15327965PLI1004_1
 
