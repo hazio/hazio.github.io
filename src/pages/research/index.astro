@@ -73,13 +73,39 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
             Halmetoja, J. (2026). Preprint.
           </p>
           <p class="paper-desc">
-            The full conceptual architecture: two orthogonal capacity axes (IRC, SF),
+            The full conceptual architecture: two distinct interacting capacity dimensions (IRC, SF),
             a dynamic process variable (REL), externalization vectors, tension ontology,
             testable hypotheses, and explicit falsifiability criteria.
           </p>
         </div>
         <div class="paper-actions">
-          <a href="/SRF-v2.0.pdf" class="button button-primary" target="_blank" rel="noopener">
+          <a href="https://zenodo.org/records/20215822" class="button button-primary" target="_blank" rel="noopener">
+            View on Zenodo
+          </a>
+          <a href="/SRF-v2.0.pdf" class="button button-secondary" target="_blank" rel="noopener">
+            Download PDF
+          </a>
+        </div>
+      </div>
+
+      <div class="paper-card">
+        <div class="paper-info">
+          <h3>Regulation Externalization Latency (REL)</h3>
+          <p class="paper-subtitle">
+            A Proposed Dynamic Process Variable in Emotion Regulation
+          </p>
+          <p class="paper-meta">
+            Halmetoja, J. (2026). Working paper.
+          </p>
+          <p class="paper-desc">
+            A focused construct paper defining REL operationally, distinguishing it from
+            distress tolerance, negative urgency, and attachment anxiety, and proposing
+            experimental paradigms for measurement. Includes the nonlinearity hypothesis
+            and process compression acknowledgment.
+          </p>
+        </div>
+        <div class="paper-actions">
+          <a href="/REL-v1.0.pdf" class="button button-primary" target="_blank" rel="noopener">
             Download PDF
           </a>
         </div>
@@ -92,7 +118,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
         <li><strong>Conceptual framework:</strong> complete (v2.0)</li>
         <li><strong>Empirical validation:</strong> not yet begun</li>
         <li><strong>REL measurement paradigm:</strong> proposed, untested</li>
-        <li><strong>Preprint submission:</strong> pending</li>
+        <li><strong>Preprint:</strong> available on <a href="https://zenodo.org/records/20215822" target="_blank" rel="noopener">Zenodo</a></li>
       </ul>
       <p>
         The framework is a proto-theoretical contribution — conceptually coherent,
@@ -269,6 +295,18 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
   .button-primary:hover {
     background: rgba(126, 184, 224, 0.2);
     border-color: rgba(126, 184, 224, 0.55);
+  }
+
+  .button-secondary {
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--muted);
+  }
+
+  .button-secondary:hover {
+    background: var(--panel);
+    border-color: var(--border-hover);
+    color: var(--text);
   }
 
   .status, .collaboration {
