@@ -3,22 +3,25 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 
 const pieces = [
   {
+    slug: "binary-world",
+    title: "The Binary World",
+    subtitle: "Splitting as a Compression Algorithm",
+    image: "/artwork/creation-of-adam.png",
+    featured: true,
+  },
+  {
     slug: "electrical-circuit-model",
     title: "SRF Electrical Circuit Model",
     subtitle: "Psychological Regulation as an Electrical Circuit",
     image: "/artwork/electrical-circuit-model.png",
+    featured: false,
   },
   {
     slug: "phase-transition",
     title: "SRF Phase Transition Diagram",
     subtitle: "Water Metaphor of Psychological Regulation",
     image: "/artwork/phase-transition.png",
-  },
-  {
-    slug: "binary-world",
-    title: "The Binary World",
-    subtitle: "Splitting as a Compression Algorithm",
-    image: "/artwork/creation-of-adam.png",
+    featured: false,
   },
 ];
 ---
@@ -37,7 +40,19 @@ const pieces = [
   </section>
 
   <section class="grid">
-    {pieces.map((piece) => (
+    {pieces.filter(p => p.featured).map((piece) => (
+      <a class="card featured" href={`/artwork/${piece.slug}/`}>
+        <div class="card-image">
+          <img src={piece.image} alt={piece.title} loading="lazy" />
+        </div>
+        <div class="card-body">
+          <span class="pill">Featured</span>
+          <h2 class="title">{piece.title}</h2>
+          <p class="desc">{piece.subtitle}</p>
+        </div>
+      </a>
+    ))}
+    {pieces.filter(p => !p.featured).map((piece) => (
       <a class="card" href={`/artwork/${piece.slug}/`}>
         <div class="card-image">
           <img src={piece.image} alt={piece.title} loading="lazy" />
@@ -91,6 +106,35 @@ const pieces = [
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 18px;
+  }
+
+  .card.featured {
+    grid-column: span 2;
+  }
+
+  .card.featured .card-image {
+    aspect-ratio: 21 / 9;
+  }
+
+  .card.featured .title {
+    font-size: 1.4rem;
+  }
+
+  .card.featured .desc {
+    font-size: 1rem;
+  }
+
+  .pill {
+    display: inline-block;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    border: 1px solid rgba(126, 184, 224, 0.3);
+    background: rgba(126, 184, 224, 0.08);
+    padding: 4px 10px;
+    border-radius: 999px;
+    margin-bottom: 0.5rem;
   }
 
   .card {
