@@ -140,6 +140,35 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
         binary — but real externalization is often gradual. These are pedagogical
         simplifications, not precise formalizations.
       </p>
+
+      <h2>Related reading</h2>
+      <div class="related">
+        <a href="/halmetoja-model/" class="related-link">
+          <span class="related-label">Framework</span>
+          <span class="related-title">The Halmetoja Model</span>
+          <span class="related-desc">The entry point — CENTER, ORBIT, and what happens when tension appears.</span>
+        </a>
+        <a href="/halmetoja-model/center-orbit-model/" class="related-link">
+          <span class="related-label">Framework</span>
+          <span class="related-title">The CENTER–ORBIT Model</span>
+          <span class="related-desc">Where regulation happens: inside the system or through external loops.</span>
+        </a>
+        <a href="/articles/what-regulation-actually-means/" class="related-link">
+          <span class="related-label">Article</span>
+          <span class="related-title">What Regulation Actually Means</span>
+          <span class="related-desc">A structural definition of regulation as what prevents collapse under tension.</span>
+        </a>
+        <a href="/articles/structure-vs-behavior-why-this-distinction-matters/" class="related-link">
+          <span class="related-label">Article</span>
+          <span class="related-title">Structure vs Behavior</span>
+          <span class="related-desc">Why the same behavior can emerge from completely different internal structures.</span>
+        </a>
+        <a href="/research/" class="related-link">
+          <span class="related-label">Research</span>
+          <span class="related-title">Structural Regulation Framework (SRF)</span>
+          <span class="related-desc">The formal academic paper — IRC, SF, REL, and the full dimensional model.</span>
+        </a>
+      </div>
     </div>
   </article>
 </BaseLayout>
@@ -198,5 +227,56 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
     font-size: 1.05rem;
   }
 
-  @media (max-width: 640px) { .states { grid-template-columns: 1fr; } }
+  .related {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+
+  .related-link {
+    display: block;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.12s ease, border-color 0.12s ease, background 0.12s ease;
+  }
+
+  .related-link:hover {
+    transform: translateY(-2px);
+    border-color: var(--border-hover);
+    background: var(--panel);
+  }
+
+  .related-label {
+    display: block;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 0.3rem;
+  }
+
+  .related-title {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 0.25rem;
+  }
+
+  .related-desc {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--muted);
+    line-height: 1.4;
+  }
+
+  @media (max-width: 640px) {
+    .related { grid-template-columns: 1fr; }
+    .states { grid-template-columns: 1fr; }
+  }
 </style>
