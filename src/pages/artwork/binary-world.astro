@@ -1,0 +1,162 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="The Binary World"
+  description="Splitting as a compression algorithm — when the system cannot hold contradiction, the world becomes black and white."
+>
+  <article class="piece-page">
+    <a href="/artwork/" class="back">← Artwork</a>
+
+    <div class="piece-image">
+      <img
+        src="/artwork/binary-world.png"
+        alt="Black and white silhouette scene — people in a park rendered entirely without grey tones, representing the splitting mechanism"
+      />
+    </div>
+
+    <div class="piece-text">
+      <h1>The Binary World</h1>
+      <p class="piece-subtitle">Splitting as a Compression Algorithm</p>
+
+      <h2>What this image shows</h2>
+      <p>
+        A world rendered entirely in black and white. No grey. People, trees,
+        buildings, relationships — all compressed into two values. Not because
+        the world is actually binary, but because the system viewing it cannot
+        hold both simultaneously.
+      </p>
+
+      <h2>The structural logic of splitting</h2>
+      <p>
+        This image works because it makes an abstract psychological mechanism
+        immediately intuitive. The idea is not that someone literally sees people
+        as black or white — but that experiential classification operates this way:
+      </p>
+      <ul>
+        <li>Completely good</li>
+        <li>Completely bad</li>
+      </ul>
+      <p>
+        Without the stable capacity to hold in mind:
+        <em>"This person hurt me AND can still be important to me"</em> — or —
+        <em>"This person is mostly good, even though I'm disappointed right now."</em>
+      </p>
+
+      <h2>What is missing from this picture</h2>
+      <p>
+        Grey. The capacity to hold contradiction. The ability to experience
+        someone as both disappointing and valuable at the same time without
+        one canceling the other.
+      </p>
+      <p>
+        In SRF terms: low structural flexibility + low contradiction tolerance
+        under attachment activation → binary stabilization strategy.
+      </p>
+
+      <h2>Why the world becomes binary</h2>
+      <p>
+        The world is not black and white because the person wants to see it
+        that way. It becomes binary because the system needs a rapid stabilization
+        solution under contradiction. When the system cannot hold "good AND bad"
+        simultaneously, it must choose one — and eliminate the other.
+      </p>
+
+      <div class="component">
+        <h3>Idealization</h3>
+        <p>Contradiction eliminated in the positive direction. All white. The object becomes entirely good, safe, perfect — because ambiguity is intolerable.</p>
+      </div>
+
+      <div class="component">
+        <h3>Devaluation</h3>
+        <p>Contradiction eliminated in the negative direction. All black. The object becomes entirely bad, worthless, threatening — because holding both would destabilize the system.</p>
+      </div>
+
+      <div class="component">
+        <h3>The split itself</h3>
+        <p>Not a personality flaw. A compression algorithm for an unstable system. Binary encoding is how the system preserves coherence when it cannot afford complexity.</p>
+      </div>
+
+      <h2>Integration as the first grey pixel</h2>
+      <p>
+        The beginning of integration is not a grand insight. It is the first
+        moment where both can coexist without one destroying the other.
+        The first grey pixel in a binary image. The experience:
+        <em>"This person disappointed me — and I am still here. They are still here.
+        We survived the contradiction."</em>
+      </p>
+      <p>
+        That experience, repeated, builds contradiction holding capacity.
+        The image gradually gains grey tones. Not because someone decided
+        to "think more nuanced thoughts" — but because the system's capacity
+        to hold complexity increased through survived experience.
+      </p>
+
+      <h2>The structural interpretation</h2>
+      <p class="insight">
+        Splitting is not a moral failure. It is what happens when a system
+        that cannot hold contradiction encounters contradiction. The binary
+        world is not chosen — it is the only world available when grey
+        requires more structural flexibility than the system currently possesses.
+      </p>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .piece-page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1rem 0 4rem;
+  }
+
+  .back {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--muted);
+    text-decoration: none;
+  }
+  .back:hover { color: var(--text); }
+
+  .piece-image {
+    margin-bottom: 2.5rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: #000;
+  }
+  .piece-image img { width: 100%; height: auto; display: block; }
+
+  h1 { margin: 0 0 0.25rem; font-size: 2rem; letter-spacing: -0.02em; }
+  .piece-subtitle { margin: 0 0 2rem; font-size: 1.05rem; color: var(--muted); font-style: italic; }
+  h2 { margin: 2rem 0 0.75rem; font-size: 1.2rem; }
+  h3 { margin: 0 0 0.4rem; font-size: 1rem; color: var(--accent); }
+  p { line-height: 1.75; color: var(--muted); }
+
+  ul {
+    padding-left: 1.25rem;
+    color: var(--muted);
+    line-height: 1.75;
+  }
+  li { margin-bottom: 0.3rem; }
+
+  .component {
+    margin-bottom: 1.25rem;
+    padding: 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--surface);
+  }
+  .component p { margin: 0; }
+
+  .insight {
+    padding: 1.25rem;
+    border-left: 3px solid var(--accent);
+    background: var(--surface);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    color: var(--text);
+    font-size: 1.05rem;
+  }
+</style>
