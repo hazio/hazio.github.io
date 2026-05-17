@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 1080px;
+  height: 1080px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  display: flex;
+}
+.left {
+  width: 50%;
+  background: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+}
+.right {
+  width: 50%;
+  background: #0a0a10;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px;
+}
+.left h2 {
+  color: #0a0a10;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.right h2 {
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.left p {
+  color: #333;
+  font-size: 24px;
+  line-height: 1.6;
+  text-align: center;
+}
+.right p {
+  color: rgba(255,255,255,0.8);
+  font-size: 24px;
+  line-height: 1.6;
+  text-align: center;
+}
+.arrow {
+  margin-top: 20px;
+  font-size: 20px;
+}
+.left .arrow { color: #555; }
+.right .arrow { color: #7eb8e0; }
+</style>
+</head>
+<body>
+  <div class="left">
+    <h2>Idealization</h2>
+    <p>All white.<br>Perfect. Safe.<br>No flaws allowed.</p>
+    <p class="arrow">Contradiction eliminated<br>→ positive direction</p>
+  </div>
+  <div class="right">
+    <h2>Devaluation</h2>
+    <p>All black.<br>Worthless. Gone.<br>No good remains.</p>
+    <p class="arrow">Contradiction eliminated<br>→ negative direction</p>
+  </div>
+</body>
+</html>
