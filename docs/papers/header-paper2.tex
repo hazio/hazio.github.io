@@ -1,0 +1,21 @@
+% Force title page to be its own page, centered vertically
+\renewcommand{\maketitle}{
+  \begin{titlepage}
+    \centering
+    \vspace*{\fill}
+    {\Huge\bfseries Resolution Resistance\par}
+    \vspace{1.5cm}
+    {\Large A Structural Model of Why\\Regulation Architectures Resist Change\par}
+    \vspace{3cm}
+    {\large Jani Halmetoja\par}
+    \vspace{0.3cm}
+    {\normalsize Contact: halmetojamodel@gmail.com\par}
+    \vspace{0.5cm}
+    {\large 2026\par}
+    \vspace*{\fill}
+  \end{titlepage}
+}
+
+% Force page break after table of contents
+\let\oldtableofcontents\tableofcontents
+\renewcommand{\tableofcontents}{\oldtableofcontents\newpage}
