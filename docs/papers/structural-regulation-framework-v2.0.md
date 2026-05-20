@@ -595,6 +595,10 @@ The framework attempts broad explanatory coverage. Many human experiences involv
 
 The model currently possesses greater conceptual coherence than empirical validation. Bridging this gap — particularly through REL measurement — represents the framework's central future challenge.
 
+## 13.11 Global Parameter Simplification
+
+The present paper treats IRC, SF, ERD, and REL as system-wide parameters for theoretical parsimony. However, clinical observation suggests that effective regulatory parameters may vary substantially across different classes of psychologically meaningful signals. A person may demonstrate high effective IRC for status-related activation while showing low effective IRC for shame-related activation. The present paper's global framing should be understood as a first-order approximation. Whether regulatory parameters prove signal-class-specific — and whether such specificity requires formal architectural extension — remains an important open question for future theoretical development.
+
 ---
 
 # 14. Future Research

@@ -252,6 +252,8 @@ The paradox can be stated simply: A system may require dependency-mediated stabi
 
 This creates the proposed Dependency Double Bind. Dependency may be structurally necessary. Dependency recognition may be structurally threatening. Thus, the very condition that could support change may trigger defensive reorganization.
 
+In signal-class terms (Halmetoja, 2026d), this paradox may be understood as severe compression of the dependency signal class: the system cannot process dependency-relevant information at sufficient resolution to tolerate conscious acknowledgment of need.
+
 ## 7.2 Why Dependency Recognition Becomes Threatening
 
 In some narcissistic configurations, explicit recognition of need may activate shame, inferiority, asymmetry exposure, loss of superiority identity, or vulnerability salience.
@@ -453,6 +455,7 @@ Several limitations should be explicitly acknowledged.
 4. Dynamic systems language should not be mistaken for formal mathematical modeling. The present paper proposes conceptual architecture, not computational simulation.
 5. The companion Resolution Resistance manuscript remains unpublished. Its claims should therefore be interpreted provisionally.
 6. The framework does not model narcissism as a distinct categorical pathology, but as a specific configuration within a continuous regulatory space. This positioning may be incompatible with categorical diagnostic traditions.
+7. The present paper treats SRF parameters (IRC, SF, ERD) as global constructs applied to narcissistic organization. A companion paper (Halmetoja, 2026d) proposes that these parameters may operate signal-class-specifically, which would refine the present application toward signal-class-specific compression profiles rather than global parameter descriptions.
 
 These limitations are substantial. The present contribution should therefore be evaluated primarily as theoretical synthesis and hypothesis generation.
 
@@ -475,6 +478,8 @@ Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *P
 Halmetoja, J. (2026a). Structural Regulation Framework (SRF). Zenodo. https://doi.org/10.5281/zenodo.20215822
 
 Halmetoja, J. (2026b). Resolution Resistance: A structural model of why regulation architectures resist change. Preprint.
+
+Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Preprint.
 
 Kernberg, O. F. (1975). *Borderline conditions and pathological narcissism*. Jason Aronson.
 

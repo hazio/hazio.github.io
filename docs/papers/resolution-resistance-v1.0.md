@@ -47,7 +47,7 @@ This paper assumes familiarity with SRF constructs (IRC, SF, ERD, REL, externali
 
 ### Terminological Clarifications
 
-**IRC in this paper** is conceptualized as a dynamic holding-capacity parameter — state-modifiable but structurally constrained. It is not a fixed trait (it can develop through experience) nor a momentary state (it has architectural stability). IRC describes the system's current maximum capacity to contain unresolved activation without discharge. This capacity can change over developmental time but is not freely variable moment-to-moment.
+**IRC in this paper** is conceptualized as a dynamic holding-capacity parameter — state-modifiable but structurally constrained. It is not a fixed trait (it can develop through experience) nor a momentary state (it has architectural stability). IRC describes the system's current maximum capacity to contain unresolved activation without discharge. This capacity can change over developmental time but is not freely variable moment-to-moment. Note: the present paper treats IRC as a global parameter for parsimony. Effective IRC may vary across signal classes (e.g., higher for status-related activation, lower for shame-related activation). The global framing is a first-order approximation; signal-class-specific architecture is developed in a companion paper (Halmetoja, 2026d).
 
 **Resolution** in this paper refers to the observable effective expression of SF under current activation conditions — the degree of experiential complexity the system is currently representing. Resolution is not a separate construct from SF but rather SF's functional output in a given context. A system with moderate SF capacity may express high resolution in low-activation domains and low resolution in high-activation domains (see Section 7).
 
@@ -674,6 +674,8 @@ Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). *Affect regulation,
 Greenberg, L. S. (2002). *Emotion-focused therapy: Coaching clients to work through their feelings*. American Psychological Association.
 
 Halmetoja, J. (2026). Structural Regulation Framework: A dimensional model of internal regulation capacity, structural flexibility, and externalization dynamics. Preprint.
+
+Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Preprint.
 
 Hayes, A. M., Laurenceau, J.-P., Feldman, G., Strauss, J. L., & Cardaciotto, L. (2007). Change is not always linear: The study of nonlinear and discontinuous patterns of change in psychotherapy. *Clinical Psychology Review*, 27(6), 715–723. https://doi.org/10.1016/j.cpr.2007.01.008
 
