@@ -110,6 +110,24 @@ Taken together, the present interpretation suggests that some narcissistic confi
 
 This should not be interpreted as universal classification. Rather, it represents a candidate structural configuration that appears clinically recognizable and theoretically testable.
 
+## 2.5 Selective Compression Rather Than Global Dysfunction
+
+A critical clarification: the present framework does not propose that narcissistic organization reflects globally impaired regulatory capacity. Rather, it proposes a selective compression architecture — a characteristic pattern in which some signal classes are processed at high resolution while others are severely compressed.
+
+A candidate narcissistic compression profile (developed more fully in Halmetoja, 2026d):
+
+| Signal class | Effective resolution |
+|---|---|
+| Status | High |
+| Strategic reasoning | High |
+| Control | Moderate-high |
+| Shame | Very low |
+| Dependency | Very low |
+| Rejection | Very low |
+| Separateness | Very low |
+
+This explains the clinically observed paradox of sophisticated competence coexisting with relational primitiveness — not as inconsistency or masking, but as the natural expression of a selective compression architecture. The system is not globally impaired. It is selectively compressed in specific signal classes while maintaining or exceeding normal resolution in others.
+
 ---
 
 # 3. Defensive Vector Architecture
@@ -298,11 +316,15 @@ The present framework therefore proposes a Domain-Selective Resolution Hypothesi
 
 This hypothesis offers one structural explanation for so-called functional narcissistic presentations — reframed here as domain-preserved functioning under attachment-specific compression.
 
----
+## 8.5 Channel-Dependent Empathy Variation
 
-![Figure 1. Proposed candidate architecture for narcissistic regulatory organization within SRF.](narcissistic-regulation-figure1.svg)
+The selective compression architecture also offers a structural reinterpretation of empathy variation in narcissistic organization. Under the present framework, empathy failure need not reflect global empathic incapacity. Instead, it may emerge as channel-dependent empathy collapse: the system may demonstrate preserved or even sophisticated empathic attunement in low-threat signal classes (professional contexts, abstract reasoning about others' motivations) while showing marked empathic failure specifically when self-threatening signal classes co-activate.
 
----
+When shame, dependency, or rejection signals activate in the observer's own system, available processing bandwidth for other-directed interpretation may become reduced — not because empathy is globally absent, but because the observer's own compressed channels consume regulatory resources that would otherwise support perspective-taking.
+
+This predicts that empathic failure in narcissistic configurations should be context-specific and threat-dependent rather than uniform — a testable claim that distinguishes the present framework from global empathy deficit models.
+
+![Figure 1. Proposed candidate architecture for narcissistic regulatory organization within SRF.](narcissistic-regulation-figure1.png){ width=85% }
 
 # 9. Therapeutic Implications (Speculative)
 
@@ -409,11 +431,7 @@ Therapeutic rupture processes may reveal recurring vector dominance under destab
 
 Structural transformation should display threshold-sensitive nonlinearity rather than gradual trait improvement alone.
 
----
-
-![Figure 2. Proposed domain-selective variation in effective regulatory parameters.](narcissistic-regulation-figure2.svg)
-
----
+![Figure 2. Proposed domain-selective variation in effective regulatory parameters.](narcissistic-regulation-figure2.png){ width=90% }
 
 # 12. Toward Operationalization
 
@@ -456,6 +474,7 @@ Several limitations should be explicitly acknowledged.
 5. The companion Resolution Resistance manuscript remains unpublished. Its claims should therefore be interpreted provisionally.
 6. The framework does not model narcissism as a distinct categorical pathology, but as a specific configuration within a continuous regulatory space. This positioning may be incompatible with categorical diagnostic traditions.
 7. The present paper treats SRF parameters (IRC, SF, ERD) as global constructs applied to narcissistic organization. A companion paper (Halmetoja, 2026d) proposes that these parameters may operate signal-class-specifically, which would refine the present application toward signal-class-specific compression profiles rather than global parameter descriptions.
+8. The present paper does not address defensive reality reconstruction — the phenomenon whereby accessible subjective reality itself becomes altered under regulatory pressure. Clinically recognizable narcissistic phenomena such as narrative distortion, contradiction-resistant self-justification, confabulatory reinterpretation, and event revision are not fully explained by compression alone (which reduces resolution) but may involve active reconstruction of accessible reality. This represents a genuine explanatory gap in the current framework. The present paper acknowledges compression and vector activation but does not yet formalize the transition from intolerable representational cost to altered subjective reality. This domain may warrant future theoretical development.
 
 These limitations are substantial. The present contribution should therefore be evaluated primarily as theoretical synthesis and hypothesis generation.
 
@@ -477,9 +496,9 @@ Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *P
 
 Halmetoja, J. (2026a). Structural Regulation Framework (SRF). Zenodo. https://doi.org/10.5281/zenodo.20215822
 
-Halmetoja, J. (2026b). Resolution Resistance: A structural model of why regulation architectures resist change. Preprint.
+Halmetoja, J. (2026b). Resolution Resistance: A structural model of why regulation architectures resist change. Zenodo. https://doi.org/10.5281/zenodo.20379672
 
-Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Preprint.
+Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Zenodo. https://doi.org/10.5281/zenodo.20382973
 
 Kernberg, O. F. (1975). *Borderline conditions and pathological narcissism*. Jason Aronson.
 

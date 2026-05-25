@@ -265,7 +265,7 @@ Example (same individual under activation):
 | Status | High |
 | Control | Moderate-high |
 
-This explains state-dependent collapse: the same person who processes shame at moderate resolution under calm conditions may collapse to categorical binary processing under shame activation.
+This explains state-dependent collapse: the same person who processes shame at moderate resolution under calm conditions may collapse to highly compressed categorical processing under shame activation.
 
 ## 4.4 Selective Degradation
 
@@ -300,7 +300,7 @@ A person under cognitive load may process all signals less effectively. A person
 
 ## 5.2 Not Alexithymia
 
-Alexithymia describes global difficulty identifying and describing emotions. Compression is signal-class-specific. A person may articulate emotions with extraordinary precision in some domains while remaining primitively undifferentiated in others.
+Alexithymia describes global difficulty identifying and describing emotions. Compression is signal-class-specific. A person may articulate emotions with extraordinary precision in some domains while remaining minimally differentiated in others.
 
 ## 5.3 Not Low Intelligence
 
@@ -341,7 +341,21 @@ SRF alone predicts that a system with low IRC and low SF will show compressed pr
 
 ## 6.4 Scope Constraint
 
-The compression profile describes processing topology — where representational resolution is high and where it is compressed. It does not claim to constitute the entirety of personality architecture. A companion framework (Self Architecture; planned future work) addresses a distinct question: what is threatened by full-resolution processing, and why certain signal classes become structurally costly. The compression profile describes the observable pattern; self architecture describes the vulnerability topology that generates it.
+The compression profile describes processing topology — where representational resolution is high and where it is compressed. It does not claim to constitute the entirety of personality architecture.
+
+Personality organization within the broader SRF framework involves multiple layers:
+
+| Layer | What it describes | Paper |
+|---|---|---|
+| Regulatory mechanism | How regulation operates (IRC, SF, ERD, REL, EV) | Paper 1 |
+| Processing topology | Where resolution varies across signal classes | Paper 4 (this paper) |
+| Vulnerability topology | What becomes threatening and why | Paper 5 |
+| Change dynamics | Why architecture resists modification | Paper 2 |
+| Stake depth | How deep the regulatory target goes | Paper 6 |
+
+The compression profile is one layer — the observable processing surface. It does not replace self-architecture (which explains *why* specific signals compress), regulatory mechanism (which explains *how* compression is maintained), or change dynamics (which explains *why* compression persists). Personality is the full stack, not any single layer.
+
+This constraint is important because it prevents the compression profile from becoming an overextended explanatory construct. It describes pattern, not cause. It maps topology, not motivation.
 
 ---
 
@@ -349,7 +363,7 @@ The compression profile describes processing topology — where representational
 
 To demonstrate explanatory utility, a brief illustrative application to narcissistic organization (described more fully in Halmetoja, 2026c) is offered.
 
-A narcissistic regulatory organization may exhibit a characteristic compression profile in which status and control channels operate at high resolution while shame, dependency, rejection, and separateness channels are severely compressed. This single structural description explains several clinically recognized features without requiring global dysfunction: competence coexisting with relational primitiveness, empathy collapse under self-threat (potentially through reduced processing bandwidth when shame or rejection co-activates), binary responses to rejection, and preserved strategic functioning.
+A narcissistic regulatory organization may exhibit a characteristic compression profile in which status and control channels operate at high resolution while shame, dependency, rejection, and separateness channels are severely compressed. This single structural description explains several clinically recognized features without requiring global dysfunction: competence coexisting with relational primitiveness, empathy collapse under self-threat (potentially through reduced processing bandwidth when shame or rejection co-activates), categorical responses to rejection, and preserved strategic functioning.
 
 This application is illustrative. Not all narcissistic presentations share identical compression profiles. The framework proposes family resemblances in compression patterns rather than categorical uniformity.
 
@@ -393,8 +407,26 @@ The critical distinction from all of the above is architectural specificity. Exi
 - Global capacity that degrades under stress (mentalization, distress tolerance)
 - Domain-specific sensitivity that heightens reactivity (rejection sensitivity, attachment anxiety)
 - State shifts between holistic modes (schema modes)
+- Cognitive biases that distort processing (motivated reasoning, cognitive dissonance)
+- Appraisal processes that evaluate threat (appraisal theory)
+- Granularity of emotional experience (emotional granularity / differentiation)
+- Prediction-driven perception (predictive processing)
 
-The present framework proposes something different: a structured topology of differential resolution across multiple simultaneous signal classes, where the pattern of compression itself constitutes personality architecture. The unit of analysis is not the global capacity, not the single sensitive domain, and not the holistic state — it is the multi-channel compression profile.
+The present framework proposes something structurally different from each:
+
+| Existing approach | What it explains | How SRF differs |
+|---|---|---|
+| Motivated reasoning | Why people resist disconfirming evidence | SRF specifies *which* evidence resists — determined by signal-class architecture, not general motivation |
+| Appraisal theory | How events are evaluated as threatening | SRF proposes that appraisal resolution itself varies structurally across signal classes — not just the outcome but the representational depth of the appraisal |
+| Emotional granularity | Individual differences in emotion differentiation | SRF proposes that granularity is signal-class-specific within individuals — not a global trait but a structured topology |
+| Predictive processing | How priors shape perception | SRF specifies *which* priors become rigid and why — linking prediction rigidity to self-architecture vulnerability rather than general Bayesian updating |
+
+The unit of analysis is not the global capacity, not the single sensitive domain, not the holistic state, not the cognitive bias, and not the general prediction system — it is the multi-channel compression profile as a structural feature of personality organization.
+
+## 8.9 Summary of Novelty Claim
+
+To state the novelty claim as directly as possible: existing frameworks explain *that* processing varies (emotional granularity), *that* it degrades under threat (mentalization), *that* people resist disconfirming evidence (motivated reasoning), or *that* priors shape perception (predictive processing). The present framework proposes *where* processing varies within a single individual, *which specific signals* degrade and which are preserved, and *why* the pattern takes the specific form it does — linking observable compression topology to underlying self-architecture vulnerability. No existing framework provides this three-layer integration (mechanism + topology + vulnerability) within a single structural model.
+
 ---
 
 # 9. Testable Predictions
@@ -442,7 +474,15 @@ A compression profile assessment would require:
 
 ## 10.3 Operational Caveat
 
-These proposals remain preliminary. No validated instruments currently exist. The present aim is to demonstrate that the framework is empirically approachable rather than purely metaphorical.
+No validated compression profile instrument currently exists. The measurement proposals above are conceptual directions, not established paradigms. The gap between the framework's theoretical specificity and its current measurement status is substantial.
+
+Specifically:
+- No signal-class-specific resolution measure has been developed or validated
+- No within-subject compression profile assessment protocol exists
+- The distinction between compression and other forms of processing degradation (cognitive load, fatigue, alexithymia) has not been empirically established
+- Whether compression profiles show the temporal stability required for personality-level description remains unknown
+
+The present paper's scientific value therefore lies in generating testable structural predictions — not in claiming current assessability. The framework is empirically approachable in principle but not yet empirically realized in practice. Instrument development represents the highest practical priority for the broader research program.
 
 ---
 
@@ -500,9 +540,9 @@ Gross, J. J. (2015). Emotion regulation: Current status and future prospects. *P
 
 Halmetoja, J. (2026a). Structural Regulation Framework (SRF). Zenodo. https://doi.org/10.5281/zenodo.20215822
 
-Halmetoja, J. (2026b). Resolution Resistance: A structural model of why regulation architectures resist change. Preprint.
+Halmetoja, J. (2026b). Resolution Resistance: A structural model of why regulation architectures resist change. Zenodo. https://doi.org/10.5281/zenodo.20379672
 
-Halmetoja, J. (2026c). Narcissistic organization as defensive regulation architecture: A Structural Regulation Framework application. Preprint.
+Halmetoja, J. (2026c). Narcissistic organization as defensive regulation architecture: A Structural Regulation Framework application. Zenodo. https://doi.org/10.5281/zenodo.20381823
 
 Lewis, H. B. (1971). *Shame and guilt in neurosis*. International Universities Press.
 

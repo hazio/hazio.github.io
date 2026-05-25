@@ -616,6 +616,14 @@ All hypotheses in this paper are theoretical. No empirical validation exists. Th
 
 This paper's arguments depend entirely on the validity of SRF constructs (IRC, SF, ERD) as defined in Halmetoja (2026). If these constructs prove empirically indistinguishable from existing measures (distress tolerance, mentalization, attachment dependence), the present paper's claims reduce to restatements of known phenomena in novel terminology. The paper's independent contribution is contingent on SRF constructs demonstrating incremental validity — particularly the threshold framing of IRC and the domain-specificity of SF.
 
+## 13.11 Positive Change Mechanism Under-Specified
+
+The present paper specifies structural constraints on change but does not formalize the neuropsychological mechanisms by which regulatory capacity expands. The paper explains why change is difficult (resistance, bootstrap problem, transitional destabilization) but remains vague about how successful change mechanistically occurs. Open questions include: what specific processes grow IRC? Does capacity expansion reflect prediction error updating, attachment reconsolidation, affect tolerance expansion, autonomic stabilization, neuroplasticity, or some combination? The scaffolding hypothesis proposes that external holding enables change, but the internal mechanism by which held experience becomes internalized capacity remains a black box. This is acknowledged as the paper's most significant explanatory gap and a priority for future theoretical development.
+
+## 13.12 Signal-Class Specificity of Resistance
+
+The present paper treats resolution resistance as a relatively global phenomenon. However, resistance may itself be signal-class-dependent (Halmetoja, 2026d). A system may show substantial flexibility gains in some signal classes (e.g., status processing, professional competence) while maintaining rigid compression in others (e.g., dependency, shame). This implies that therapeutic change may proceed unevenly across signal classes — with low-threat channels decompressing earlier and high-threat channels remaining resistant longer. The present paper's global framing is a first-order approximation; signal-class-specific resistance dynamics represent an important refinement developed in companion work.
+
 ---
 
 # 14. Summary: Primary Mechanism and Derived Predictions
@@ -673,9 +681,9 @@ Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). *Affect regulation,
 
 Greenberg, L. S. (2002). *Emotion-focused therapy: Coaching clients to work through their feelings*. American Psychological Association.
 
-Halmetoja, J. (2026). Structural Regulation Framework: A dimensional model of internal regulation capacity, structural flexibility, and externalization dynamics. Preprint.
+Halmetoja, J. (2026). Structural Regulation Framework (SRF). Zenodo. https://doi.org/10.5281/zenodo.20215822
 
-Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Preprint.
+Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Zenodo. https://doi.org/10.5281/zenodo.20382973
 
 Hayes, A. M., Laurenceau, J.-P., Feldman, G., Strauss, J. L., & Cardaciotto, L. (2007). Change is not always linear: The study of nonlinear and discontinuous patterns of change in psychotherapy. *Clinical Psychology Review*, 27(6), 715–723. https://doi.org/10.1016/j.cpr.2007.01.008
 

@@ -217,6 +217,38 @@ This dimension is the most speculative of the seven. It is introduced here provi
 
 ---
 
+## 3.8 Construct Boundaries and Discriminant Validity
+
+A critical question concerns whether the seven proposed dimensions are genuinely distinct or merely relabeled adjacent constructs. The following table specifies the proposed discriminant boundaries:
+
+| Dimension | What it IS | What it is NOT | Discriminant test |
+|---|---|---|---|
+| Self-Coherence | Can contradictory self-information be held simultaneously? | Not self-esteem level, not mood stability | Person with high self-esteem may still fragment under contradiction |
+| Self-Concept Clarity | Are self-beliefs clear and stable? | Not self-coherence (clarity ≠ integration under contradiction) | Person may have clear self-beliefs that shatter under challenge (clear but brittle) |
+| Worth Contingency | What domains must remain intact for worth? | Not global self-worth level | Person may have high self-worth that is entirely contingent on one domain |
+| Shame Integration | Can shame be experienced without identity collapse? | Not shame frequency, not shame avoidance | Person may experience frequent shame but integrate it (high frequency, high integration) |
+| Dependency Tolerance | Can need be acknowledged without self-threat? | Not actual dependency level, not attachment style | Person may be highly dependent but intolerant of acknowledging it |
+| Self–Other Differentiation | Can other's separateness be tolerated? | Not social skill, not empathy | Person may be highly empathic but poorly differentiated (fusion-based empathy) |
+| Ontological Self-Continuity | Does felt existence persist without external confirmation? | Not self-esteem, not identity clarity | Person may have clear identity and high self-esteem but externally contingent felt reality |
+
+The framework acknowledges that these dimensions are likely correlated — particularly self-coherence, shame integration, and worth contingency. Whether they prove empirically separable or collapse into fewer latent factors remains the most important measurement question for this paper. The seven-dimension structure is proposed for theoretical completeness; empirical investigation may reveal a more parsimonious structure.
+
+## 3.9 Why Seven Dimensions Rather Than a Single Global Self-Stability Factor
+
+A reviewer may reasonably ask: if these dimensions are correlated, why not propose a single "self-stability" factor?
+
+The answer is predictive specificity. A global factor predicts that all forms of self-threat produce equivalent destabilization. The seven-dimension model predicts that different individuals are vulnerable to *different* threats depending on their specific architectural configuration:
+
+- Person A: high worth contingency on admiration, low shame integration → destabilizes under criticism but tolerates dependency
+- Person B: low dependency tolerance, low self–other differentiation → destabilizes under intimacy but tolerates criticism
+- Person C: low ontological self-continuity → destabilizes under recognition withdrawal but tolerates status threat
+
+A single global factor cannot generate these differential predictions. The seven-dimension model can — and these predictions are testable through within-subject activation paradigms.
+
+The framework explicitly accepts that factor-analytic investigation may reduce seven dimensions to fewer latent factors. If so, the reduced structure should still preserve differential prediction across threat types. If all dimensions collapse into a single factor with no differential predictive value, the seven-dimension model is falsified and should be replaced by a simpler architecture.
+
+---
+
 # 4. Three Levels of Regulatory Stakes
 
 ## 4.1 The Stakes Determine the Intensity
@@ -283,7 +315,23 @@ This predicts that signal classes threatening continuity of being will show the 
 
 ## 5.1 The Bridge
 
-Paper 4 (Compression Profiles) describes the observable pattern: which signal classes are compressed and to what degree. The present paper proposes the generative mechanism: self architecture determines which signals become threatening, and therefore which signals require compression.
+Paper 4 (Compression Profiles; Halmetoja, 2026d) describes the observable pattern: which signal classes are compressed and to what degree. The present paper proposes the generative mechanism: self architecture determines which signals become threatening, and therefore which signals require compression.
+
+The logical relationship is directional:
+
+```
+Self Architecture (Paper 5)
+    ↓ determines what is threatening
+Compression Profile (Paper 4)
+    ↓ determines where resolution drops
+SRF Mechanism (Paper 1)
+    ↓ determines how regulation operates
+Observable Behavior
+```
+
+Without Paper 5, Paper 4 describes pattern without explanation — it shows *that* shame compresses but not *why* shame is threatening for this specific individual. Without Paper 4, Paper 5 describes vulnerability without observable consequence — it shows *what* is threatened but not *how* that threat manifests in processing architecture.
+
+Together they form a complete explanatory chain: self architecture generates the vulnerability surface → vulnerability determines which signals are costly → costly signals compress → compression produces the observable processing topology.
 
 ## 5.2 Signal-to-Dimension Mapping
 
@@ -340,7 +388,15 @@ Kernberg's emphasis on splitting and identity diffusion relates to Self-Coherenc
 
 Laing's (1960) concept of ontological insecurity — the felt precariousness of one's own existence — directly informs Dimension 7. Laing described ontological security as a "basic existential position" from which a person encounters life's challenges "from a centrally firm sense of his own and other people's reality and identity." The present framework proposes that ontological insecurity is not a global condition or a categorical marker of psychosis (as Laing originally used it) but a dimensional property that varies across individuals and may be activated specifically by recognition-withdrawal signals. Giddens (1991) subsequently extended the concept sociologically as a sense of order and continuity in one's experiences — consistent with the present framework's dimensional treatment.
 
-## 6.7 Positioning
+## 6.7 Schema Therapy (Young et al.)
+
+Schema therapy proposes Early Maladaptive Schemas — stable self-defeating patterns originating in unmet childhood needs. Several schemas overlap conceptually with Self Architecture dimensions: Abandonment/Instability relates to Self–Other Differentiation and Dependency Tolerance; Defectiveness/Shame relates to Shame Integration; Emotional Deprivation relates to Worth Contingency. The present framework differs in two ways: (1) it proposes dimensions rather than categorical schemas, and (2) it specifies the functional relationship between vulnerability dimensions and signal-class-specific compression — schemas describe content patterns, while Self Architecture describes the structural surface that determines which content becomes threatening.
+
+## 6.8 Attachment Theory (Bowlby, Mikulincer & Shaver)
+
+Attachment theory proposes that internal working models of self and other shape relational expectations and regulatory strategies. Self Architecture dimensions — particularly Dependency Tolerance, Self–Other Differentiation, and Self-Coherence — overlap substantially with attachment-related constructs. The present framework does not contest attachment theory but proposes a more granular structural decomposition: rather than a single attachment dimension (secure/anxious/avoidant), Self Architecture proposes multiple partially independent vulnerability dimensions that may combine differently across individuals with similar attachment classifications.
+
+## 6.9 Positioning
 
 The present framework does not replace these traditions. It proposes a structural integration that:
 - Makes dimensional what was often categorical
@@ -476,11 +532,11 @@ Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). *Affect regulation,
 
 Halmetoja, J. (2026a). Structural Regulation Framework (SRF). Zenodo. https://doi.org/10.5281/zenodo.20215822
 
-Halmetoja, J. (2026b). Resolution Resistance: A structural model of why regulation architectures resist change. Preprint.
+Halmetoja, J. (2026b). Resolution Resistance: A structural model of why regulation architectures resist change. Zenodo. https://doi.org/10.5281/zenodo.20379672
 
-Halmetoja, J. (2026c). Narcissistic organization as defensive regulation architecture: A Structural Regulation Framework application. Preprint.
+Halmetoja, J. (2026c). Narcissistic organization as defensive regulation architecture: A Structural Regulation Framework application. Zenodo. https://doi.org/10.5281/zenodo.20381823
 
-Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Preprint.
+Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Zenodo. https://doi.org/10.5281/zenodo.20382973
 
 Hurvich, M. (2003). The place of annihilation anxieties in psychoanalytic theory. *Journal of the American Psychoanalytic Association*, 51(2), 579–616. https://doi.org/10.1177/00030651030510020801
 
@@ -503,3 +559,7 @@ Tangney, J. P., & Dearing, R. L. (2002). *Shame and guilt*. Guilford Press.
 Wilkinson-Ryan, T., & Westen, D. (2000). Identity disturbance in borderline personality disorder: An empirical investigation. *American Journal of Psychiatry*, 157(4), 528–541. https://doi.org/10.1176/appi.ajp.157.4.528
 
 Winnicott, D. W. (1960). Ego distortion in terms of true and false self. In *The maturational processes and the facilitating environment* (pp. 140–152). Hogarth Press.
+
+Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). *Schema therapy: A practitioner's guide*. Guilford Press.
+
+Mikulincer, M., & Shaver, P. R. (2007). *Attachment in adulthood: Structure, dynamics, and change*. Guilford Press.
