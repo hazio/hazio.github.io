@@ -1,337 +1,101 @@
 # Halmetoja Model
 
-A structural model of human psychology based on regulation, identity, and integration.
+A layered structural psychology framework describing how psychological regulation operates, where reality compresses, what becomes threatening, and when continuity of being itself becomes the stake.
+
+**Website:** https://halmetojamodel.com
 
 ---
 
-## Overview
+## SRF Theory Program
 
-The Halmetoja Model describes human behavior as the interaction of two core systems:
+The academic foundation is the **Structural Regulation Framework (SRF)** — a six-paper theory program published as open-access preprints on Zenodo.
 
-- **Mirror (identity)** — how a person comes to know who they are  
-- **Regulation (stability)** — how a person maintains internal balance  
+| Paper | Title | Question | DOI |
+|---|---|---|---|
+| 1 | Structural Regulation Framework | How does regulation work? | [10.5281/zenodo.20215822](https://doi.org/10.5281/zenodo.20215822) |
+| 2 | Resolution Resistance | Why do structures resist change? | [10.5281/zenodo.20379672](https://doi.org/10.5281/zenodo.20379672) |
+| 3 | Narcissistic Regulation Architecture | What does this look like clinically? | [10.5281/zenodo.20381823](https://doi.org/10.5281/zenodo.20381823) |
+| 4 | Compression Profiles | Where does reality compress? | [10.5281/zenodo.20382973](https://doi.org/10.5281/zenodo.20382973) |
+| 5 | Self Architecture | What is threatened? | [10.5281/zenodo.20383116](https://doi.org/10.5281/zenodo.20383116) |
+| 6 | Ontological Regulation | When existence itself is threatened? | [10.5281/zenodo.20383242](https://doi.org/10.5281/zenodo.20383242) |
 
----
-
-These systems do not always develop together.
-
-Their mismatch creates predictable patterns in:
-
-- relationships  
-- emotional regulation  
-- identity formation  
+**Status:** First-generation theoretical architecture complete. Empirical validation not yet begun.
 
 ---
 
-## Core Concepts
+## Core Ideas
 
-### ORBIT
-
-A state where regulation is external.
-
-- stability depends on others  
-- identity is maintained relationally  
-- tension is resolved through interaction  
+- **Regulation is signal-class-dependent.** The mind does not process all signals at equal resolution.
+- **Compression is structural, not random.** Specific signal classes compress because full-resolution processing would exceed available holding capacity.
+- **Defensive simplification is adaptive.** It persists because it minimizes destabilization risk — not because of motivational deficit.
+- **Personality is compression architecture.** Not what kind of person someone is, but which signals compress and why.
 
 ---
 
-**tension → other → relief**
+## Popular Terminology
+
+For accessibility, the site uses simplified labels:
+
+| Popular | Academic |
+|---|---|
+| CENTER | Internal Regulation Capacity (IRC) |
+| ORBIT | External Regulation Dependence (ERD) |
+| Integration | Structural Flexibility (SF) |
+
+These are not one-to-one equivalences. The academic framework introduces orthogonal dimensions, structural levels, and falsifiability criteria.
 
 ---
 
-### CENTER
-
-A state where regulation is internal.
-
-- stability is self-contained  
-- identity is coherent  
-- tension can be held and transformed  
-
----
-
-**tension → held → integrated**
-
----
-
-## The Mirror–Regulation Matrix
-
-Human development can be understood through two variables:
-
-- mirror accuracy  
-- regulation stability  
-
----
-
-This creates four structural outcomes:
-
-- distorted mirror + unstable regulation → fragmentation  
-- distorted mirror + stable regulation → false self  
-- coherent mirror + unstable regulation → overwhelmed self  
-- coherent mirror + stable regulation → integration potential  
-
----
-
-## The Empath–Narcissist Dynamic
-
-Both operate within ORBIT, but in opposite directions:
-
-- **Empath** → outbound regulation (stabilizes others)  
-- **Narcissistic structure** → inbound regulation (stabilized by others)  
-
----
-
-The dynamic forms when:
-
-- one provides regulation  
-- the other receives it  
-
----
-
-This creates a closed loop:
-
-**tension → regulation → relief → attachment**
-
----
-
-## Integration
-
-Integration is not a trait.
-
-It is a capacity.
-
----
-
-It emerges when multiple functions align:
-
-- accurate identity (mirror)  
-- stable regulation  
-- ability to process tension  
-- clear boundaries  
-- sufficient time without reaction  
-
----
-
-Integration allows:
-
-> tension to transform instead of being discharged
-
----
-
-## Shadow
-
-The shadow is not what is hidden.
-
-It is what cannot be held internally.
-
----
-
-Unintegrated experience moves outward:
-
-- into relationships  
-- into perception  
-- into repetition  
-
----
-
-Integration returns it inward.
-
----
-
-## Transmission
-
-Patterns are not passed down as information.
-
-They are recreated as structure.
-
----
-
-> what is not integrated is transmitted
-
----
-
-## Evolutionary Perspective
-
-Humans are not built to be whole.
-
-They are built to adapt.
-
----
-
-Adaptation prioritizes:
-
-- survival  
-- connection  
-- stability  
-
----
-
-Not:
-
-- truth  
-- authenticity  
-- integration  
-
----
-
-This explains why many systems remain in ORBIT.
-
----
-
-## Purpose of the Model
-
-The Halmetoja Model aims to:
-
-- describe psychological patterns structurally  
-- remove moral simplifications  
-- clarify relationship dynamics  
-- explain repetition across individuals and generations  
-
----
-
-## Direction
-
-The model is not prescriptive.
-
-It does not define how people should be.
-
----
-
-It describes:
-
-- how systems form  
-- how they stabilize  
-- how they repeat  
-- how integration becomes possible  
-
----
-
-## Key Principle
-
-> Structure explains behavior.  
-> Awareness creates responsibility.
-
----
-
-## Status
-
-The model is under continuous development.
-
-Concepts evolve as new structural insights emerge.
-
-------------------------------------------------------------------------
-
-## 🌐 Website
+## Website
 
 https://halmetojamodel.com
 
-The site functions as both:
+- [Theory Program overview](https://halmetojamodel.com/research/theory-program/)
+- [Research & Papers](https://halmetojamodel.com/research/)
+- [Framework introduction](https://halmetojamodel.com/halmetoja-model/)
+- [Articles](https://halmetojamodel.com/articles/)
+- [Artwork](https://halmetojamodel.com/artwork/)
 
-- A conceptual framework archive 
-- A public educational platform 
-- A long-form theory project 
-- A laboratory for relational metrics
+---
 
-------------------------------------------------------------------------
+## Scholarly Grounding
 
-## 🏗 Scholarly Grounding
+The framework builds upon and extends:
 
-The model builds upon and reformulates concepts from:
+- Attachment theory (Bowlby, Mikulincer & Shaver)
+- Self psychology (Kohut)
+- Object relations (Kernberg, Winnicott)
+- Affect regulation (Schore)
+- Differentiation of self (Bowen)
+- Ontological insecurity (Laing)
+- Mentalization (Fonagy)
+- Contingent self-worth (Crocker)
+- Shame research (Tangney, Lewis)
 
--   Object relations theory
--   Self psychology (Kohut)
--   Kernberg's structural model
--   False self dynamics (Winnicott)
--   Regulatory neuroscience
+---
 
-Contribution:
+## Technical Stack
 
--   Cost replaces moral interpretation
--   Regulation replaces identity narrative
--   Asymmetry replaces blame
+- Astro 6.1.8
+- Markdown-based content architecture
+- Custom CSS (dark theme)
+- SVG artwork
 
-------------------------------------------------------------------------
+---
 
-## 🌍 Public Application
+## Development
 
-Public-facing articles explore:
-
--   Narcissistic dynamics
--   Burnout and empath exhaustion
--   False self formation
--   Relationship asymmetry
--   Integration thresholds
-
-Each article includes structural diagrams rendered with Mermaid.
-
-------------------------------------------------------------------------
-
-## 🖥 Technical Stack
-
--   Astro
--   Astro Content Collections
--   Markdown-based content architecture
--   Mermaid (runtime SVG rendering via CDN)
--   Minimal custom CSS
-
-------------------------------------------------------------------------
-
-## Repository Structure
-
-```text
-src/
-├── layouts/
-│    └── BaseLayout.astro
-│
-├── content/
-│    ├── articles/
-│    ├── halmetoja-model/
-│    └── projects/
-│
-└── pages/
-├── index.astro
-├── articles/
-└── projects/
+```bash
+npm install
+npm run dev
+npm run build
 ```
 
-------------------------------------------------------------------------
+---
 
-## 🔬 Development
+## Contact
 
-Install: npm install
-
-Run locally: npm run dev
-
-Build: npm run build
-
-------------------------------------------------------------------------
-
-## 🧠 Positioning
-
-The Halmetoja Model is:
-
--   Structurally rigorous
--   Conceptually minimal
--   Publicly readable
--   Scholarly grounded
-
-------------------------------------------------------------------------
-
-## ✉️ Contact
-
-For discussion, research collaboration, or framework inquiry:
-
-🌐 Website      https://halmetojamodel.com  
-
-📺 YouTube      https://www.youtube.com/@HalmetojaModel
-
-📰 Substack     https://halmetojamodel.substack.com/
-
-✉️ Email        halmetojamodel@gmail.com
-
-------------------------------------------------------------------------
-
-## Final Note
-
-The Halmetoja Model does not promise healing.
-
-It maps the moment when healing becomes energetically possible.
+- 🌐 https://halmetojamodel.com
+- 📺 https://www.youtube.com/@HalmetojaModel
+- 📰 https://halmetojamodel.substack.com/
+- ✉️ halmetojamodel@gmail.com
