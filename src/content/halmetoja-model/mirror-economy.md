@@ -7,7 +7,7 @@ draft: false
 
 ## Introduction
 
-If the CENTER–ORBIT Model explains *where regulation happens*,  
+If the CENTER-ORBIT Model explains *where regulation happens*,  
 the Mirror Economy explains *how ORBIT systems function*.
 
 It answers a simple question:
@@ -305,6 +305,6 @@ The Mirror Economy is not about love.
 It is about how the self is stabilized when it cannot stabilize itself.
 
 > Some systems hold their own image.  
-> Others require it to be reflected back — continuously.
+> Others require it to be reflected back - continuously.
 
 And the difference between those two defines the cost of being in them.

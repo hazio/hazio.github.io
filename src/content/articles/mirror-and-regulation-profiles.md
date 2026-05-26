@@ -1,6 +1,6 @@
 ---
 title: "Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology"
-description: "How distorted mirroring and unstable regulation create empathic, narcissistic, and false self profiles — and why identity and safety develop independently."
+description: "How distorted mirroring and unstable regulation create empathic, narcissistic, and false self profiles - and why identity and safety develop independently."
 date: 2026-04-18
 draft: false
 ---
@@ -208,7 +208,7 @@ They form **profiles**, not categories.
 - stable behavior  
 - misaligned identity  
 
-> “I am acceptable — but not real.”
+> “I am acceptable - but not real.”
 
 ---
 
@@ -220,7 +220,7 @@ They form **profiles**, not categories.
 - accurate identity  
 - unstable nervous system  
 
-> “I know who I am — but I cannot stay with it.”
+> “I know who I am - but I cannot stay with it.”
 
 ---
 
@@ -232,7 +232,7 @@ They form **profiles**, not categories.
 - identity holds  
 - safety holds  
 
-> “I am myself — and I can remain.”
+> “I am myself - and I can remain.”
 
 ---
 
@@ -281,12 +281,12 @@ You are shaped by:
 
 And more importantly:
 
-> how those two did — or did not — align.
+> how those two did - or did not - align.
 
 ---
 
 **Related articles:**
-- [The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
+- [The Mirror-Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
 - [What Is the False Self? Beyond Winnicott and Narcissism](/articles/what-is-false-self/)
 - [Are You CENTER, ORBIT, or a False CENTER? Understanding Where Your Stability Comes From](/articles/are-you-center-orbit-or-a-false-center/)
 - [When Feelings Become Identity: Why 'I Feel Worthless' Becomes 'I Am Worthless'](/articles/when-feelings-become-identity/)

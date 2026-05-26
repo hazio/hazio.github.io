@@ -1,13 +1,13 @@
 ---
-title: "The Empath–Narcissist Dynamic"
-description: "A structural explanation of the empath–narcissist relationship through the updated CENTER and ORBIT model."
+title: "The Empath-Narcissist Dynamic"
+description: "A structural explanation of the empath-narcissist relationship through the updated CENTER and ORBIT model."
 date: 2026-04-18
 draft: false
 ---
 
 ## The Misunderstanding
 
-The empath–narcissist dynamic is often described in moral terms:
+The empath-narcissist dynamic is often described in moral terms:
 
 - one gives  
 - one takes  
@@ -279,7 +279,7 @@ Toward:
 
 ## Final Insight
 
-The empath–narcissist dynamic is not a moral failure.
+The empath-narcissist dynamic is not a moral failure.
 
 It is:
 

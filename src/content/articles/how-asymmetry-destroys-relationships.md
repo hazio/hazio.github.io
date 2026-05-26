@@ -91,7 +91,7 @@ It is arithmetic.
 
 People often describe the end of such relationships as abrupt:
 
-“I was fine for years — then I couldn’t do it anymore.”
+“I was fine for years - then I couldn’t do it anymore.”
 
 The structural explanation is simpler:
 
@@ -156,7 +156,7 @@ That is often the first signal.
 
 ## Can Asymmetry Be Reversed?
 
-Yes — but not through blame.
+Yes - but not through blame.
 
 Reversal requires:
 
@@ -216,4 +216,4 @@ For a structural framework explaining regulatory asymmetry and relational cost d
 - [Why You Feel Empty in Your Relationship (Even If Nothing Is 'Wrong')](/articles/why-you-feel-empty-in-relationship/)
 - [What Is Regulation-Driven Behavior? Why People Act Inconsistently in Relationships](/articles/what-is-regulation-driven-behavior/)
 
-*The Invisible Gravity* is a book about relationships that felt inevitable — and why they could not have ended any other way. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).
+*The Invisible Gravity* is a book about relationships that felt inevitable - and why they could not have ended any other way. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).

@@ -1,5 +1,5 @@
 ---
-title: "Narcissistic Rage Is Not About You — It's About Regulation Collapse"
+title: "Narcissistic Rage Is Not About You - It's About Regulation Collapse"
 description: "Why narcissistic rage feels personal but isn't. Learn the structural reason behind sudden anger, blame, and devaluation in narcissistic relationships."
 date: 2026-04-25
 draft: false

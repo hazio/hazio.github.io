@@ -326,6 +326,6 @@ And until the system can hold what it feels:
 
 **Related articles:**
 - [What Is the False Self? Beyond Winnicott and Narcissism](/articles/what-is-false-self/)
-- [The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
+- [The Mirror-Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
 - [Are You CENTER, ORBIT, or a False CENTER? Understanding Where Your Stability Comes From](/articles/are-you-center-orbit-or-a-false-center/)
 - [The Search for the Missing Mirror: Why Some People Feel Incomplete Without a Relationship](/articles/the-search-for-the-missing-mirror/)

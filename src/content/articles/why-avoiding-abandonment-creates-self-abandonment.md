@@ -18,7 +18,7 @@ It is optimization.
 
 ---
 
-## Not Fear — Structure
+## Not Fear - Structure
 
 This pattern is often described as fear of abandonment.
 

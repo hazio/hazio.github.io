@@ -1,6 +1,6 @@
 ---
 title: "What Personality Disorders Actually Are: A Structural View Beyond Diagnosis"
-description: "Personality disorders may not be defects of character — they may be chronic external regulation strategies. A structural reframe that humanizes narcissism, BPD, and codependency."
+description: "Personality disorders may not be defects of character - they may be chronic external regulation strategies. A structural reframe that humanizes narcissism, BPD, and codependency."
 date: 2026-05-06
 draft: false
 ---

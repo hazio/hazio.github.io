@@ -25,7 +25,7 @@ What if the right question is not:
 
 But:
 
-> "Which signals does this mind compress — and why?"
+> "Which signals does this mind compress - and why?"
 
 ---
 
@@ -37,7 +37,7 @@ A person may reason with extraordinary nuance about professional strategy while 
 
 This is not inconsistency. It is architecture.
 
-When a signal becomes too costly to process at full resolution — because it threatens self-coherence, worth, or felt continuity — the system reduces its representational depth. Nuance disappears. Ambiguity collapses into categories. Complexity becomes binary.
+When a signal becomes too costly to process at full resolution - because it threatens self-coherence, worth, or felt continuity - the system reduces its representational depth. Nuance disappears. Ambiguity collapses into categories. Complexity becomes binary.
 
 This is compression.
 
@@ -47,7 +47,7 @@ This is compression.
 
 The critical insight: compression is structured.
 
-It does not reduce all signals equally. It targets specific signal classes — specific categories of psychologically meaningful experience.
+It does not reduce all signals equally. It targets specific signal classes - specific categories of psychologically meaningful experience.
 
 Which signals compress depends on what the system needs to protect.
 
@@ -55,11 +55,11 @@ Which signals compress depends on what the system needs to protect.
 
 ## Personality as Compression Signature
 
-If compression is structured and signal-class-specific, then personality organization can be understood as a characteristic compression profile — a stable pattern of where resolution is high and where it collapses.
+If compression is structured and signal-class-specific, then personality organization can be understood as a characteristic compression profile - a stable pattern of where resolution is high and where it collapses.
 
 Not: "What kind of person is this?"
 
-But: "Which realities can this system afford to see clearly — and which must be simplified to preserve stability?"
+But: "Which realities can this system afford to see clearly - and which must be simplified to preserve stability?"
 
 ---
 
@@ -73,7 +73,7 @@ Consider a person who:
 
 Traditional diagnosis: narcissistic personality disorder.
 
-Compression profile interpretation: selective compression architecture — high resolution in status and control channels, severe compression in shame, dependency, rejection, and separateness channels.
+Compression profile interpretation: selective compression architecture - high resolution in status and control channels, severe compression in shame, dependency, rejection, and separateness channels.
 
 Same person. Different explanation. Different implications.
 
@@ -111,11 +111,11 @@ The compression profile view changes three things:
 
 **1. It removes the category boundary.**
 
-There is no line between "personality disorder" and "normal personality." Everyone has a compression profile. The question is degree and rigidity — not presence or absence.
+There is no line between "personality disorder" and "normal personality." Everyone has a compression profile. The question is degree and rigidity - not presence or absence.
 
 **2. It explains paradoxical functioning.**
 
-A person can be brilliant and primitive simultaneously — not because they are faking competence or hiding dysfunction, but because different signal classes operate at different resolution levels within the same system.
+A person can be brilliant and primitive simultaneously - not because they are faking competence or hiding dysfunction, but because different signal classes operate at different resolution levels within the same system.
 
 **3. It predicts where therapy will be difficult.**
 
@@ -127,7 +127,7 @@ Therapeutic resistance is not global stubbornness. It is signal-class-specific. 
 
 Compression is not cognitive laziness.
 
-It persists because it is structurally adaptive. The system compresses specific signals because processing them at full resolution would exceed available holding capacity — producing destabilization rather than insight.
+It persists because it is structurally adaptive. The system compresses specific signals because processing them at full resolution would exceed available holding capacity - producing destabilization rather than insight.
 
 A person does not compress shame because they are too lazy to reflect. They compress shame because full-resolution shame processing would threaten self-coherence in ways the system cannot currently contain.
 
@@ -141,7 +141,7 @@ If personality is compression architecture, then the therapeutic question become
 
 > "What would need to be true for this system to afford higher resolution in its compressed channels?"
 
-The answer is usually: more holding capacity. More ability to contain what higher resolution reveals — contradiction, shame, dependency, grief.
+The answer is usually: more holding capacity. More ability to contain what higher resolution reveals - contradiction, shame, dependency, grief.
 
 This is why therapy is slow. You cannot simply show someone the truth. You must first build the capacity to hold what the truth contains.
 
@@ -150,8 +150,8 @@ This is why therapy is slow. You cannot simply show someone the truth. You must 
 ## What This Does Not Mean
 
 This framework does not mean:
-- Personality disorders are not real (they are — as stable compression architectures)
-- People are not responsible for their behavior (they are — architecture explains but does not excuse)
+- Personality disorders are not real (they are - as stable compression architectures)
+- People are not responsible for their behavior (they are - architecture explains but does not excuse)
 - Diagnosis is useless (it identifies family resemblances in compression patterns)
 - Everyone is equally compressed (severity varies enormously)
 

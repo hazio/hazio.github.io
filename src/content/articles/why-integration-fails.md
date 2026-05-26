@@ -1,6 +1,6 @@
 ---
-title: "Why Integration Fails: It's Not Resistance — It's Capacity"
-description: "Integration doesn't fail because you avoid it. It fails because the system lacks the capacity to hold tension. Learn the structural conditions that make healing possible — or impossible."
+title: "Why Integration Fails: It's Not Resistance - It's Capacity"
+description: "Integration doesn't fail because you avoid it. It fails because the system lacks the capacity to hold tension. Learn the structural conditions that make healing possible - or impossible."
 date: 2026-04-04
 ---
 
@@ -72,7 +72,7 @@ They can trace the origin.
 
 They can describe exactly what is happening.
 
-And still — nothing changes.
+And still - nothing changes.
 
 This is because:
 
@@ -96,10 +96,10 @@ It can grow.
 
 But it grows slowly, and only under specific conditions:
 
-- **Regulation stability** — the nervous system must be sufficiently calm to hold tension without immediate discharge
-- **Relational safety** — integration often requires a witness, someone who can hold the space without requiring resolution
-- **Repetition** — capacity builds through repeated exposure to tolerable tension, not through single breakthroughs
-- **Time** — the system needs duration, not intensity
+- **Regulation stability** - the nervous system must be sufficiently calm to hold tension without immediate discharge
+- **Relational safety** - integration often requires a witness, someone who can hold the space without requiring resolution
+- **Repetition** - capacity builds through repeated exposure to tolerable tension, not through single breakthroughs
+- **Time** - the system needs duration, not intensity
 
 None of these can be forced.
 
@@ -155,7 +155,7 @@ The problem is:
 
 > ORBIT that continues after capacity has grown
 
-When the system can hold more than it currently holds, but continues to discharge outward by habit — that is where integration stalls.
+When the system can hold more than it currently holds, but continues to discharge outward by habit - that is where integration stalls.
 
 ---
 
@@ -169,7 +169,7 @@ The question is:
 
 > "Does my system currently have the capacity to hold this?"
 
-If the answer is no — the work is not integration.
+If the answer is no - the work is not integration.
 
 The work is building capacity.
 
@@ -187,7 +187,7 @@ Integration does not fail because you are not trying hard enough.
 
 It fails because the system cannot yet afford what integration requires.
 
-And when capacity grows — not through force, but through stability, safety, and time — integration does not need to be forced.
+And when capacity grows - not through force, but through stability, safety, and time - integration does not need to be forced.
 
 It happens.
 

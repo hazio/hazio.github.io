@@ -22,8 +22,8 @@ relationships, and psychological development as **systems seeking balance** rath
 than narratives driven by morality, blame, or intention.
 
 At its core, the model describes how people orient themselves in the world through
-two complementary regulation strategies — often referred to as **CENTER** and
-**ORBIT** — and how these orientations interact, stabilize, and sometimes trap one
+two complementary regulation strategies - often referred to as **CENTER** and
+**ORBIT** - and how these orientations interact, stabilize, and sometimes trap one
 another.
 
 The model integrates concepts from psychology, attachment, systems theory,
@@ -47,11 +47,11 @@ By shifting focus from blame to structure, the model explains:
 
 - why certain relationships feel inevitable  
 - why some systems remain stable only by exhausting one side  
-- why integration feels so difficult — and when it becomes possible  
+- why integration feels so difficult - and when it becomes possible  
 - why repeating patterns is not a personal failure, but a structural outcome  
 
 For readers, clinicians, and thinkers alike, the model offers language for experiences
-that previously felt unspeakable — and a way to orient life without becoming fuel for
+that previously felt unspeakable - and a way to orient life without becoming fuel for
 systems that survive by consumption.
 
 ---

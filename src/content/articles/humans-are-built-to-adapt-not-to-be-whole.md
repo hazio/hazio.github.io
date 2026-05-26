@@ -1,6 +1,6 @@
 ---
 title: "Humans Are Built to Adapt, Not to Be Whole"
-description: "You're not broken — you're adapted. Why the nervous system prioritizes survival over integration, and how early adaptation creates codependency and emotional regulation problems."
+description: "You're not broken - you're adapted. Why the nervous system prioritizes survival over integration, and how early adaptation creates codependency and emotional regulation problems."
 date: 2026-04-20
 draft: false
 ---

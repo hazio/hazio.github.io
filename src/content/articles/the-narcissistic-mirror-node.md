@@ -1,6 +1,6 @@
 ---
 title: "The Narcissistic Mirror Node: Why Narcissists Need Specific People to Stay Stable"
-description: "Narcissists don't just seek attention — they build a network of mirror nodes for identity regulation. Learn why certain people become psychologically irreplaceable to them."
+description: "Narcissists don't just seek attention - they build a network of mirror nodes for identity regulation. Learn why certain people become psychologically irreplaceable to them."
 date: 2026-05-06
 draft: false
 ---
@@ -269,6 +269,6 @@ And at its center are:
 
 **Related articles:**
 - [The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change](/articles/the-system-that-avoids-seeing-itself/)
-- [Narcissistic Rage Is Not About You — It's About Regulation Collapse](/articles/narcissistic-rage-is-not-about-you/)
+- [Narcissistic Rage Is Not About You - It's About Regulation Collapse](/articles/narcissistic-rage-is-not-about-you/)
 - [Why Narcissists Seem Confident (But Often Aren't)](/articles/why-narcissists-seem-confident/)
 - [What Personality Disorders Actually Are: A Structural View Beyond Diagnosis](/articles/what-personality-disorders-actually-are/)

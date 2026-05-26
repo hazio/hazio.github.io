@@ -1,6 +1,6 @@
 ---
 title: "Shadow and Integration"
-description: "Reframing the shadow through the Halmetoja Model: what cannot be held internally appears in ORBIT — and integration is the capacity to transform it within CENTER."
+description: "Reframing the shadow through the Halmetoja Model: what cannot be held internally appears in ORBIT - and integration is the capacity to transform it within CENTER."
 date: 2026-04-18
 draft: false
 ---

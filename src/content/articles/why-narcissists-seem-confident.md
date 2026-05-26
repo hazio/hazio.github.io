@@ -1,6 +1,6 @@
 ---
 title: "Why Narcissists Seem Confident (But Often Aren’t)"
-description: "Narcissistic confidence isn’t self-acceptance — it’s reduced internal oscillation. Learn the structural difference between genuine confidence and the regulatory lock that mimics it."
+description: "Narcissistic confidence isn’t self-acceptance - it’s reduced internal oscillation. Learn the structural difference between genuine confidence and the regulatory lock that mimics it."
 tags: ["narcissism", "confidence", "relationships", "regulation"]
 date: 2026-03-01
 draft: false
@@ -34,7 +34,7 @@ That smoothness looks like confidence.
 
 In the Halmetoja Model, this pattern can be described as a **CENTER lock state**.
 
-When regulation is historically provided from outside the system — consistently and stabilizing — the organism may adapt by reducing its own internal corrective movement.
+When regulation is historically provided from outside the system - consistently and stabilizing - the organism may adapt by reducing its own internal corrective movement.
 
 Movement becomes costly.  
 Stillness becomes efficient.
@@ -82,7 +82,7 @@ Lock states eliminate much of this internal work.
 
 They conserve energy through rigidity.
 
-The system remains coherent — but not necessarily integrated.
+The system remains coherent - but not necessarily integrated.
 
 One is energetic efficiency.  
 The other is psychological coherence.
@@ -130,14 +130,14 @@ Consider:
 - Can certainty soften during emotional intimacy?
 - Does their stability depend on others adjusting?
 
-If certainty collapses when challenged, it may not be integration — but a regulatory lock.
+If certainty collapses when challenged, it may not be integration - but a regulatory lock.
 
 ## The Hidden Mechanism
 
 Confidence is not a trait.  
 It is a *cost outcome*.
 
-When regulation can be outsourced, the system looks stable — even if the core is not.
+When regulation can be outsourced, the system looks stable - even if the core is not.
 
 <div class="mermaid">
 flowchart LR
@@ -170,8 +170,8 @@ To explore the structural framework behind these dynamics, see the [Halmetoja Mo
 
 **Related articles:**
 - [The Illusion of Stability: Why Narcissistic Confidence Isn't What It Looks Like](/articles/the-illusion-of-stability/)
-- [Narcissistic Rage Is Not About You — It's About Regulation Collapse](/articles/narcissistic-rage-is-not-about-you/)
+- [Narcissistic Rage Is Not About You - It's About Regulation Collapse](/articles/narcissistic-rage-is-not-about-you/)
 - [The System That Avoids Seeing Itself: Why Narcissistic Patterns Are So Hard to Change](/articles/the-system-that-avoids-seeing-itself/)
 - [Why False Stability Wins Power: How Narcissistic Confidence Attracts Followers](/articles/why-false-stability-wins-power/)
 
-*The Invisible Gravity* explores why narcissistic confidence attracts — and what it costs. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).
+*The Invisible Gravity* explores why narcissistic confidence attracts - and what it costs. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).

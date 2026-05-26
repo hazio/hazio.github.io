@@ -1,6 +1,6 @@
 ---
 title: "What Is the False Self? Beyond Winnicott and Narcissism"
-description: "The false self isn't a lie — it's a survival adaptation. Learn what the false self really is, how it forms under pressure, and why understanding it changes everything about narcissistic abuse recovery."
+description: "The false self isn't a lie - it's a survival adaptation. Learn what the false self really is, how it forms under pressure, and why understanding it changes everything about narcissistic abuse recovery."
 tags: ["false self", "narcissism", "winnicott", "borderline", "identity"]
 date: 2026-03-01
 draft: false
@@ -12,7 +12,7 @@ It appears in discussions of narcissism.
 It appears in trauma recovery.  
 It appears in descriptions of people who feel inauthentic.
 
-But what is the false self — structurally?
+But what is the false self - structurally?
 
 And is it truly “false”?
 
@@ -69,7 +69,7 @@ Rather than a personality mask, it is:
 
 It is not false in the sense of fake.
 
-It is adaptive — but fragmented.
+It is adaptive - but fragmented.
 
 ## Why “Fragmented”?
 
@@ -93,7 +93,7 @@ The system reorganizes for efficiency.
 
 Some parts expand. Others contract.
 
-The resulting self is coherent externally — but internally uneven.
+The resulting self is coherent externally - but internally uneven.
 
 ## Why “Overlay”?
 
@@ -105,7 +105,7 @@ It intercepts threat.
 
 It stabilizes presentation.
 
-But beneath it remains what can be called the **Embodied Regulatory Core (ERC)** — the slower, developmental layer of the self.
+But beneath it remains what can be called the **Embodied Regulatory Core (ERC)** - the slower, developmental layer of the self.
 
 In narcissistic configurations, the FAO replaces direct access to the ERC.
 
@@ -196,7 +196,7 @@ In structural terms, it is not fake.
 
 It is an efficient solution to an early regulatory problem.
 
-Understanding this difference removes blame — and clarifies direction.
+Understanding this difference removes blame - and clarifies direction.
 
 ---
 
@@ -206,6 +206,6 @@ For a full structural framework of regulation and identity formation, explore th
 
 **Related articles:**
 - [Mirror and Regulation Profiles: How Identity and Safety Shape Your Psychology](/articles/mirror-and-regulation-profiles/)
-- [The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
+- [The Mirror-Regulation Matrix: Why You Can Feel Safe and Still Be Lost](/articles/mirror-regulation-matrix/)
 - [When Feelings Become Identity: Why 'I Feel Worthless' Becomes 'I Am Worthless'](/articles/when-feelings-become-identity/)
 - [Are You CENTER, ORBIT, or a False CENTER? Understanding Where Your Stability Comes From](/articles/are-you-center-orbit-or-a-false-center/)

@@ -1,6 +1,6 @@
 ---
 title: "God as the Ultimate Mirror: Religion, Identity, and the Search for Coherence"
-description: "Why fragmented nervous systems seek transcendence — a structural look at religion as emotional regulation, identity stabilization, and the search for an infinite mirror."
+description: "Why fragmented nervous systems seek transcendence - a structural look at religion as emotional regulation, identity stabilization, and the search for an infinite mirror."
 date: 2026-04-18
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/BaseLayout.astro
 title: Positioning Statement | The Halmetoja Model
-description: The official positioning statement of the Halmetoja Model — a structural theory of relational regulation grounded in psychodynamic observation and systems theory.
+description: The official positioning statement of the Halmetoja Model - a structural theory of relational regulation grounded in psychodynamic observation and systems theory.
 ---
 
 # Positioning Statement
@@ -87,12 +87,12 @@ is not the same as developmental flourishing.
 
 The model introduces structural variables:
 
-- **CTO** — Cost Transfer Observable  
-- **AI** — Asymmetry Index  
-- **RSR** — Regulatory Speed Ratio  
-- **IRS** — Integration Readiness Score  
+- **CTO** - Cost Transfer Observable  
+- **AI** - Asymmetry Index  
+- **RSR** - Regulatory Speed Ratio  
+- **IRS** - Integration Readiness Score  
 
-These are relational metrics — not personality labels.
+These are relational metrics - not personality labels.
 
 The model encourages observation, not moral classification.
 

@@ -8,7 +8,7 @@ featured: false
 
 ## What it is
 
-*The Architecture of Opposites* is a slow, reflective work about duality —
+*The Architecture of Opposites* is a slow, reflective work about duality  - 
 not as conflict, but as structure.
 
 It explores how opposing forces appear across:

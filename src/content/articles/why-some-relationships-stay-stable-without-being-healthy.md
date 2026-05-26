@@ -1,6 +1,6 @@
 ---
 title: "Why Some Toxic Relationships Stay Stable Without Being Healthy"
-description: "Why can't I leave a toxic relationship that seems stable? Because stability doesn't mean health — it means someone is paying the cost. Learn the structural reason unhealthy relationships persist."
+description: "Why can't I leave a toxic relationship that seems stable? Because stability doesn't mean health - it means someone is paying the cost. Learn the structural reason unhealthy relationships persist."
 date: 2026-04-05
 ---
 

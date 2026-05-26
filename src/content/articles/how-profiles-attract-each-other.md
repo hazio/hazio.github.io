@@ -1,6 +1,6 @@
 ---
 title: "Why Do I Keep Attracting Narcissists? How Regulation Profiles Draw Each Other In"
-description: "Why empaths attract narcissists — and why it keeps repeating. A structural explanation of why certain relationship patterns form and how to break the cycle."
+description: "Why empaths attract narcissists - and why it keeps repeating. A structural explanation of why certain relationship patterns form and how to break the cycle."
 date: 2026-04-19
 draft: false
 ---

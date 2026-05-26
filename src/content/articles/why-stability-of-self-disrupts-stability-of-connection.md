@@ -1,6 +1,6 @@
 ---
 title: "Why Becoming More Yourself Can Destabilize Your Relationship"
-description: "Growing into yourself can threaten the relationship you're in. Learn why self-stability disrupts connection — and why that disruption is often a sign of real growth."
+description: "Growing into yourself can threaten the relationship you're in. Learn why self-stability disrupts connection - and why that disruption is often a sign of real growth."
 date: 2026-04-06
 ---
 
@@ -175,7 +175,7 @@ Connection that depends on constant adjustment is structurally fragile.
 
 And when the system no longer stabilizes connection by adjusting itself:
 
-> connection must reorganize — or it cannot remain the same.
+> connection must reorganize - or it cannot remain the same.
 
 ---
 

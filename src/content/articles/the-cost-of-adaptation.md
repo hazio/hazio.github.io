@@ -163,7 +163,7 @@ This creates:
 
 When adaptation is prioritized:
 
-- self–other distinction weakens  
+- self-other distinction weakens  
 - external states are internalized  
 - internal states are suppressed  
 
@@ -336,5 +336,5 @@ And until adaptation becomes optional:
 **Related articles:**
 - [Why Empaths Burn Out (Even When They Care More Than Anyone Else)](/articles/why-empaths-burn-out/)
 - [Humans Are Built to Adapt, Not to Be Whole](/articles/humans-are-built-to-adapt-not-to-be-whole/)
-- [Why Integration Fails: It's Not Resistance — It's Capacity](/articles/why-integration-fails/)
+- [Why Integration Fails: It's Not Resistance - It's Capacity](/articles/why-integration-fails/)
 - [The Vector Model of Integration: Why You Can't Force Healing](/articles/the-vector-model-of-integration/)

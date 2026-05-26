@@ -87,7 +87,7 @@ But the reason is not capacity.
 
 It is structure.
 
-> tension is not processed — it is prevented
+> tension is not processed - it is prevented
 
 ---
 
@@ -267,6 +267,6 @@ It is defined by how stability is maintained.
 
 ## Continue Reading
 
-- [The CENTER–ORBIT Model](/halmetoja-model/center-orbit-model)  
+- [The CENTER-ORBIT Model](/halmetoja-model/center-orbit-model)  
 - [The Illusion of Stability](/articles/the-illusion-of-stability)  
 - [The Mirror Economy](/halmetoja-model/mirror-economy)

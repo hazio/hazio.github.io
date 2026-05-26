@@ -1,6 +1,6 @@
 ---
-title: "The Mirror–Regulation Matrix: Why You Can Feel Safe and Still Be Lost"
-description: "Identity and safety come from different sources. This matrix explains why you can feel stable but inauthentic — or real but overwhelmed — and what it means for healing."
+title: "The Mirror-Regulation Matrix: Why You Can Feel Safe and Still Be Lost"
+description: "Identity and safety come from different sources. This matrix explains why you can feel stable but inauthentic - or real but overwhelmed - and what it means for healing."
 date: 2026-04-18
 draft: false
 ---
@@ -80,7 +80,7 @@ This is a chaotic ORBIT system.
 You were stabilized.  
 But not seen accurately.
 
-You were soothed — but into the wrong shape.
+You were soothed - but into the wrong shape.
 
 This creates:
 
@@ -89,7 +89,7 @@ This creates:
 - functional behavior  
 - internal misalignment  
 
-> “I feel fine — but I don’t feel like myself.”
+> “I feel fine - but I don’t feel like myself.”
 
 This is the foundation of the **false self**.
 
@@ -110,7 +110,7 @@ This creates:
 - emotional intensity  
 - burnout risk  
 
-> “I know who I am — but I can’t handle what I feel.”
+> “I know who I am - but I can’t handle what I feel.”
 
 This often becomes:
 
@@ -134,7 +134,7 @@ This creates:
 - emotional stability  
 - capacity to integrate  
 
-> “I am myself — and I can stay.”
+> “I am myself - and I can stay.”
 
 This is where **CENTER** can form.
 
@@ -189,7 +189,7 @@ It is structural fit.
 
 ## Connection to the Halmetoja Model
 
-The Mirror–Regulation Matrix explains **origin**.
+The Mirror-Regulation Matrix explains **origin**.
 
 The Halmetoja Model explains **behavior**.
 

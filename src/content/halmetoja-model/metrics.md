@@ -12,11 +12,11 @@ It reads systems.
 The following four variables allow you to locate a relational structure
 without turning it into a villain story.
 
-They describe direction, imbalance, rhythm, and possibility — not character.
+They describe direction, imbalance, rhythm, and possibility - not character.
 
 ---
 
-# 1. CTO — Cost Transfer Observable
+# 1. CTO - Cost Transfer Observable
 
 **Question:**  
 *Whose nervous system is doing the regulatory work right now?*
@@ -30,13 +30,13 @@ Cost transfer becomes visible when:
 - One explains, repairs, or narrates while the other receives  
 - One apologizes or rebalances while the other stabilizes passively  
 
-CTO is a vector — not a volume meter.
+CTO is a vector - not a volume meter.
 
 It tells you where regulation is flowing.
 
 ---
 
-# 2. AI — Asymmetry Index
+# 2. AI - Asymmetry Index
 
 **Question:**  
 *How structurally uneven is the system?*
@@ -62,7 +62,7 @@ The cost does not disappear.
 
 ---
 
-# 3. RSR — Regulatory Speed Ratio
+# 3. RSR - Regulatory Speed Ratio
 
 **Question:**  
 *How fast does the unconscious contract operate?*
@@ -87,7 +87,7 @@ The faster system pays automatically.
 
 ---
 
-# 4. IRS — Integration Readiness Score
+# 4. IRS - Integration Readiness Score
 
 **Question:**  
 *Is structural change energetically possible now?*

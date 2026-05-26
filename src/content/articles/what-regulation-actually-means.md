@@ -1,6 +1,6 @@
 ---
 title: "What Emotional Regulation Actually Means (It's Not About Calming Down)"
-description: "Emotional regulation isn't about controlling your feelings — it's about how your system stays intact under tension. A structural definition that changes how you understand yourself."
+description: "Emotional regulation isn't about controlling your feelings - it's about how your system stays intact under tension. A structural definition that changes how you understand yourself."
 date: 2026-04-04
 ---
 
@@ -193,6 +193,6 @@ And how a system avoids falling apart determines:
 
 **Related articles:**
 - [The Vector Model of Integration: Why You Can't Force Healing](/articles/the-vector-model-of-integration/)
-- [Why Integration Fails: It's Not Resistance — It's Capacity](/articles/why-integration-fails/)
+- [Why Integration Fails: It's Not Resistance - It's Capacity](/articles/why-integration-fails/)
 - [What Is Not Integrated Is Transmitted: How Unresolved Trauma Passes Between Generations](/articles/what-is-not-integrated-is-transmitted/)
 - [What Is Regulation-Driven Behavior? Why People Act Inconsistently in Relationships](/articles/what-is-regulation-driven-behavior/)

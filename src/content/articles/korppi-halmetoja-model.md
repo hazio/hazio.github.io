@@ -1,12 +1,12 @@
 ---
-title: "Korppi — When Regulation Leaves the Center"
+title: "Korppi - When Regulation Leaves the Center"
 description: "A structural interpretation of Tuula Amberla’s Korppi through the Halmetoja Model: projection, regulation shift, and cost relocation."
 date: 2026-04-04
 ---
 
 ## The Song
 
-Tuula Amberla — *Korppi*
+Tuula Amberla - *Korppi*
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/87zXKhilOuI" 
 title="Korppi" frameborder="0" allowfullscreen></iframe>
@@ -28,7 +28,7 @@ This is where *Korppi* lives.
 
 ---
 
-## Not Emotion — Reorganization
+## Not Emotion - Reorganization
 
 The song is often read as mood, atmosphere, or symbolism.
 
@@ -142,7 +142,7 @@ It relocates.
 
 The cost does not disappear.
 
-It moves outward — onto an object, a person, a symbol.
+It moves outward - onto an object, a person, a symbol.
 
 The crow carries what the center can no longer hold.
 
@@ -188,7 +188,7 @@ It inhabits it.
 
 The atmosphere is not decoration.
 
-It is the structural state itself — the moment after the threshold, before any return is possible.
+It is the structural state itself - the moment after the threshold, before any return is possible.
 
 This is what makes it precise.
 
@@ -202,7 +202,7 @@ But as art that *is* the psychological moment.
 
 Regulation does not always leave loudly.
 
-Sometimes it leaves quietly — into a bird, a symbol, a presence that feels almost intentional.
+Sometimes it leaves quietly - into a bird, a symbol, a presence that feels almost intentional.
 
 And the system continues.
 

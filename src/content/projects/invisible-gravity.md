@@ -11,7 +11,7 @@ links:
 ## What it is
 
 *The Invisible Gravity* is a psychological narrative about relationships that felt
-inevitable, consuming, and impossible to leave — even when they were hurting you.
+inevitable, consuming, and impossible to leave - even when they were hurting you.
 
 It does not explain *what* happened.
 
@@ -19,7 +19,7 @@ It explains **why it could not have happened any other way**.
 
 Rather than focusing on narcissism as a personality flaw or moral failure, the book
 reveals the **structural gravity** created when two nervous systems form a perfectly
-balanced — but asymmetrical — system.
+balanced - but asymmetrical - system.
 
 A system that works.
 A system that costs.
@@ -32,7 +32,7 @@ Many readers arrive at this book asking:
 
 > *“Was I the problem?”*
 
-Most explanations answer by pointing fingers — at the narcissist, at trauma,
+Most explanations answer by pointing fingers - at the narcissist, at trauma,
 or at the reader’s supposed blindness.
 
 This book does something else.
@@ -41,7 +41,7 @@ It shows how:
 - extreme attraction can be a signal of structural fit, not health  
 - balance can exist while harm accumulates on only one side  
 - empathy can function as a survival role, not a flaw  
-- leaving can feel worse than staying — even when staying is destructive  
+- leaving can feel worse than staying - even when staying is destructive  
 
 For readers trapped in self-blame or endless analysis, *The Invisible Gravity*
 offers a language that **ends the search** and redirects energy back to life.
@@ -67,4 +67,4 @@ The book functions as:
 - Increase visibility through articles, interviews, and short-form writing  
 - Develop companion material that expands key concepts without theory overload  
 - Prepare supporting work (*Halmetoja Model*) for readers who want to go further  
-- Listen carefully to what readers recognize — and where they finally stop searching  
+- Listen carefully to what readers recognize - and where they finally stop searching  

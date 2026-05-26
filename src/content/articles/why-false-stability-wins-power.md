@@ -1,6 +1,6 @@
 ---
 title: "Why False Stability Wins Power: How Narcissistic Confidence Attracts Followers"
-description: "Why people trust those who appear certain over those who are genuinely integrated. Learn how false stability gains social power — and why it's so hard to see through."
+description: "Why people trust those who appear certain over those who are genuinely integrated. Learn how false stability gains social power - and why it's so hard to see through."
 date: 2026-04-27
 draft: false
 ---
@@ -231,7 +231,7 @@ Over time:
 
 ## The Hidden Cost
 
-False stability works — until it does not.
+False stability works - until it does not.
 
 ---
 

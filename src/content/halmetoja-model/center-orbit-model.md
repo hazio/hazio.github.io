@@ -1,5 +1,5 @@
 ---
-title: "The CENTER–ORBIT Model"
+title: "The CENTER-ORBIT Model"
 description: "A structural model of psychological regulation: the distinction between internal regulation (CENTER) and external regulation systems (ORBIT)."
 date: 2026-04-08
 draft: false
@@ -9,7 +9,7 @@ draft: false
 
 Most psychological models describe *what people are like*.
 
-The CENTER–ORBIT Model describes something else:
+The CENTER-ORBIT Model describes something else:
 
 > **how a system handles tension**
 
@@ -230,7 +230,7 @@ Everything else follows from this.
 
 ## Final Insight
 
-The CENTER–ORBIT Model is not about labeling people.
+The CENTER-ORBIT Model is not about labeling people.
 
 It is about understanding structure.
 

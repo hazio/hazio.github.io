@@ -1,6 +1,6 @@
 ---
 title: "Why You Feel Empty in Your Relationship (Even If Nothing Is ‘Wrong’)"
-description: "Feeling empty in a relationship even though nothing is obviously wrong? Learn why emotional emptiness in relationships comes from regulatory asymmetry — not lack of love."
+description: "Feeling empty in a relationship even though nothing is obviously wrong? Learn why emotional emptiness in relationships comes from regulatory asymmetry - not lack of love."
 tags: ["emptiness", "relationships", "identity", "narcissism", "empathy"]
 date: 2026-03-01
 draft: false
@@ -14,9 +14,9 @@ No dramatic betrayal.
 
 And yet something feels hollow.
 
-You feel alone — even when you are not alone.
+You feel alone - even when you are not alone.
 
-You feel unseen — even when someone is physically present.
+You feel unseen - even when someone is physically present.
 
 Where does that emptiness come from?
 
@@ -32,7 +32,7 @@ But emptiness frequently arises from something more subtle:
 
 Regulatory asymmetry.
 
-Not emotional absence — but uneven movement.
+Not emotional absence - but uneven movement.
 
 ## When One Person Moves More Than the Other
 
@@ -80,7 +80,7 @@ Over time, this creates a subtle split:
 Externally: harmony.  
 Internally: thinning.
 
-The person is still there — but less of them is allowed to move.
+The person is still there - but less of them is allowed to move.
 
 ## Emptiness Is Often Suppressed Motion
 
@@ -188,7 +188,7 @@ The goal is not explosion.
 
 The goal is rebalancing motion.
 
-When both systems move — even imperfectly — integration resumes.
+When both systems move - even imperfectly - integration resumes.
 
 ## Summary
 
@@ -217,4 +217,4 @@ To understand the structural mechanics behind relational asymmetry and identity 
 - [The Cost of Adaptation: How Survival Strategies Become Identity Traps](/articles/the-cost-of-adaptation/)
 - [Why Avoiding Abandonment Creates Self-Abandonment](/articles/why-avoiding-abandonment-creates-self-abandonment/)
 
-*The Invisible Gravity* is a book about relationships that felt impossible to leave — and why. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).
+*The Invisible Gravity* is a book about relationships that felt impossible to leave - and why. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).

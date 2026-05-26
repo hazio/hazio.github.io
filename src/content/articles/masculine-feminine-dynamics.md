@@ -1,6 +1,6 @@
 ---
 title: "Masculine and Feminine Dynamics: Why Boundaries and Openness Are Structural, Not Gendered"
-description: "Masculine and feminine are not identities — they're movement permissions. Learn why narcissistic and empathic structures suppress opposite functions and how integration restores both."
+description: "Masculine and feminine are not identities - they're movement permissions. Learn why narcissistic and empathic structures suppress opposite functions and how integration restores both."
 date: 2026-03-22
 ---
 
@@ -18,8 +18,8 @@ They are **movement permissions** inside a regulatory system.
 
 The Halmetoja Model separates two dimensions:
 
-- **CENTER–ORBIT** → *Where regulation happens*  
-- **Masculine–Feminine** → *How movement is allowed*
+- **CENTER-ORBIT** → *Where regulation happens*  
+- **Masculine-Feminine** → *How movement is allowed*
 
 Confusing these collapses structure into identity.
 

@@ -1,6 +1,6 @@
 ---
 title: "What Is Love, Really? A Structural Explanation Beyond Emotion and Chemistry"
-description: "Love explained through regulation and integration — why intense attraction is often emotional dysregulation, and what real love looks like when you're not in ORBIT."
+description: "Love explained through regulation and integration - why intense attraction is often emotional dysregulation, and what real love looks like when you're not in ORBIT."
 date: 2026-04-19
 draft: false
 ---

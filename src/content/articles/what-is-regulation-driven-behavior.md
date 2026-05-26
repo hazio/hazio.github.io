@@ -1,6 +1,6 @@
 ---
 title: "What Is Regulation-Driven Behavior? Why People Act Inconsistently in Relationships"
-description: "Why people in toxic relationships behave inconsistently — not because they're manipulative, but because they're regulating. Learn to read behavior through a structural lens."
+description: "Why people in toxic relationships behave inconsistently - not because they're manipulative, but because they're regulating. Learn to read behavior through a structural lens."
 date: 2026-04-29
 draft: false
 ---

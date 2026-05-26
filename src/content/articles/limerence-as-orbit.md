@@ -1,6 +1,6 @@
 ---
 title: "Limerence as Obsessive Love: Why It Feels Like Survival, Not Just Attraction"
-description: "What is limerence and why does it feel so overwhelming? A structural explanation of obsessive love as an emotional regulation system — not just intense attraction."
+description: "What is limerence and why does it feel so overwhelming? A structural explanation of obsessive love as an emotional regulation system - not just intense attraction."
 date: 2026-05-06
 draft: false
 ---

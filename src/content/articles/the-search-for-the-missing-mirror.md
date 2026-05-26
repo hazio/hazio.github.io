@@ -1,6 +1,6 @@
 ---
 title: "The Search for the Missing Mirror: Why Some People Feel Incomplete Without a Relationship"
-description: "When the primary mirror distorts, relationships become a lifelong search for identity. Learn why some people feel empty alone — and how to stop searching for yourself in others."
+description: "When the primary mirror distorts, relationships become a lifelong search for identity. Learn why some people feel empty alone - and how to stop searching for yourself in others."
 date: 2026-05-06
 draft: false
 ---

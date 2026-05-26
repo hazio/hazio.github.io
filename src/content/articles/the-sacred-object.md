@@ -1,6 +1,6 @@
 ---
 title: "The Sacred Object: Why Limerence Feels Like Destiny, Not Just Attraction"
-description: "Why the person you're obsessed with feels magical and irreplaceable. A structural look at how limerence turns someone into a sacred object — and why it's about regulation, not love."
+description: "Why the person you're obsessed with feels magical and irreplaceable. A structural look at how limerence turns someone into a sacred object - and why it's about regulation, not love."
 date: 2026-05-06
 draft: false
 ---

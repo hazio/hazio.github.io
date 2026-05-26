@@ -1,6 +1,6 @@
 ---
 title: "Structure vs Behavior: Why the Same Action Can Mean Two Completely Different Things"
-description: "Why behavior alone doesn't reveal psychology. Learn the critical difference between structural patterns and surface behavior — and why it changes how you read relationships."
+description: "Why behavior alone doesn't reveal psychology. Learn the critical difference between structural patterns and surface behavior - and why it changes how you read relationships."
 date: 2026-04-29
 draft: false
 ---

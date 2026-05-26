@@ -1,6 +1,6 @@
 ---
 title: "Why Empaths Burn Out (Even When They Care More Than Anyone Else)"
-description: "Empath burnout isn't caused by caring too much — it's caused by chronic regulatory asymmetry. Learn why empaths exhaust themselves in relationships and how to stop the cycle."
+description: "Empath burnout isn't caused by caring too much - it's caused by chronic regulatory asymmetry. Learn why empaths exhaust themselves in relationships and how to stop the cycle."
 tags: ["empathy", "burnout", "relationships", "regulation", "empaths"]
 date: 2026-03-01
 draft: false
@@ -47,7 +47,7 @@ They:
 
 They are high-speed regulators.
 
-In the Halmetoja Model, this corresponds to a fast-cycling ORBIT orientation — a nervous system that reacts quickly to maintain relational equilibrium.
+In the Halmetoja Model, this corresponds to a fast-cycling ORBIT orientation - a nervous system that reacts quickly to maintain relational equilibrium.
 
 At first, this looks like maturity.
 
@@ -196,4 +196,4 @@ To understand the structural mechanics behind relational cost distribution, expl
 - [Why Avoiding Abandonment Creates Self-Abandonment](/articles/why-avoiding-abandonment-creates-self-abandonment/)
 - [Humans Are Built to Adapt, Not to Be Whole](/articles/humans-are-built-to-adapt-not-to-be-whole/)
 
-*The Invisible Gravity* explores these dynamics in depth — why the relationship could not have ended any other way. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).
+*The Invisible Gravity* explores these dynamics in depth - why the relationship could not have ended any other way. [Available on Amazon](https://www.amazon.de/dp/B0GDWK4S9M).
