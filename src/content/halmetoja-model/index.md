@@ -7,7 +7,7 @@ draft: false
 
 ## What This Model Is
 
-The Halmetoja Model is a structural model of psychology.
+The Halmetoja Model is the popular interface to the **Structural Regulation Framework (SRF)** - a six-paper academic theory program. This site uses accessible language (CENTER, ORBIT, integration) to communicate ideas that are formally defined in the [SRF Theory Program](/research/theory-program/).
 
 It does not describe personalities, traits, or identities.
 
