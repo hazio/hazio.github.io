@@ -1,4 +1,11 @@
-# SRF Generation 1 — Consolidated Editions
+---
+title: "SRF Generation 1 - Consolidated Editions"
+description: "Revision plan for strengthening the first-generation SRF architecture without rewriting the foundational papers."
+date: 2026-05-28
+draft: true
+---
+
+# SRF Generation 1 - Consolidated Editions
 
 ## Purpose
 
