@@ -1,6 +1,6 @@
 # Halmetoja Model
 
-A layered structural psychology framework describing how psychological regulation operates, where reality compresses, what becomes threatening, and when continuity of being itself becomes the stake.
+A layered structural psychology framework describing how psychological regulation operates, where reality compresses, what becomes threatening, and why compressed reality becomes specifically rewritten.
 
 **Website:** https://halmetojamodel.com
 
@@ -8,7 +8,7 @@ A layered structural psychology framework describing how psychological regulatio
 
 ## SRF Theory Program
 
-The academic foundation is the **Structural Regulation Framework (SRF)** — a six-paper theory program published as open-access preprints on Zenodo.
+The academic foundation is the **Structural Regulation Framework (SRF)** — a seven-paper theory program published as open-access preprints on Zenodo.
 
 | Paper | Title | Question | DOI |
 |---|---|---|---|
@@ -18,8 +18,9 @@ The academic foundation is the **Structural Regulation Framework (SRF)** — a s
 | 4 | Compression Profiles | Where does reality compress? | [10.5281/zenodo.20382973](https://doi.org/10.5281/zenodo.20382973) |
 | 5 | Self Architecture | What is threatened? | [10.5281/zenodo.20383116](https://doi.org/10.5281/zenodo.20383116) |
 | 6 | Ontological Regulation | When existence itself is threatened? | [10.5281/zenodo.20383242](https://doi.org/10.5281/zenodo.20383242) |
+| 7 | Defensive Reconstruction | Why does compressed reality become rewritten? | [10.5281/zenodo.20433536](https://doi.org/10.5281/zenodo.20433536) |
 
-**Status:** First-generation theoretical architecture complete. Empirical validation not yet begun.
+**Status:** Theoretical architecture published (Papers 1-7). Empirical validation not yet begun.
 
 ---
 
@@ -27,8 +28,9 @@ The academic foundation is the **Structural Regulation Framework (SRF)** — a s
 
 - **Regulation is signal-class-dependent.** The mind does not process all signals at equal resolution.
 - **Compression is structural, not random.** Specific signal classes compress because full-resolution processing would exceed available holding capacity.
-- **Defensive simplification is adaptive.** It persists because it minimizes destabilization risk — not because of motivational deficit.
+- **Defensive simplification is adaptive.** It persists because it minimizes destabilization risk - not because of motivational deficit.
 - **Personality is compression architecture.** Not what kind of person someone is, but which signals compress and why.
+- **Compressed reality may become rewritten.** When representational cost exceeds holding capacity, the system may reshape accessible reality to preserve regulatory coherence. This is not merely seeing less - it is seeing something else.
 
 ---
 
