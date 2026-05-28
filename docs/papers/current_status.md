@@ -503,31 +503,221 @@ Valuable but not core-theory blocking.
 
 ---
 
-## 7. Structural Opacity and Feedback Integration (second-generation construct)
+## 7. Structural Opacity and Feedback Integration Capacity (second-generation constructs)
 
-### Structural Opacity
+### Overview
 
-Compression produces a secondary effect: the compression itself becomes invisible from inside. A compressed signal class does not appear internally as "distorted" - it appears as reality. This is structural opacity.
+Papers 1-6 explain how regulation operates, why it resists change, where compression occurs, what is threatened, and how deep the stakes go. But they leave two related questions under-specified:
 
-Opacity is hypothesized to be signal-class-specific:
-- Status processing: high transparency (person can observe their own status-seeking)
-- Dependency processing: low transparency (person experiences independence, not defended need)
-- Shame processing: near-zero transparency (person experiences attack, not shame avoidance)
+1. **Why can't people see their own compressed domains?** (Structural Opacity)
+2. **Why can some people still learn from what others see?** (Feedback Integration Capacity)
 
-Structural opacity may not require its own construct - it may be a necessary consequence of compression itself. But it requires explicit articulation because it explains why insight alone rarely produces change.
+These are distinct questions. Opacity explains the visibility problem. Feedback Integration Capacity may explain differential learning capacity despite opacity.
 
-### Feedback Integration Capacity
+---
 
-A potentially independent construct: the capacity to receive external information about one's own architecture and update the internal self-model accordingly.
+### 7.1 Structural Opacity
 
-This may be:
-- Signal-class-specific (can integrate feedback about work performance but not about relational patterns)
-- IRC-related (requires holding capacity to tolerate what feedback reveals)
-- The primary mechanism of therapeutic change: externally scaffolded self-model revision
+#### Definition
 
-Key insight: self-awareness may not be primarily introspective. It may be socially scaffolded - the mind learns itself through the reflected consequences of its own architecture.
+**Structural Opacity** - the degree to which a compressed signal class is unavailable to direct self-observation from within the system that produces it.
 
-Status: **Conceptual note. Not yet formalized. May warrant future development if empirically distinguishable from compression profile.**
+Compression does not merely reduce resolution. It produces a secondary effect: the compression itself becomes invisible from inside. A compressed signal class does not appear internally as "distorted" - it appears as reality. The architecture disappears into the subjective world it creates.
+
+#### Mechanism
+
+The proposed mechanism is straightforward:
+
+1. Self-observation requires representational resources
+2. Representational resources in a compressed domain are, by definition, reduced
+3. Therefore the system cannot represent its own compression at full resolution
+4. The compressed interpretation becomes the only available interpretation
+
+This is not denial (motivated avoidance of known truth). It is structural - the system lacks the representational bandwidth to perceive its own bandwidth limitation.
+
+#### Signal-class specificity
+
+Opacity is hypothesized to be signal-class-specific. The same person may show:
+
+| Signal class | Opacity level | Phenomenology |
+|---|---|---|
+| Status | Low (high transparency) | Person can observe their own status-seeking |
+| Control | Moderate | Person notices rigidity but attributes it to "standards" |
+| Dependency | High (low transparency) | Person experiences independence, not defended need |
+| Shame | Very high (near-zero transparency) | Person experiences attack, not shame avoidance |
+| Rejection | Variable | Depends on whether rejection is ego-syntonic |
+
+#### Relationship to existing SRF constructs
+
+| Construct | Relationship to Structural Opacity |
+|---|---|
+| Compression (Paper 4) | Opacity is a *consequence* of compression, not a separate mechanism |
+| Resolution Resistance (Paper 2) | Resistance explains why compression persists; opacity explains why the person doesn't notice it persists |
+| Self Architecture (Paper 5) | Self architecture determines which domains are threatening; opacity determines which domains are invisible |
+| IRC (Paper 1) | Higher IRC may enable momentary transparency (holding the discomfort of seeing one's own limits) |
+| ERD (Paper 1) | High ERD + high opacity = person seeks regulation for distress they cannot structurally attribute to themselves |
+
+#### Key theoretical question: Is opacity a separate construct or a necessary consequence?
+
+**Conservative position:** Opacity is not a new construct. It is a logical entailment of compression. If resolution is reduced, self-observation of that domain is necessarily impaired. No additional mechanism needed.
+
+**Expansive position:** Opacity varies independently of compression depth. Two people with equal compression in dependency processing may differ in how visible that compression is to them. This would require opacity as a partially independent parameter.
+
+**Current assessment:** The conservative position is more parsimonious. Opacity likely does not require its own construct - it is a structural consequence of compression that requires explicit articulation because it has major clinical and theoretical implications. However, the expansive position remains empirically testable.
+
+#### Why explicit articulation matters despite parsimony
+
+Even if opacity is merely a consequence of compression, it must be explicitly named because:
+
+1. It explains why insight-based interventions often fail (the target domain is opaque)
+2. It explains the asymmetry between self-report and observer-report in compressed domains
+3. It predicts that self-report instruments will systematically underestimate compression in high-opacity domains
+4. It reframes "lack of insight" from motivational failure to structural limitation
+
+---
+
+### 7.2 Feedback Integration Capacity
+
+#### Definition
+
+**Feedback Integration Capacity (FIC)** - the capacity to receive external information about one's own regulatory architecture and update the internal self-model accordingly.
+
+This is distinct from:
+- Insight (which implies introspective access - opacity makes this unreliable)
+- Openness to experience (which is a trait, not a structural capacity)
+- Mentalization (which concerns understanding others' minds, not receiving information about one's own)
+
+#### Proposed mechanism
+
+FIC operates through a multi-stage process:
+
+1. **Reception** - external feedback enters the system (someone says "you always withdraw when...")
+2. **Signal classification** - the system classifies the feedback content (this is about my dependency pattern)
+3. **Threat assessment** - the system evaluates whether integrating this feedback threatens self-coherence
+4. **Holding** - if threat is manageable, the system holds the feedback without immediate discharge
+5. **Model update** - the self-model incorporates the new information
+
+FIC can fail at any stage:
+- Stage 1: feedback is not received (avoidance, dismissal)
+- Stage 2: feedback is misclassified (experienced as attack rather than information)
+- Stage 3: threat exceeds holding capacity, triggering compression
+- Stage 4: holding fails, feedback is discharged through externalization
+- Stage 5: model update is blocked by self-architecture rigidity
+
+#### Signal-class specificity
+
+FIC is hypothesized to be signal-class-specific:
+
+- A person may integrate feedback about work performance (low-threat domain) while being structurally unable to integrate feedback about relational patterns (high-threat domain)
+- This is not selective listening - it is differential structural capacity
+
+#### Relationship to existing SRF constructs
+
+| Construct | Relationship to FIC |
+|---|---|
+| IRC (Paper 1) | FIC requires IRC - holding feedback requires holding capacity. But IRC is necessary, not sufficient. |
+| SF (Paper 1) | Higher SF may enable holding contradictory self-information without fragmentation |
+| Compression (Paper 4) | Feedback about compressed domains enters through those same compressed channels - creating a recursive trap |
+| Self Architecture (Paper 5) | Worth contingency determines which feedback is threatening; shame integration determines whether shame-laden feedback can be processed |
+| Resolution Resistance (Paper 2) | Resolution resistance predicts that even when feedback is received, the system resists updating because decompression exceeds holding capacity |
+
+#### The recursive feedback trap
+
+This is the central clinical problem:
+
+1. Feedback about a compressed domain enters through that domain
+2. The domain is compressed precisely because its content is threatening
+3. Therefore feedback about the domain is experienced as threat
+4. Threat activates compression
+5. Compression reduces resolution of the feedback itself
+6. Reduced resolution distorts interpretation
+7. Distorted interpretation becomes defense
+8. Defense blocks learning
+
+This loop explains why "just telling someone" rarely produces change. The delivery channel is the problem channel.
+
+#### Relationship to therapeutic change
+
+If FIC is the primary mechanism of structural learning, then therapy is not primarily insight delivery. It is:
+
+**Externally scaffolded self-model revision under conditions of sufficient holding.**
+
+The therapist provides:
+- Repeated, consistent feedback (data accumulation)
+- Relational safety (reduces threat assessment at Stage 3)
+- Holding augmentation (scaffolds IRC for Stage 4)
+- Timing (delivers feedback when activation is manageable)
+
+This reframes therapeutic alliance as an FIC-enabling condition, not merely a "warm relationship."
+
+#### Is FIC a separate construct or reducible to existing parameters?
+
+**Reductive position:** FIC = IRC + low compression in the relevant domain. No new construct needed. A person can integrate feedback when they have enough holding capacity and the domain isn't too compressed.
+
+**Independent construct position:** FIC captures something IRC alone does not - the specific capacity for self-model updating. Two people with equal IRC and equal compression may differ in how readily they update their self-model when feedback penetrates. This could reflect:
+- Epistemic trust (Fonagy) - willingness to treat others as reliable information sources
+- Self-model flexibility - how rigid vs. revisable the current self-representation is
+- Meta-cognitive capacity - ability to hold "my perception may be structurally limited" as a live hypothesis
+
+**Current assessment:** FIC likely has partial independence from IRC and compression. The epistemic trust and self-model flexibility components suggest something beyond mere holding capacity. However, the degree of independence is an empirical question.
+
+---
+
+### 7.3 Opacity-FIC Interaction
+
+The two constructs interact in a clinically important way:
+
+| Opacity | FIC | Clinical presentation |
+|---|---|---|
+| Low | High | Person sees own patterns and can learn from feedback. Fastest growth trajectory. |
+| Low | Low | Person sees own patterns but cannot update behavior. "I know I do this but I can't stop." |
+| High | High | Person cannot see own patterns but can learn from external mirrors. Therapy-responsive. |
+| High | Low | Person cannot see own patterns AND cannot integrate feedback. Most treatment-resistant. |
+
+The High Opacity / High FIC combination is particularly interesting: these individuals may not have introspective access to their compressed domains, but they can learn from accumulated relational evidence. They are "mirror-dependent learners" - their self-awareness is socially scaffolded rather than introspectively generated.
+
+The High Opacity / Low FIC combination describes the clinical picture often labeled "lack of insight" or "treatment resistance." SRF reframes this: it is not motivational failure but structural limitation at two levels simultaneously.
+
+---
+
+### 7.4 Candidate operationalization pathways
+
+#### Structural Opacity measurement challenges
+
+Direct self-report cannot measure opacity (the construct predicts that self-report is unreliable in opaque domains). Possible approaches:
+
+1. **Self-other discrepancy method** - compare self-report with informant-report across signal classes. Larger discrepancies in specific domains suggest higher opacity in those domains.
+2. **Implicit-explicit divergence** - compare explicit self-report with implicit measures (IAT-like tasks, reaction time paradigms) for the same signal class.
+3. **Feedback integration paradigm** - present standardized feedback about different signal classes and measure integration vs. rejection patterns.
+
+#### FIC measurement approaches
+
+1. **Repeated feedback paradigm** - deliver consistent feedback across sessions and measure self-model updating over time.
+2. **Signal-class-specific feedback tasks** - deliver feedback about different domains and measure differential integration.
+3. **Therapeutic process research** - track self-model revision across therapy as a function of feedback delivery and relational safety.
+
+---
+
+### 7.5 Theoretical status and open questions
+
+**Status:** Extended conceptual note. Not yet formalized into paper-level theory. These constructs occupy a space between "obvious consequence of existing theory" and "genuinely new explanatory layer."
+
+**Open questions:**
+
+1. Is opacity truly a consequence of compression, or does it have independent variance?
+2. Does FIC reduce to IRC + compression level, or does it capture something additional (epistemic trust, self-model flexibility)?
+3. Can opacity be measured given that it predicts unreliability of self-report in opaque domains?
+4. Is FIC signal-class-specific (as predicted) or does it have a global component?
+5. What is the developmental origin of FIC? Is it attachment-related (epistemic trust), temperamental, or structurally determined?
+6. Does FIC change in therapy, and if so, what changes it - the relationship, the feedback, or the holding conditions?
+7. How does FIC relate to mentalization (Fonagy)? Mentalization concerns understanding others; FIC concerns receiving information about self. Overlap likely but not identity.
+
+**Decision point:** These constructs warrant formalization if:
+- Empirical evidence shows opacity varies independently of compression depth
+- FIC shows discriminant validity from IRC and compression
+- The Opacity-FIC interaction matrix predicts treatment outcomes
+
+Until then: valuable conceptual tools for clinical reasoning, not yet formal theory constructs.
 
 ---
 
