@@ -1,7 +1,7 @@
 # SRF Theory Program — Current State Assessment
-## First-Generation Architecture COMPLETE — All Papers Published
+## First-Generation Architecture COMPLETE + Paper 7 Published
 
-**Status date:** 2026-05-26 (post-publication)
+**Status date:** 2026-05-28 (post-Paper 7 publication)
 
 ---
 
@@ -17,10 +17,9 @@ At present:
 - **Paper 4 is published** (Zenodo: https://doi.org/10.5281/zenodo.20382973)
 - **Paper 5 is published** (Zenodo: https://doi.org/10.5281/zenodo.20383116)
 - **Paper 6 is published** (Zenodo: https://doi.org/10.5281/zenodo.20383242)
+- **Paper 7 is published** (Zenodo: https://doi.org/10.5281/zenodo.20433536)
 
-The program is no longer a single theory paper.
-
-It is now a structured theory stack — fully published.
+Papers 1-6 constitute the first-generation architecture. Paper 7 extends the framework with defensive reconstruction, structural opacity, feedback integration capacity, and collapse progression.
 
 The key question is no longer:
 
@@ -32,7 +31,7 @@ It is now:
 
 Answer:
 
-**The first-generation theoretical architecture is complete and published. The research program now requires empirical validation.**
+**The theoretical architecture is published. The research program now requires empirical validation.**
 
 ---
 
@@ -237,6 +236,35 @@ Intended as the culmination of first-generation theory. Most speculative paper i
 
 ---
 
+## Paper 7 — Defensive Reconstruction (published)
+
+### Question
+
+**Why does compressed reality become specifically rewritten?**
+
+### Layer
+
+Reconstruction dynamics
+
+### Core concepts
+
+- defensive reconstruction
+- representational cost
+- structural opacity
+- feedback integration capacity (FIC)
+- collapse progression
+- Ontological Binary Encoding
+
+### Status
+
+**Written and published.**
+
+DOI: https://doi.org/10.5281/zenodo.20433536
+
+Extends first-generation architecture with second-order process: when representational cost exceeds holding capacity, the system may reshape accessible reality to preserve regulatory coherence. Introduces compression-to-reconstruction transition, FIC, opacity, and four-stage collapse model.
+
+---
+
 # Full architectural stack
 
     Paper 1 — Mechanism
@@ -256,6 +284,9 @@ Intended as the culmination of first-generation theory. Most speculative paper i
 
     Paper 6 — Existential topology
     When continuity of being becomes the stake
+
+    Paper 7 — Reconstruction dynamics
+    Why compressed reality becomes specifically rewritten
 
 ---
 
