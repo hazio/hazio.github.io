@@ -268,7 +268,7 @@ Extends first-generation architecture with second-order process: when representa
 # Full architectural stack
 
     Paper 1 — Mechanism
-    How regulation operates
+    How regulation operates and externalizes (REL)
 
     Paper 2 — Dynamics
     Why structures resist change
@@ -287,6 +287,9 @@ Extends first-generation architecture with second-order process: when representa
 
     Paper 7 — Reconstruction dynamics
     Why compressed reality becomes specifically rewritten
+
+    DSF — Dynamic Stability
+    How the system loses and recovers stability under activation
 
 ---
 
@@ -969,3 +972,79 @@ Empirical validation determines whether it becomes science.
 5. **Never use "This is not a metaphor"** — use "proposed as a structural hypothesis" or "provisionally operationalizable"
 6. **Never use "explains"** without hedging in speculative papers — use "may help explain" or "offers one structural interpretation"
 7. **REL = Regulation Externalization Latency ONLY** — never reuse acronym for other constructs
+
+
+---
+
+## 9. Dynamic Stability Framework (DSF) - Second-Generation Measurement Architecture
+
+**Status date:** 2026-06-01
+
+### SRF Two-Layer Architecture Map
+
+```
+Structural Regulation Framework (SRF)
+
+1. Structural Architecture (what the system is)
+   - IRC (holding threshold)
+   - SF (structural flexibility)
+   - Compression Profiles (where resolution reduces)
+   - Self Architecture (what is threatened)
+   - Ontological Regulation (when continuity of being is the stake)
+   - Defensive Reconstruction (why compressed reality becomes rewritten)
+   - Resolution Resistance (why structures persist)
+
+2. Dynamic Stability Architecture (how the system behaves under load)
+   - REL (when externalization occurs)
+   - CT (where resolution breaks)
+   - CC (how resolution breaks)
+   - DSP (Dynamic Stability Profile - the clinical tool)
+   - Ontological Coupling (why specific breaking patterns emerge)
+```
+
+Layer 1 describes architecture. Layer 2 describes dynamics under activation. Together they constitute the full SRF framework.
+
+### Overview
+
+DSF has emerged as the candidate measurement architecture for SRF. It is no longer merely a measurement appendix - it is developing into SRF's dynamic layer: a theory of how psychological systems lose and recover stability.
+
+### Development trajectory
+
+| Phase | Construct | Question |
+|---|---|---|
+| 1 | REL | When does externalization occur? |
+| 2 | CT (Compression Threshold) | Where does resolution break? |
+| 3 | CC (Compression Curve) | How does resolution break? |
+| 4 | Ontological Coupling Hypothesis | Why does this specific breaking pattern emerge? |
+| 5 | Curve Shape Modification | What does real psychological change look like? |
+
+### Core constructs
+
+- **REL:** Temporal latency between activation and externalization (Paper 1, REL paper)
+- **CT:** Activation intensity at which differentiated representation becomes unavailable
+- **CC:** Shape of resolution degradation once compression begins (Linear / Threshold / Stepwise / Catastrophic)
+- **DSP (Dynamic Stability Profile):** REL + CT + CC across signal classes - the first construct that resembles a clinical tool
+
+### Key theoretical developments
+
+**Ontological Coupling Hypothesis:** The probability of catastrophic compression increases as a signal class becomes more tightly coupled to self-continuity and existential significance. Stakes depth determines curve shape.
+
+**Curve Shape Modification as therapeutic mechanism:** Therapy may not primarily change REL or CT. It may change CC shape - from catastrophic to stepwise. This introduces intermediate states (warning signals, intervention points, partial recovery opportunities) into what was previously a discontinuous transition.
+
+**Phase transition interpretation:** Profile B (Hidden Fragility: Long REL + High CT + Catastrophic CC) operates as a phase transition rather than gradual degradation. The system is stable until it is not. No warning. No gradual weakening. This explains "I never would have expected them to collapse."
+
+### Strategic assessment
+
+DSF integrates Papers 1, 4, 5, 6, and 7 into a unified measurement framework. It answers the question Papers 1-7 left open: "How do we know if the theory is true?"
+
+**Critical risk:** DSF now contains five new constructs (REL, CT, CC, DSP, Ontological Coupling) without a single empirical data point. The primary risk is uncontrolled theoretical proliferation without empirical grounding.
+
+**Next required step:** One concrete pilot study. Even minimal: one signal class, one paradigm, N=20. CT measurement in shame-domain using escalating activation. This would establish whether the construct produces measurable, reliable, individual-difference data.
+
+### Documents
+
+- `docs/papers/rel-construct-paper-v1.0.md` - REL formal paper (published)
+- `docs/papers/rmf.md` - Resolution Measurement Framework (conceptual)
+- `docs/papers/resolution-measurement-principles.md` - Four measurement principles
+- `docs/papers/compression-curve-theory.md` - Compression Curve types
+- `docs/papers/dynamic-stability-framework.md` - DSF integrated framework

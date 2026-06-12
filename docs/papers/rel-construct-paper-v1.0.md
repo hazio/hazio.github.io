@@ -309,7 +309,9 @@ REL will predict meaningful outcomes beyond existing constructs:
 
 **H4**: REL will demonstrate within-person variability across contexts, consistent with state-level rather than pure trait-level measurement.
 
-**H5**: REL will predict performance-relevant outcomes beyond relational contexts. Specifically, shorter REL following ambiguous performance feedback will predict higher frequency of supervisor contact, lower autonomous problem-solving, and greater dependence on external validation in occupational settings — beyond what attachment anxiety or urgency predict.
+**H5**: REL will predict performance-relevant outcomes beyond relational contexts. Specifically, shorter REL following ambiguous performance feedback will predict higher frequency of supervisor contact, lower autonomous problem-solving, and greater dependence on external validation in occupational settings - beyond what attachment anxiety or urgency predict.
+
+**H6 (Signal-Class Specificity)**: REL will vary within individuals across signal classes. The same person may show short REL in shame-activated contexts (rapid externalization when shame is triggered) but long REL in status-activated contexts (sustained internal processing when professional competence is questioned). This intra-individual variation will correlate with the individual's compression profile - shorter REL in more severely compressed signal domains.
 
 ## 5.2 The Nonlinearity Hypothesis
 
@@ -352,7 +354,21 @@ This connection is noted briefly rather than developed extensively, because REL'
 
 # 7. Theoretical Context
 
-REL was originally proposed within the Structural Regulation Framework (Halmetoja, 2026), a broader dimensional model of psychological regulation. Within that framework, REL operates as a dynamic process variable reflecting the interaction between internal regulation capacity, structural flexibility, and situational activation.
+REL was originally proposed within the Structural Regulation Framework (Halmetoja, 2026a), a broader dimensional model of psychological regulation. Within that framework, REL operates as a dynamic process variable reflecting the interaction between internal regulation capacity, structural flexibility, and situational activation.
+
+## 7.1 REL Within the Extended SRF Architecture (Papers 1-7)
+
+Since REL's initial formulation, the SRF theory program has expanded to seven papers (Halmetoja, 2026a-g). This expansion has implications for REL's theoretical positioning:
+
+**Paper 4 (Compression Profiles)** introduces signal-class-specific compression - the finding that representational resolution varies across psychologically meaningful signal domains within the same individual. This raises a critical question for REL: is externalization latency uniform across signal classes, or does it vary with compression topology?
+
+The canonical position (Halmetoja, 2026a, Section 13.11) is that REL is defined globally as a first-order approximation. However, the theory program now acknowledges that effective externalization latency likely varies across signal classes. A person may tolerate professional frustration for hours while externalizing shame-related activation within seconds.
+
+**Paper 7 (Defensive Reconstruction)** raises the possibility that compressed domains may produce not merely simplified processing but actively reshaped interpretation of triggering events. For REL, this suggests that future research may need to consider whether very short REL in a compressed domain reflects rapid externalization driven by reconstructed interpretation rather than by the original event itself. This remains speculative and does not affect REL's operational definition or measurement strategy.
+
+**Implication for REL measurement:** Signal-class-specific REL variation is theoretically likely and empirically testable. Whether REL proves to be a single latent variable with signal-class modulation or a family of signal-class-specific latencies remains an open empirical question. The measurement paradigms proposed in Section 4 can be adapted to test this by varying the signal-class content of activation triggers within participants.
+
+## 7.2 Minimal Assumptions
 
 However, REL can be investigated independently of the broader framework. The construct requires only the following minimal assumptions:
 1. Unresolved emotional activation creates regulatory demand
@@ -421,7 +437,15 @@ Combining continuous physiological monitoring (HRV, EDA) with behavioral onset d
 
 Challenges include: physiological markers are imperfect proxies for subjective activation (movement, caffeine, posture confounds), individual differences in reactivity complicate cross-person comparison, and activation detection algorithms require validation. This approach is best pursued after behavioral REL measurement is established.
 
-## 9.6 Beyond Latency: Regulation Externalization Dynamics
+## 9.6 Signal-Class-Specific REL
+
+The SRF theory program (Papers 4 and 7; Halmetoja, 2026d, 2026g) predicts that REL may vary within individuals across signal classes. A critical future direction is testing whether externalization latency is domain-specific:
+
+**Proposed approach:** Administer the Delayed Response Task and Ambiguous Evaluative Feedback paradigm to the same participants, varying the signal-class content of triggers (attachment ambiguity, shame activation, status threat, dependency exposure). If REL varies systematically within individuals across these domains, this supports signal-class-specific REL. If REL is relatively stable across domains within individuals, this supports a global REL parameter.
+
+**Clinical implication:** If REL is signal-class-specific, then a person's "characteristic REL" is not a single number but a profile - potentially mapping onto their compression profile. This would connect REL measurement directly to the broader SRF architecture and enable domain-specific clinical intervention.
+
+## 9.7 Beyond Latency: Regulation Externalization Dynamics
 
 REL as defined in this paper captures one parameter of a potentially richer dynamic system. Future theoretical development may extend toward a broader model of Regulation Externalization Dynamics incorporating:
 
@@ -456,7 +480,11 @@ Gratz, K. L., & Roemer, L. (2004). Multidimensional assessment of emotion regula
 
 Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology*, 2(3), 271–299. https://doi.org/10.1037/1089-2680.2.3.271
 
-Halmetoja, J. (2026). Structural Regulation Framework: A dimensional model of internal regulation capacity, structural flexibility, and externalization dynamics. Zenodo. https://doi.org/10.5281/zenodo.20215822
+Halmetoja, J. (2026a). Structural Regulation Framework: A dimensional model of internal regulation capacity, structural flexibility, and externalization dynamics. Zenodo. https://doi.org/10.5281/zenodo.20215822
+
+Halmetoja, J. (2026d). Compression Profiles: A signal-class architecture of differential psychological resolution. Zenodo. https://doi.org/10.5281/zenodo.20382973
+
+Halmetoja, J. (2026g). Defensive Reconstruction: How compressed architectures rewrite accessible reality. Zenodo. https://doi.org/10.5281/zenodo.20433536
 
 Joiner, T. E., Metalsky, G. I., Katz, J., & Beach, S. R. H. (1999). Depression and excessive reassurance-seeking. *Psychological Inquiry*, 10(3), 269–278. https://doi.org/10.1207/S15327965PLI1004_1
 
